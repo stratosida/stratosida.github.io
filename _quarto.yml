@@ -1,0 +1,29 @@
+project:
+  type: site
+  output-dir: _site
+
+
+execute:
+  freeze: true
+
+site:
+  title: "STRATOS Initial Data Analysis"
+  
+  sidebar:
+    style: "docked"
+    background: light
+    search: true
+    collapse-level: 2
+    tools:
+      - icon: github
+        href: https://github.com/stratosida/
+    contents:
+      - index.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

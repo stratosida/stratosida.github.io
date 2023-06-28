@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About IDA"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "IDA",
     "section": "",
     "text": "Home page of STRATOS topic group on Initial Data Analysis"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About IDA"
   }
 ]

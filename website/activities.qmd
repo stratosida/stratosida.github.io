@@ -78,6 +78,6 @@ BMC Med Res Meth (2020) 20:61. <https://doi.org/10.1186/s12874-020-00942-y>
 
 ### **Supplementary material**
 
-1\. Study protocol for IDA literature review.
+1\. Study protocol for IDA literature review: website/Protocol_IDA20180620.pdf
 
-2\. Design of IDA collection form.
+2\. Design of IDA collection form: website/Collection_Form_20181129.pdf

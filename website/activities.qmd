@@ -1,0 +1,83 @@
+---
+title: "Activities"
+---
+
+## Project: IDA for regression models
+
+### **Project description**
+
+The objective is to provide examples on conducting initial data analysis (IDA) in a reproducible manner in the context of intended regression analyses.
+
+Authors: Georg Heinze, Mark Baillie, Lara Lusa, Carsten O Schmidt, Willi Sauerbrei, Frank E Harrell, Marianne Huebner
+
+This is a joint project between the Topic Groups 2 and 3 of the STRATOS Initiative.
+
+Project status: **ACTIVE**
+
+### **Project outcomes:**
+
+1.  Open access dataset: [bacteremia](https://zenodo.org/records/7554815)
+
+2.  [IDA report with R code](https://stratosida.github.io/regression-regrets/)
+
+3.  IDA plan (check list) for the example(s)
+
+4.  Manuscript with scope of regression model, results, and consequences of IDA for regression
+
+5.  [Preprint](https://assets.researchsquare.com/files/rs-3580334/v1/b6c6d5fd-9a7e-4e81-a06e-9e647a52caf7.pdf)
+
+## Project: IDA for longitudinal data
+
+### **Project description**
+
+The objective is to provide an example of initial data anlysis for longitudinal data.
+
+Lara Lusa, Cecile Proust-Lima, Katherine Lee, Frank Lawrence, Carsten Schmidt, Mark Baillie, Saskia le Cessie, Marianne Huebner,
+
+Project status: **ACTIVE**
+
+### **Project outcomes:**
+
+1.  IDA plan (check list)
+
+2.  [IDA report with R code](https://stratosida.github.io/longitudinal/)
+
+3.  Manuscript with IDA workflow in the example of the SHARE data
+
+4.  [Preprint](https://www.medrxiv.org/content/10.1101/2023.12.05.23299518v1)
+
+### **Supplementary material**
+
+The Survey of Health Ageing and Retirement in Europe (SHARE) consists of data on health and socioeconomic variables of non-institutionalized individuals aged 50 and older across several European countries. The data sets includes about 140 000 men and women, ages 50 or older, collected in years 2004 to 2018. The questionnaires include questions on demographics, health (physical, and mental health, cognitive function, grip strength and behavioral risks), and socio-economic status. <https://share-eric.eu>
+
+**Open Science Framework: R code**
+
+Lusa L, Huebner M. (2021, September 17). Repository with R vignettes to support data organization and analysis for the SHARE study. <https://doi.org/10.17605/OSF.IO/KGTX6>
+
+## Project: Systematic review of IDA reporting
+
+### **Project description**
+
+Our aim was to describe the practice of reporting of initial data analyses in observational studies in five highly ranked medical journals with focus on data cleaning, screening, and reporting of findings which led to a potential change in the analysis plan.
+
+Authors: Marianne Huebner, Werner Vach, Saskia le Cessie, Carsten Oliver Schmidt, Lara Lusa
+
+Project status: **CLOSED**
+
+### **Project outcomes**
+
+1\. Summary of current IDA reporting by location in papers with examples.
+
+2\. Recommendations for reporting practice of IDA in papers
+
+3\. Manuscript:
+
+Hidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses
+
+BMC Med Res Meth (2020) 20:61. <https://doi.org/10.1186/s12874-020-00942-y>
+
+### **Supplementary material**
+
+1\. Study protocol for IDA literature review.
+
+2\. Design of IDA collection form.

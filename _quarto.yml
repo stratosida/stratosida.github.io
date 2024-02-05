@@ -1,14 +1,17 @@
 project:
-  type: site
-  output-dir: _site
+  type: website
+  output-dir: docs
 
 
 execute:
   freeze: true
 
-site:
-  title: "STRATOS Initial Data Analysis"
-  
+website:
+  title: "STRATOS TG3: Initial Data Analysis"
+  site-url: https://stratosida.github.io/
+  description: "Add description"
+  page-navigation: false
+
   sidebar:
     style: "docked"
     background: light
@@ -19,7 +22,11 @@ site:
         href: https://github.com/stratosida/
     contents:
       - index.qmd
-      - about.qmd
+      - members.qmd
+      - papers.qmd
+      - activities.qmd
+      - resources.qmd
+    logo: "assets/stratos-color-transpbackgr.png"
 
 format:
   html:

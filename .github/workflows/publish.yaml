@@ -1,66 +1,25 @@
-name: Render and deploy github pages
-on: 
+on:
+  workflow_dispatch:
   push:
-  pull_request:
+    branches: main
+
+name: Quarto Publish
 
 jobs:
-  render-and-deploy-gh-page:
+  build-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-    - uses: actions/checkout@v2
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-    - name: "Check directory"
-      run: |
-        echo "Listing root"
-        ls -l
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
 
-    - name: "Install Quarto and render"
-      uses: pommevilla/quarto-render@main
-
-    - name: "Check directory"
-      run: |
-        echo "Listing root"
-        ls -l
-
-        echo "Listing site/*:"
-        ls -l _site/*/
-
-        echo "Listing site/*:"
-        ls -l _site/*/*
-    
-    - name: "Quarto check"
-      run: |
-        quarto check
-
-    - name: "List users"
-      run: |
-        cat /etc/passwd
-
-    - name: "Check directory"
-      run: |
-        echo "Listing root"
-        ls -l
-
-        echo "Listing site/*:"
-        ls -l _site/*/
-
-        echo "Listing site/*:"
-        ls -l _site/*/*
-
-    - name: "Deploy to gh-pages"
-      uses: peaceiris/actions-gh-pages@v3
-      if: github.ref == 'refs/heads/main'
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site
-
-    - name: "Check directory"
-      run: |
-        echo "Listing root"
-        ls -l
-
-        echo "Listing site/*:"
-        ls -l _site/*
-
-        echo "Listing site/*/*:"
-        ls -l _site/*/*
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

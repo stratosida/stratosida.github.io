@@ -2,7 +2,7 @@
 title: "Members"
 ---
 
-[Marianne Huebner](https://cstat.msu.edu/people/marianne-huebner-phd-sheher) (chair), Professor of Statistics and Probability at Michigan State University, USA. <https://orcid.org/0000-0002-9694-9231>
+[Marianne Huebner](https://cstat.msu.edu/people/marianne-huebner-phd-sheher) (chair), Professor of Statistics and Probability at Michigan State University, USA. 
 
 Carsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald
 
@@ -18,7 +18,7 @@ Saskia le Cessie, Professor at Leiden University Medical Center, Netherlands
 
 **Mark Baillie** is a statistician supporting the clinical development and analytics department at Novartis. He is a member of the methodology and consulting group, providing strategic and methodological input to various clinical and non-clinical priority projects across the company. He has a focus on effective visual communication working on a number of internal and external initiatives to improve the reporting of clinical trials and exploratory projects.
 
-**Marianne Huebner** is a professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise.
+**Marianne Huebner** is a professor of the Department of Statistics and Probability and Director of the Center for Statistical Training and Consulting at Michigan State University. After receiving a PhD in Applied Mathematics she held positions at UC Berkeley, the Mathematical Sciences Research Institute in Berkeley, the Mayo Clinic, and the University Medical Center in Hamburg, Germany. She develops and applies statistical models motivated by scientific questions. Her research interests include modeling health outcomes, initial data analyses, and sports and exercise. <https://orcid.org/0000-0002-9694-9231>
 
 **Saskia le Cessie** is a statistician with a joint appointment at the Department of Clinical Epidemiology and the Section Medical Statistics, Department of Biomedical Datasciences. She obtained a master in Mathematics (with minor in Computer Sciences) at the University of Utrecht and obtained her PhD in Medical Statistics at the University of Leiden. She is a broadly oriented statistician and involved in several large epidemiological studies of the Department of Clinical Epidemiology. Her research interests are in epidemiological and statistical methods for observational studies, in particular instrumental variable analysis, mediation analysis, competing risks, causal modelling, meta analysis and repeated measurements.
 

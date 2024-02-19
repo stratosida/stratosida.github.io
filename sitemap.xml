@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://stratosida.github.io/about.html</loc>
-    <lastmod>2024-02-05T19:17:10.221Z</lastmod>
-  </url>
-  <url>
     <loc>https://stratosida.github.io/activities.html</loc>
-    <lastmod>2024-02-05T19:17:10.225Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/papers.html</loc>
-    <lastmod>2024-02-05T19:17:10.229Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/index.html</loc>
-    <lastmod>2024-02-05T19:17:10.229Z</lastmod>
+    <lastmod>2024-02-19T13:52:37.299Z</lastmod>
   </url>
   <url>
     <loc>https://stratosida.github.io/resources.html</loc>
-    <lastmod>2024-02-05T19:17:10.229Z</lastmod>
+    <lastmod>2024-02-19T13:52:37.303Z</lastmod>
   </url>
   <url>
     <loc>https://stratosida.github.io/members.html</loc>
-    <lastmod>2024-02-05T19:17:10.229Z</lastmod>
+    <lastmod>2024-02-19T13:52:37.303Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/about.html</loc>
+    <lastmod>2024-02-19T13:52:37.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/index.html</loc>
+    <lastmod>2024-02-19T13:52:37.303Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/papers.html</loc>
+    <lastmod>2024-02-19T13:52:37.303Z</lastmod>
   </url>
 </urlset>

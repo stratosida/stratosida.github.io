@@ -4,13 +4,13 @@ title: "Members"
 
 [Marianne Huebner](https://cstat.msu.edu/people/marianne-huebner-phd-sheher) (chair), Professor of Statistics and Probability at Michigan State University, USA. 
 
+[Lara Lusa](https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/lara.lusa/),(chair) Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia
+
 Carsten Oliver Schmidt (chair), Professor of the Institute of Community Medicine, University Medicine of Greifswald
 
 Mark Baillie, Advanced Methodology and Data Science, Clinical Development and Analytics. Novartis Pharma AG, Basel, Switzerland
 
 Saskia le Cessie, Professor at Leiden University Medical Center, Netherlands
-
-[Lara Lusa](https://www.famnit.upr.si/sl/zaposleni-in-sodelavci/lara.lusa/), Professor at the Faculty of Mathematics, Natural Sciences and Information Technologies of the University of Primorska in Koper, Slovenia
 
 [Michael Schell](https://www.moffitt.org/research-science/researchers/michael-schell/), Moffit Cancer Center, Florida, USA
 
@@ -26,4 +26,4 @@ Saskia le Cessie, Professor at Leiden University Medical Center, Netherlands
 
 **Michael Schell**
 
-**Carsten Oliver Schmidt** is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division "Quality in the Health Sciences". He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings.
+**Carsten Oliver Schmidt** is Professor at the Institute of Community Medicine, University Medicine of Greifswald. He is deputy head of the Department of SHIP/ Clinical-Epidemiological Research and leads the functional division "Quality in the Health Sciences". He is PI of several methods and research quality related projects, and speaker of the methods section of the German Society for Epidemiology. He is responsible for quality management procedures in population based observational health studies, has expertise in data linkage of primary and secondary data including registries, claims data, hospitals, and in the development of research infrastructures. Research topics include research methods, the study of subclinical and clinical disorders, incidental findings. <https://orcid.org/0000-0001-5266-9396>

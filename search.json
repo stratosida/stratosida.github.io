@@ -86,51 +86,51 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Initial Data Analysis",
+    "title": "STRATOS TG3: Initial Data Analysis",
     "section": "",
-    "text": "To improve awareness of Initial Data Analysis (IDA) as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner.",
+    "text": "i— title: “Initial Data Analysis”",
     "crumbs": [
-      "Initial Data Analysis"
+      "title: \"Initial Data Analysis\""
     ]
   },
   {
     "objectID": "index.html#aims",
     "href": "index.html#aims",
-    "title": "Initial Data Analysis",
-    "section": "",
-    "text": "To improve awareness of Initial Data Analysis (IDA) as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner.",
+    "title": "STRATOS TG3: Initial Data Analysis",
+    "section": "Aims",
+    "text": "Aims\nTo improve awareness of Initial Data Analysis (IDA) as an important part of the research process and to provide guidance on conducting IDA in a systematic and reproducible manner.",
     "crumbs": [
-      "Initial Data Analysis"
+      "title: \"Initial Data Analysis\""
     ]
   },
   {
     "objectID": "index.html#key-principle",
     "href": "index.html#key-principle",
-    "title": "Initial Data Analysis",
+    "title": "STRATOS TG3: Initial Data Analysis",
     "section": "Key principle",
     "text": "Key principle\nIDA does not look at associations of covariates with the outcome. The aim is to provide reliable knowledge about the data to ensure transparency and integrity of preconditions to conduct appropriate statistical analyses and correct interpretation of the results to answer pre-defined research questions.",
     "crumbs": [
-      "Initial Data Analysis"
+      "title: \"Initial Data Analysis\""
     ]
   },
   {
-    "objectID": "index.html#ida-framework",
-    "href": "index.html#ida-framework",
-    "title": "Initial Data Analysis",
-    "section": "IDA Framework",
-    "text": "IDA Framework\nInitial Data Analysis (IDA) consists of all steps performed on the data of a study typically between the end of the data collection/entry and start of those statistical analyses that address research questions. A systematic plan of IDA activities (IDAP) should be incoporated in the statistical analysis plan (SAP). Ideally, IDA should already be performed during ongoing data collections to detect and deal with data issues as early as possible.",
+    "objectID": "index.html#definition-and-ida-framework",
+    "href": "index.html#definition-and-ida-framework",
+    "title": "STRATOS TG3: Initial Data Analysis",
+    "section": "Definition and IDA Framework",
+    "text": "Definition and IDA Framework\nInitial Data Analysis (IDA) consists of all steps performed on the data of a study typically between the end of the data collection/entry and start of those statistical analyses that address research questions. A systematic plan of IDA activities (IDAP) should be incoporated in the statistical analysis plan (SAP). Ideally, IDA should already be performed during ongoing data collections to detect and deal with data issues as early as possible.",
     "crumbs": [
-      "Initial Data Analysis"
+      "title: \"Initial Data Analysis\""
     ]
   },
   {
     "objectID": "index.html#stratos-initiative",
     "href": "index.html#stratos-initiative",
-    "title": "Initial Data Analysis",
+    "title": "STRATOS TG3: Initial Data Analysis",
     "section": "STRATOS Initiative",
     "text": "STRATOS Initiative\nTopic group 3 is a member of the STRATOS Initiative (STRengthening Analytical Thinking for Observational Studies) which is a large collaboration of experts in many different areas of biostatistical research. Ongoing research, discussions and activities within STRATOS are conducted in nine topic groups and several cross-cutting panels.\n\n\n\nConference BIRS 2016",
     "crumbs": [
-      "Initial Data Analysis"
+      "title: \"Initial Data Analysis\""
     ]
   },
   {

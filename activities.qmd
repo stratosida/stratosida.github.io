@@ -12,7 +12,7 @@ Authors: Georg Heinze, Mark Baillie, Lara Lusa, Carsten O Schmidt, Willi Sauerbr
 
 This is a joint project between the Topic Groups 2 and 3 of the STRATOS Initiative.
 
-Project status: **ACTIVE**
+Project status: **ACTIVE, paper submitted**
 
 ### **Project outcomes:**
 
@@ -34,7 +34,7 @@ The objective is to provide an example of initial data anlysis for longitudinal 
 
 Lara Lusa, Cecile Proust-Lima, Katherine Lee, Frank Lawrence, Carsten Schmidt, Mark Baillie, Saskia le Cessie, Marianne Huebner,
 
-Project status: **ACTIVE**
+Project status: **ACTIVE, paper submitted**
 
 ### **Project outcomes:**
 
@@ -62,7 +62,7 @@ Our aim was to describe the practice of reporting of initial data analyses in ob
 
 Authors: Marianne Huebner, Werner Vach, Saskia le Cessie, Carsten Oliver Schmidt, Lara Lusa
 
-Project status: **CLOSED**
+Project status: **CLOSED, paper published**
 
 ### **Project outcomes**
 

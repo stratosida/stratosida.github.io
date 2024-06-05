@@ -38,11 +38,12 @@ Project status: **CLOSED, paper published**
 
 ### **Project outcomes:**
 
-1.\  IDA plan [check list](https://cstat.msu.edu/sites/default/files/2024-06/IDAchecklist_long.pdf)
+1.\  IDA plan [check list](https://stratosida.github.io/assets/IDAchecklist_long.pdf)
 
 2.\  [IDA report with R code](https://stratosida.github.io/longitudinal/)
 
 3.\  Manuscript with IDA workflow in the example of the SHARE data:
+
 Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. [doi: 10.1371/journal.pone.0295726](https://doi.org/10.1371/journal.pone.0295726)
 
 

@@ -38,7 +38,7 @@ Project status: **CLOSED, paper published**
 
 ### **Project outcomes:**
 
-1.\  IDA plan [check list](https://stratosida.github.io/assets/IDAchecklist_long.pdf)
+1.\  IDA plan [check list](assets/IDAchecklist_long.pdf)
 
 2.\  [IDA report with R code](https://stratosida.github.io/longitudinal/)
 

@@ -10,15 +10,19 @@ Baillie M, le Cessie S, Schmidt CO, Lusa L, Huebner M. Ten simple rules for init
 
 Huebner M, le Cessie S, Schmidt CO, Vach W . A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192. <https://doi.org/10.1353/obs.2018.0014>
 
-*3. This is a look at reporting practices and recommendations for more transparency.*
+*3. IDA check list for longitidual studies with example and code:*
+
+Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. <https://doi.org/10.1371/journal.pone.0295726>
+
+*4. This is a look at reporting practices and recommendations for more transparency.*
 
 Huebner M, Vach W, le Cessie S, Schmidt C, Lusa L. Hidden Analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses. BMC Med Res Meth 2020; 20:61. <https://doi.org/10.1186/s12874-020-00942-y>
 
-*4. Our first attempt at explaining initial data analysis aimed at a clinical audience. This is superseded by the framework paper \[2\].*
+*5. Our first attempt at explaining initial data analysis aimed at a clinical audience. This is superseded by the framework paper \[2\].*
 
 Huebner M, Vach W, le Cessie S. A systematic approach to initial data analysis is good research practice. J Thoracic Cardiovas S. 2016; 151(1): 25-27. [Link](https://www.google.com/url?q=https%3A%2F%2Fwww.jtcvs.org%2Farticle%2FS0022-5223%2815%2901794-8%2Fpdf&sa=D&sntz=1&usg=AOvVaw1nfle1UGmUgJMRaITfCUEU)
 
-*5. A short introduction of aims and activities of our topic group :*
+*6. A short introduction of aims and activities of our topic group :*
 
 -   *Initial:* Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11.
 

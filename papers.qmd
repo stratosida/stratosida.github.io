@@ -10,7 +10,7 @@ Baillie M, le Cessie S, Schmidt CO, Lusa L, Huebner M. Ten simple rules for init
 
 Huebner M, le Cessie S, Schmidt CO, Vach W . A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192. <https://doi.org/10.1353/obs.2018.0014>
 
-*3. IDA check list for longitidual studies with example and code:*
+*3. IDA check list for longitudinal studies with example and code:*
 
 Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. <https://doi.org/10.1371/journal.pone.0295726>
 

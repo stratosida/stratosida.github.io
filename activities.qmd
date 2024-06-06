@@ -21,9 +21,9 @@ Glossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data scre
 
 ### **Project description**
 
-The objective is to provide an engaging application using characters from the Pokémon franchise, using a multivariable linear regression model to address the research question aimed at evaluating the association between Pokémon species weight and other characteristics.
+The objective is to provide an engaging application from itial data analysis to regression models using characters from the Pokémon franchise to address the research question aimed at evaluating the association between Pokémon species weight and other characteristics.
 
-This example provides flexibility for instructors to adapt modules and integrate into their teaching materials or assignments to discuss different aspects. It can also be incorporated into workshops or seminars, and is suitable for students with a basic knowledge about linear regression. Depending on the type of classes, the instructor can emphasize content, namely learning which explorations are meaningful and how to interpret the results, or practice, namely learning how to implement them in a statistical software or in a programming language, or statistical modelling strategies, model evaluation and interpretation, or rigor and reproducibility in planning and executing studies. 
+This example provides flexibility for instructors (courses, workshops, seminars, modules) to integrate into their teaching materials or assignments.  Depending on the type of classes, the instructor can emphasize different aspects, for example data descriptions, learning which explorations are meaningful and how to interpret the results, univariable or multivariable regression modeling strategies, learning coding in R, or rigor and reproducibility in planning and executing studies. 
 
 Lead: Lara Lusa
 
@@ -37,7 +37,9 @@ Project status: **ACTIVE**
 
 3.\ R code for initial data analysis and for regression models
 
-4.\ Statistical analysi plan for the hypothetical research question for analyzing the Pokemon data
+4.\ Statistical analysis plan for this example
+
+5.\ Diskussion questions or tasks for the students
 
 
 

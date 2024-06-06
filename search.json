@@ -44,37 +44,57 @@
     "href": "activities.html",
     "title": "Activities",
     "section": "",
-    "text": "The objective is to provide examples on conducting initial data analysis (IDA) in a reproducible manner in the context of intended regression analyses.\nAuthors: Georg Heinze, Mark Baillie, Lara Lusa, Carsten O Schmidt, Willi Sauerbrei, Frank E Harrell, Marianne Huebner\nThis is a joint project between the Topic Groups 2 and 3 of the STRATOS Initiative.\nProject status: ACTIVE, paper submitted\n\n\n\n\nOpen access dataset: bacteremia\nIDA report with R code\nIDA plan (check list) for the example(s)\nManuscript with scope of regression model, results, and consequences of IDA for regression\nPreprint",
+    "text": "The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.\nAuthors: All TG3 members\nProject status: NEW\n\n\n\nGlossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality,",
     "crumbs": [
       "Activities"
     ]
   },
   {
-    "objectID": "activities.html#project-ida-for-regression-models",
-    "href": "activities.html#project-ida-for-regression-models",
+    "objectID": "activities.html#ida-glossary",
+    "href": "activities.html#ida-glossary",
     "title": "Activities",
     "section": "",
-    "text": "The objective is to provide examples on conducting initial data analysis (IDA) in a reproducible manner in the context of intended regression analyses.\nAuthors: Georg Heinze, Mark Baillie, Lara Lusa, Carsten O Schmidt, Willi Sauerbrei, Frank E Harrell, Marianne Huebner\nThis is a joint project between the Topic Groups 2 and 3 of the STRATOS Initiative.\nProject status: ACTIVE, paper submitted\n\n\n\n\nOpen access dataset: bacteremia\nIDA report with R code\nIDA plan (check list) for the example(s)\nManuscript with scope of regression model, results, and consequences of IDA for regression\nPreprint",
+    "text": "The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.\nAuthors: All TG3 members\nProject status: NEW\n\n\n\nGlossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality,",
     "crumbs": [
       "Activities"
     ]
   },
   {
-    "objectID": "activities.html#project-ida-for-longitudinal-data",
-    "href": "activities.html#project-ida-for-longitudinal-data",
+    "objectID": "activities.html#incorporating-ida-in-courses-on-statistics",
+    "href": "activities.html#incorporating-ida-in-courses-on-statistics",
     "title": "Activities",
-    "section": "Project: IDA for longitudinal data",
-    "text": "Project: IDA for longitudinal data\n\nProject description\nThe objective is to provide an example of initial data anlysis for longitudinal data.\nAuthors: Lara Lusa, Cecile Proust-Lima, Katherine Lee, Frank Lawrence, Carsten Schmidt, Mark Baillie, Saskia le Cessie, Marianne Huebner\nProject status: CLOSED, paper published\n\n\nProject outcomes:\n1.  IDA plan check list\n2.  IDA report with R code\n3.  Manuscript with IDA workflow in the example of the SHARE data:\nLusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. doi: 10.1371/journal.pone.0295726\n\n\nSupplementary material\nThe Survey of Health Ageing and Retirement in Europe (SHARE) consists of data on health and socioeconomic variables of non-institutionalized individuals aged 50 and older across several European countries. The data sets includes about 140 000 men and women, ages 50 or older, collected in years 2004 to 2018. The questionnaires include questions on demographics, health (physical, and mental health, cognitive function, grip strength and behavioral risks), and socio-economic status. https://share-eric.eu\nOpen Science Framework: R code\nLusa L, Huebner M. (2021, September 17). Repository with R vignettes to support data organization and analysis for the SHARE study. https://doi.org/10.17605/OSF.IO/KGTX6",
+    "section": "Incorporating IDA in courses on statistics",
+    "text": "Incorporating IDA in courses on statistics\n\nProject description\nThe objective is to provide an engaging application using characters from the Pokémon franchise, using a multivariable linear regression model to address the research question aimed at evaluating the association between Pokémon species weight and other characteristics.\nLead: Lara Lusa\nProject status: ACTIVE\n\n\nProject outcomes:\n1. Manuscript for a journal with a “Teaching corner”\n2. Curated Pokemon data set for open access\n3. R code for initial data analysis and for regression models\n4. Statistical analysi plan for the hypothetical research question for analyzing the Pokemon data",
     "crumbs": [
       "Activities"
     ]
   },
   {
-    "objectID": "activities.html#project-systematic-review-of-ida-reporting",
-    "href": "activities.html#project-systematic-review-of-ida-reporting",
+    "objectID": "activities.html#ida-for-regression-models",
+    "href": "activities.html#ida-for-regression-models",
     "title": "Activities",
-    "section": "Project: Systematic review of IDA reporting",
-    "text": "Project: Systematic review of IDA reporting\n\nProject description\nOur aim was to describe the practice of reporting of initial data analyses in observational studies in five highly ranked medical journals with focus on data cleaning, screening, and reporting of findings which led to a potential change in the analysis plan.\nAuthors: Marianne Huebner, Werner Vach, Saskia le Cessie, Carsten Oliver Schmidt, Lara Lusa\nProject status: CLOSED, paper published\n\n\nProject outcomes\n1. Summary of current IDA reporting by location in papers with examples.\n2. Recommendations for reporting practice of IDA in papers\n3. Manuscript:\nHidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses\nBMC Med Res Meth (2020) 20:61. https://doi.org/10.1186/s12874-020-00942-y\n\n\nSupplementary material\nIn the assets folder\n1. Study protocol for IDA literature review: Protocol_IDA20180620.pdf\n2. Design of IDA collection form: Collection_Form_20181129.pdf",
+    "section": "IDA for regression models",
+    "text": "IDA for regression models\n\nProject description\nThe objective is to provide examples on conducting initial data analysis (IDA) in a reproducible manner in the context of intended regression analyses.\nAuthors: Georg Heinze, Mark Baillie, Lara Lusa, Carsten O Schmidt, Willi Sauerbrei, Frank E Harrell, Marianne Huebner\nThis is a joint project between the Topic Groups 2 and 3 of the STRATOS Initiative.\nProject status: ACTIVE, paper submitted\n\n\nProject outcomes:\n\nOpen access dataset: bacteremia\nIDA report with R code\nIDA plan (check list) for the example(s)\nManuscript with scope of regression model, results, and consequences of IDA for regression\nPreprint",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#ida-for-longitudinal-data",
+    "href": "activities.html#ida-for-longitudinal-data",
+    "title": "Activities",
+    "section": "IDA for longitudinal data",
+    "text": "IDA for longitudinal data\n\nProject description\nThe objective is to provide an example of initial data anlysis for longitudinal data.\nAuthors: Lara Lusa, Cecile Proust-Lima, Katherine Lee, Frank Lawrence, Carsten Schmidt, Mark Baillie, Saskia le Cessie, Marianne Huebner\nProject status: CLOSED, paper published\n\n\nProject outcomes:\n1.  IDA plan check list\n2.  IDA report with R code\n3.  Manuscript with IDA workflow in the example of the SHARE data:\nLusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M; TG3 of the STRATOS Initiative. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. doi: 10.1371/journal.pone.0295726\n\n\nSupplementary material\nThe Survey of Health Ageing and Retirement in Europe (SHARE) consists of data on health and socioeconomic variables of non-institutionalized individuals aged 50 and older across several European countries. The data sets includes about 140 000 men and women, ages 50 or older, collected in years 2004 to 2018. The questionnaires include questions on demographics, health (physical, and mental health, cognitive function, grip strength and behavioral risks), and socio-economic status. https://share-eric.eu\nOpen Science Framework: R code\nLusa L, Huebner M. (2021, September 17). Repository with R vignettes to support data organization and analysis for the SHARE study. https://doi.org/10.17605/OSF.IO/KGTX6",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#systematic-review-of-ida-reporting",
+    "href": "activities.html#systematic-review-of-ida-reporting",
+    "title": "Activities",
+    "section": "Systematic review of IDA reporting",
+    "text": "Systematic review of IDA reporting\n\nProject description\nOur aim was to describe the practice of reporting of initial data analyses in observational studies in five highly ranked medical journals with focus on data cleaning, screening, and reporting of findings which led to a potential change in the analysis plan.\nAuthors: Marianne Huebner, Werner Vach, Saskia le Cessie, Carsten Oliver Schmidt, Lara Lusa\nProject status: CLOSED, paper published\n\n\nProject outcomes\n1. Summary of current IDA reporting by location in papers with examples.\n2. Recommendations for reporting practice of IDA in papers\n3. Manuscript:\nHidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses\nBMC Med Res Meth (2020) 20:61. https://doi.org/10.1186/s12874-020-00942-y\n\n\nSupplementary material\nIn the assets folder\n1. Study protocol for IDA literature review: Protocol_IDA20180620.pdf\n2. Design of IDA collection form: Collection_Form_20181129.pdf",
     "crumbs": [
       "Activities"
     ]

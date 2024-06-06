@@ -23,6 +23,8 @@ Glossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data scre
 
 The objective is to provide an engaging application using characters from the Pokémon franchise, using a multivariable linear regression model to address the research question aimed at evaluating the association between Pokémon species weight and other characteristics.
 
+This example provides flexibility for instructors to adapt modules and integrate into their teaching materials or assignments to discuss different aspects. It can also be incorporated into workshops or seminars, and is suitable for students with a basic knowledge about linear regression. Depending on the type of classes, the instructor can emphasize content, namely learning which explorations are meaningful and how to interpret the results, or practice, namely learning how to implement them in a statistical software or in a programming language, or statistical modelling strategies, model evaluation and interpretation, or rigor and reproducibility in planning and executing studies. 
+
 Lead: Lara Lusa
 
 Project status: **ACTIVE**

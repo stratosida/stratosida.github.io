@@ -2,7 +2,45 @@
 title: "Activities"
 ---
 
-## Project: IDA for regression models
+## IDA glossary
+
+### **Project description**
+
+The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.
+
+Authors: All TG3 members
+
+Project status: **NEW**
+
+### **Project outcomes:**
+
+Glossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality, 
+
+
+## Incorporating IDA in courses on statistics
+
+### **Project description**
+
+The objective is to provide an engaging application using characters from the Pokémon franchise, using a multivariable linear regression model to address the research question aimed at evaluating the association between Pokémon species weight and other characteristics.
+
+Lead: Lara Lusa
+
+Project status: **ACTIVE**
+
+### **Project outcomes:**
+
+1.\ Manuscript for a journal with a "Teaching corner"
+
+2.\ Curated Pokemon data set for open access
+
+3.\ R code for initial data analysis and for regression models
+
+4.\ Statistical analysi plan for the hypothetical research question for analyzing the Pokemon data
+
+
+
+
+## IDA for regression models
 
 ### **Project description**
 
@@ -26,7 +64,8 @@ Project status: **ACTIVE, paper submitted**
 
 5.  [Preprint](https://assets.researchsquare.com/files/rs-3580334/v1/b6c6d5fd-9a7e-4e81-a06e-9e647a52caf7.pdf)
 
-## Project: IDA for longitudinal data
+
+## IDA for longitudinal data
 
 ### **Project description**
 
@@ -55,7 +94,7 @@ The Survey of Health Ageing and Retirement in Europe (SHARE) consists of data on
 
 Lusa L, Huebner M. (2021, September 17). Repository with R vignettes to support data organization and analysis for the SHARE study. <https://doi.org/10.17605/OSF.IO/KGTX6>
 
-## Project: Systematic review of IDA reporting
+## Systematic review of IDA reporting
 
 ### **Project description**
 

@@ -52,6 +52,12 @@ Data cleaning is the process of identifying and correcting data that are ina
 
 ### Data screening
 
+Data screening consists of reviewing and documenting the properties and quality of the data that may affect future analysis and interpretation.
+
+**Source:** Huebner M, le Cessie S, Schmidt CO, Vach W. A contemporary conceptual framework for initial data analysis. Observational Studies 2018; 4: 171-192. 
+
+[Link](https://doi.org/10.1353/obs.2018.0014)
+
 ### Structural variables
 
 Structural variables are variables that help to structure initial data analysis results for a clear organization and essential overview of data properties. Structuring can be based on levels of measurement (centers), on calendar time of recruitment, on demographic variables such as sex or age, or on variables of central importance to the research questions. Structural variables may or may not be included as predictors in the statistical models. 
@@ -68,7 +74,10 @@ A statistical analysis plan is a document that contains a more technical and det
 
 ### Initial Data Analysis Plan (IDAP)
 
+An IDA plan is focused on data screening to prepare for statistical analyses; it does not specify procedures or software packages to conduct the analyses. It can be
+understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariate and multivariate descriptions.
 
+**Source:** [Regression without regrets paper - to appear;  and Lusa et al doi: 10.1371/journal.pone.0295726.
 
 ### Data provenance 
 
@@ -94,9 +103,9 @@ Data quality is the degree to which a set of characteristics of data fulfils req
 
 **Source:** ISO 9000:2015, 3.6.2  and  ISO 9000:2015, 3.6.4
 
-[Link](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
+[Link1](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
  
-[Link](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
+[Link2](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
  
  
 ### Metadata 
@@ -109,6 +118,8 @@ data defining and describing other data
 
 
 ### Data dictionary
+
+to be added
 
 
 

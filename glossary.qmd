@@ -12,7 +12,7 @@ and the statistical analysis plan and does not include hypothesis generating act
 **Source:** Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11
 
 [Link](https://www.stratos-initiative.org/sites/default/files/2021-11/STRATOS-TG3-BB-initial-data-analysis.pdf) 
-<https://www.stratos-initiative.org/sites/default/files/2021-11/STRATOS-TG3-BB-initial-data-analysis.pdf>
+
 
 ### Exploratory Data Analysis
 
@@ -35,5 +35,21 @@ A statistical analysis plan is a document that contains a more technical and det
 
 **Source:** International Council for Harmonisation (ICH E9). ICH: E 9: Statistical principles for clinical trials - Step 5. Glossary p. 37 
 
-[Link] (https://www.ema.europa.eu/en/ich-e9-statistical-principles-clinical-trials-scientific-guideline)  
+[Link](https://www.ema.europa.eu/en/ich-e9-statistical-principles-clinical-trials-scientific-guideline)  
+
+
+### Data wrangling
+
+Data Wrangling is a broad term referring to the processes involved when preparing data for analysis. It can include acquiring data, enriching, changing the format and shape of the data, combining, subsetting and sampling data, and cleaning data. Some common steps involved with Data Wrangling are: 
+
+* Discovering and gathering the data needed 
+* Merging data from different sources, if necessary  
+* Fixing flaws in the data entries  
+* Extracting the necessary data and put it in the proper structure  
+* Storing it in the proper format for further use 
+
+**Source:** National Library of Medicine
+
+[Link](https://www.nnlm.gov/guides/data-glossary/data-wrangling) 
+
 

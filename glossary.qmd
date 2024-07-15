@@ -122,7 +122,9 @@ A data dictionary is a document that outlines the structure, content, and meanin
 
 **Source:** National Library of Medicine
 
-[Link](https://www.nnlm.gov/guides/data-glossary/data-dictionary)  
+[Link-NLM](https://www.nnlm.gov/guides/data-glossary/data-dictionary) 
+
+[Link-USGS](https://www.usgs.gov/data-management/data-dictionaries)
  
 
 ### Data quality

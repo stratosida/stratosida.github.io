@@ -118,7 +118,11 @@ data defining and describing other data
 
 ### Data dictionary
 
-to be added
+A data dictionary is a document that outlines the structure, content, and meaning of a given variable. This includes what type of data is being collected (e.g. free text, numerical, categorical or group data), the full wording of a question, what values are allowable (e.g. numeric ranges, multiple choice codes), and what those values mean (e.g. 0 = no high blood pressure diagnosis, 1 = borderline high blood pressure, 2 = high blood pressure). A data dictionary is a critical tool for data analysis and reproducibility.
+
+**Source:** National Library of Medicine
+
+[Link](https://www.nnlm.gov/guides/data-glossary/data-dictionary)  
  
 
 ### Data quality

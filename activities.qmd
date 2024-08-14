@@ -54,19 +54,19 @@ Authors: Georg Heinze, Mark Baillie, Lara Lusa, Carsten O Schmidt, Willi Sauerbr
 
 This is a joint project between the Topic Groups 2 and 3 of the STRATOS Initiative.
 
-Project status: **ACTIVE, paper submitted**
+Project status: **CLOSED, paper published**
 
 ### **Project outcomes:**
 
-1.  Open access dataset: [bacteremia](https://zenodo.org/records/7554815)
+1.\  Open access dataset: [bacteremia](https://zenodo.org/records/7554815)
 
-2.  [IDA report with R code](https://stratosida.github.io/regression-regrets/)
+2.\  [IDA report with R code](https://stratosida.github.io/regression-regrets/)
 
-3.  IDA plan (check list) for the example(s)
+3.\  IDA plan (check list) for the example(s) (in the paper)
 
-4.  Manuscript with scope of regression model, results, and consequences of IDA for regression
+4.\  [Paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02294-3)  with scope of regression model, results, and consequences of IDA for regression:
 
-5.  [Preprint](https://assets.researchsquare.com/files/rs-3580334/v1/b6c6d5fd-9a7e-4e81-a06e-9e647a52caf7.pdf)
+Heinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M; TG2 and TG3 of the STRATOS initiative. Regression without regrets -initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol. 2024 Aug 8;24(1):178. [doi: 10.1186/s12874-024-02294-3](https://doi.org/10.1186/s12874-024-02294-3)
 
 
 ## IDA for longitudinal data

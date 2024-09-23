@@ -15,13 +15,13 @@ Huebner M, le Cessie S, Schmidt CO, Vach W . A contemporary conceptual framework
 
 Heinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M; TG2 and TG3 of the STRATOS initiative. Regression without regrets -initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol. 2024 Aug 8;24(1):178. <https://doi.org/10.1186/s12874-024-02294-3>
 
-IDA checklist for cross-sectional studies: <https://stratosida.github.io/assets/IDAchecklist_cross.pdf>
+IDA checklist for cross-sectional studies: [Link](assets/IDAchecklist_cross.pdf)
 
 *4. IDA check list for longitudinal studies with example and code:*
 
 Lusa L, Proust-Lima C, Schmidt CO, Lee KJ, le Cessie S, Baillie M, Lawrence F, Huebner M. Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. PLoS One. 2024 May 29;19(5):e0295726. <https://doi.org/10.1371/journal.pone.0295726>
 
-IDA checklist for longitudinal studies: <https://stratosida.github.io/assets/IDAchecklist_long.pdf>
+IDA checklist for longitudinal studies: [Link](https://stratosida.github.io/assets/IDAchecklist_long.pdf)
 
 *5. This is a look at reporting practices and recommendations for more transparency.*
 

@@ -42,7 +42,7 @@ A statistical analysis plan is a document that contains a more technical and det
 ### Initial Data Analysis Plan (IDAP)
 
 An IDA plan is focused on data screening to prepare for statistical analyses; it does not specify procedures or software packages to conduct the analyses. It can be
-understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariate and multivariate descriptions.
+understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariable and multivariable descriptions.
 
 **Source:** [Heinze et al https://doi.org/10.1186/s12874-024-02294-3;  Lusa et al https://doi.org/10.1371/journal.pone.0295726
 

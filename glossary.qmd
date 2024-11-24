@@ -44,7 +44,7 @@ A statistical analysis plan is a document that contains a more technical and det
 An IDA plan is focused on data screening to prepare for statistical analyses; it does not specify procedures or software packages to conduct the analyses. It can be
 understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariate and multivariate descriptions.
 
-**Source:** [Regression without regrets paper - to appear;  and Lusa et al doi: 10.1371/journal.pone.0295726.
+**Source:** [Heinze et al https://doi.org/10.1186/s12874-024-02294-3;  Lusa et al https://doi.org/10.1371/journal.pone.0295726
 
 
 
@@ -84,7 +84,7 @@ Data screening consists of reviewing and documenting the properties and quality 
 
 Structural variables are variables that help to structure initial data analysis results for a clear organization and essential overview of data properties. Structuring can be based on levels of measurement (centers), on calendar time of recruitment, on demographic variables such as sex or age, or on variables of central importance to the research questions. Structural variables may or may not be included as predictors in the statistical models. 
 
-**Source:** [Regression without regrets paper - to appear] 
+**Source:** [Heinze et al https://doi.org/10.1186/s12874-024-02294-3] 
 
 
 ## Data and related terms

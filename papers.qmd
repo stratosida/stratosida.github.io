@@ -31,11 +31,16 @@ Huebner M, Vach W, le Cessie S, Schmidt C, Lusa L. Hidden Analyses: a review of 
 
 Huebner M, Vach W, le Cessie S. A systematic approach to initial data analysis is good research practice. J Thoracic Cardiovas S. 2016; 151(1): 25-27. [Link](https://www.google.com/url?q=https%3A%2F%2Fwww.jtcvs.org%2Farticle%2FS0022-5223%2815%2901794-8%2Fpdf&sa=D&sntz=1&usg=AOvVaw1nfle1UGmUgJMRaITfCUEU)
 
-*7. A short introduction of aims and activities of our topic group :*
+*7. Short introductions of activities of our topic group :*
 
 -   *Initial:* Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11.
 
 -   *Update:* Le Cessie S, Schmidt CO, Lusa L, Baillie M, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2021; 38 (3): 10-11.
+
+-   *Data quality:* Schmidt CO, Heinze G, Lusa L, Huebner M. STRengthening Analytical Thinking for Observational Studies (STRATOS): On the importance of data quality assessment and initial data analysis. Biometric Bulletin 2022; 39 (4): 14-15.
+
+-   *Glossary:* Boeker M, Tippmann P, Day S, Huebner M, Sauerbrei W on behalf of the Glossary Panel: STRengthening Analytical Thinking for Observational Studies (STATOS): Defining common meaning for statistical Terms. Biometrical Bulletin; 37(4): 13-14.  
+
 
 ## **Related Publications. Collaborations with TG3 members**
 

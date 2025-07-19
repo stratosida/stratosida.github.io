@@ -2,9 +2,13 @@
 title: "Glossary"
 ---
 
-## Initial data analysis framework
+## Data analysis
 
-### Initial Data Analysis
+### Main data analysis (MDA)
+
+Statistical approaches and methods to address research objectives. 
+
+### Initial Data Analysis (IDA)
 
 IDA is a systematic process to provide reliable knowledge about the data to determine the suitability of the data for the main data analysis. IDA is aligned with the research aims and the main data analysis and does not include hypothesis generating activities, testing hypotheses, or assessing associations of predictors and outcomes 
  
@@ -90,6 +94,7 @@ Structural variables are variables that help to structure initial data analysis 
 
 **Source:** [Heinze et al https://doi.org/10.1186/s12874-024-02294-3] 
 
+
 ## Analysis related terms
 
 ### Analysis project
@@ -136,7 +141,6 @@ logically meaningful grouping of data
  **Source:**
 
 [Link](https://www.iso.org/obp/ui/#iso:std:iso:8000:-2:ed-2:v1:en)
-
 
 
 ### Metadata 

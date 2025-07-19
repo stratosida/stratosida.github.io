@@ -6,10 +6,10 @@ title: "Glossary"
 
 ### Initial Data Analysis
 
-The main aim of IDA is seen in providing reliable knowledge about the data to enable responsible statistical analyses and interpretation. 
+IDA is a systematic process to provide reliable knowledge about the data to determine the suitability of the data for the main data analysis. IDA is aligned with the research aims and the main data analysis and does not include hypothesis generating activities, testing hypotheses, or assessing associations of predictors and outcomes 
+ 
 IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; 
-(5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. IDA is aligned with the research aims 
-and the statistical analysis plan and does not include hypothesis generating activities.  
+(5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. 
  
 **Source:** Schmidt CO, Vach W, le Cessie S, Huebner M. STRATOS: Introducing the Initial Data Analysis Topic Group (TG3). Biometric Bulletin 2018; 35 (2): 10-11
 
@@ -50,6 +50,10 @@ understood as a minimum basic set of analyses that can be extended depending on 
 
 ## Elements of initial data analysis
 
+### Data processing
+
+Data processing refers to processes involved in preparing data for an analysis project. It may involve acquiring, integrating, enriching, transforming, standardizing, checking, cleaning, formatting or structuring, or sampling data. Two phases may be distinguished, data pre-processing are activities before the analyst receives the data, and data processing are activities to prepare an analysis ready dataset by the analyst.
+
 ### Data wrangling
 
 Data Wrangling is a broad term referring to the processes involved when preparing data for analysis. It can include acquiring data, enriching, changing the format and shape of the data, combining, subsetting and sampling data, and cleaning data. Some common steps involved with Data Wrangling are: 
@@ -85,6 +89,34 @@ Data screening consists of reviewing and documenting the properties and quality 
 Structural variables are variables that help to structure initial data analysis results for a clear organization and essential overview of data properties. Structuring can be based on levels of measurement (centers), on calendar time of recruitment, on demographic variables such as sex or age, or on variables of central importance to the research questions. Structural variables may or may not be included as predictors in the statistical models. 
 
 **Source:** [Heinze et al https://doi.org/10.1186/s12874-024-02294-3] 
+
+## Analysis related terms
+
+### Analysis project
+
+Analysis project refers to a systematic and organized data analysis conducted to address one or more research objectives. 
+
+### Target population
+
+Population of interest for which conclusions are to be drawn. For example, health care context, geographic location, age, sex, specific disease(s) to which the results of the research project apply
+
+### Observation unit
+
+Entity on which information is collected which is compiled in statistical analyses.
+
+### Observation windows
+
+Time interval when data are collected on observation units, for example baseline, ascertainment, rolling, or follow-up time intervals.
+
+### Index date
+
+Index date, sometimes referred to as time origin or time zero, is the date that anchors baseline and follow-up windows for observation units. For example, date of diagnosis or date of treatment initiation.
+
+### Analysis outputs 
+
+Any tables, documents, or files resulting from the analysis, e.g., code files IDA report, MDA report, analysis dataset, data quality report
+
+
 
 
 ## Data and related terms

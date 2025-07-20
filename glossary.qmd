@@ -10,7 +10,7 @@ Statistical approaches and methods to address research objectives.
 
 ### Initial Data Analysis (IDA)
 
-IDA is a systematic process to provide reliable knowledge about the data to determine the suitability of the data for the main data analysis. IDA is aligned with the research aims and the main data analysis and does not include hypothesis generating activities, testing hypotheses, or assessing associations of predictors and outcomes 
+IDA is a systematic process to provide reliable knowledge about the data to determine the suitability of the data for the main data analysis. IDA is aligned with the research aims and the main data analysis and does not include hypothesis generating activities or assessing associations of predictors and outcomes 
  
 IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; 
 (5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. 

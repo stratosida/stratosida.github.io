@@ -178,7 +178,17 @@
     "href": "activities.html",
     "title": "Activities",
     "section": "",
-    "text": "The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.\nAuthors: All TG3 members\nProject status: NEW\n\n\n\nGlossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality,",
+    "text": "The objective is to develop a checklist for a statistical analysis plan (SAP) for observational studies that accounts for initial data analysis and records deviations from initial plans in one document.\nAuthors: STRATOS wide initiative with authors from several TGs\nProject status: ACTIVE\n\n\n\n1.  SAPI checklist and expanded checklist\n2.  SAPI statement paper\n3.  Explanation & Elaboration paper\n4.  Documentation of Delphi process",
+    "crumbs": [
+      "Activities"
+    ]
+  },
+  {
+    "objectID": "activities.html#statistical-analysis-plan-for-observational-studies",
+    "href": "activities.html#statistical-analysis-plan-for-observational-studies",
+    "title": "Activities",
+    "section": "",
+    "text": "The objective is to develop a checklist for a statistical analysis plan (SAP) for observational studies that accounts for initial data analysis and records deviations from initial plans in one document.\nAuthors: STRATOS wide initiative with authors from several TGs\nProject status: ACTIVE\n\n\n\n1.  SAPI checklist and expanded checklist\n2.  SAPI statement paper\n3.  Explanation & Elaboration paper\n4.  Documentation of Delphi process",
     "crumbs": [
       "Activities"
     ]
@@ -187,8 +197,8 @@
     "objectID": "activities.html#ida-glossary",
     "href": "activities.html#ida-glossary",
     "title": "Activities",
-    "section": "",
-    "text": "The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.\nAuthors: All TG3 members\nProject status: NEW\n\n\n\nGlossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality,",
+    "section": "IDA glossary",
+    "text": "IDA glossary\n\nProject description\nThe objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing open access definitions.\nAuthors: All TG3 members\nProject status: ACTIVE\n\n\nProject outcomes:\nGlossary of 10-15 terms with definitions, e.g IDA, EDA, MDA, data cleaning, data screening, data quality",
     "crumbs": [
       "Activities"
     ]

@@ -2,19 +2,40 @@
 title: "Activities"
 ---
 
+## Statistical analysis plan for observational studies
+
+### **Project description**
+
+The objective is to develop a checklist for a statistical analysis plan (SAP) for observational studies that accounts for initial data analysis and records deviations from initial plans in one document. 
+
+Authors: STRATOS wide initiative with authors from several TGs
+
+Project status: **ACTIVE**
+
+### **Project outcomes:**
+
+1.\  SAPI checklist and expanded checklist
+
+2.\  SAPI statement paper
+
+3.\  Explanation & Elaboration paper
+
+4.\  [Documentation of Delphi process](https://doi.org/10.17605/OSF.IO/ZFJAH)
+
+
 ## IDA glossary
 
 ### **Project description**
 
-The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing opne access definitions.
+The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing open access definitions.
 
 Authors: All TG3 members
 
-Project status: **NEW**
+Project status: **ACTIVE**
 
 ### **Project outcomes:**
 
-Glossary of 10-15 terms with definitions, e.g IDA, EDA, data cleaningm data screening, data quality, 
+Glossary of 10-15 terms with definitions, e.g IDA, EDA, MDA, data cleaning, data screening, data quality 
 
 
 ## Incorporating IDA in courses on statistics

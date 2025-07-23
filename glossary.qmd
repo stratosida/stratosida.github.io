@@ -45,8 +45,8 @@ A statistical analysis plan is a document that contains a more technical and det
 
 ### Initial Data Analysis Plan (IDAP)
 
-An IDA plan is focused on data screening to prepare for statistical analyses; it does not specify procedures or software packages to conduct the analyses. It can be
-understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains missing values, univariable and multivariable descriptions.
+An IDA plan is focused on data screening to prepare for statistical analyses; it does not specify software packages to conduct the analyses. It can be
+understood as a minimum basic set of analyses that can be extended depending on the context of the research study and data collection. IDA domains unit missingness, item missingness, univariable and multivariable descriptions.
 
 **Source:** [Heinze et al https://doi.org/10.1186/s12874-024-02294-3;  Lusa et al https://doi.org/10.1371/journal.pone.0295726
 
@@ -54,9 +54,9 @@ understood as a minimum basic set of analyses that can be extended depending on 
 
 ## Elements of initial data analysis
 
-### Data processing
+### Data preprocessing
 
-Data processing refers to processes involved in preparing data for an analysis project. It may involve acquiring, integrating, enriching, transforming, standardizing, checking, cleaning, formatting or structuring, or sampling data. Two phases may be distinguished, data pre-processing are activities before the analyst receives the data, and data processing are activities to prepare an analysis ready dataset by the analyst.
+Data preprocessing or data preparation refers to processes involved in preparing data for an analysis project. It may involve acquiring, integrating, enriching, transforming, standardizing, checking, cleaning, formatting or structuring, or sampling data. Two phases may be distinguished, such as processes before the analyst receives the data, and activities to prepare an analysis-ready dataset by the analyst.
 
 ### Data wrangling
 

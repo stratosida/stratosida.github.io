@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "R implementations",
     "section": "",
-    "text": "IDA report for regression models\nBacteremia data set by Georg Heinze\nhttps://stratosida.github.io/regression-regrets/\n\n\nIDA report for longitudinal studies\nGrip strength data set from the SHARE project\nhttps://stratosida.github.io/longitudinal/",
+    "text": "IDA report for regression models\nBacteremia data set by Georg Heinze\nhttps://stratosida.github.io/regression-regrets/\nThis example is also discussed with R code by Frank Harrell in Regression Modelling Strategies: https://hbiostat.org/rmsc/bacteremia\n\n\nIDA report for longitudinal studies\nGrip strength data set from the SHARE project\nhttps://stratosida.github.io/longitudinal/",
     "crumbs": [
       "R implementations"
     ]

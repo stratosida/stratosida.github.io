@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 ## **TG3 Videos**
-{{< video https://youtu.be/VEJ8Xc7e6PI?si=1j6hNQuFm_PQmSY4 width="70%" height="70%" >}}
+{{< video https://youtu.be/VEJ8Xc7e6PI?si=1j6hNQuFm_PQmSY4 width="250" height="175" >}}
 
 ## **TG3 Publications**
 

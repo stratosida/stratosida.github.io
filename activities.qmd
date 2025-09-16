@@ -14,7 +14,7 @@ Project status: **ACTIVE**
 
 ### **Project outcomes:**
 
-1.\  SAPI checklist and expanded checklist
+1.\  SAPI checklist and [expanded checklist](assets/SAPI_checklist_final.docx)
 
 2.\  SAPI statement paper
 
@@ -60,7 +60,7 @@ Project status: **ACTIVE**
 
 4.\ Statistical analysis plan for this example
 
-5.\ Diskussion questions or tasks for the students
+5.\ Discussion questions or tasks for the students
 
 
 

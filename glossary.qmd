@@ -10,7 +10,7 @@ Statistical approaches and methods to address research objectives.
 
 ### Initial Data Analysis (IDA)
 
-IDA is a systematic process to provide reliable knowledge about the data to determine the suitability of the data for the main data analysis. IDA is aligned with the research aims and the main data analysis and does not include hypothesis generating activities or assessing associations of predictors and outcomes 
+IDA is a systematic process to provide reliable knowledge about the data to determine the suitability of the data for the main data analysis. IDA is aligned with the research aims and the main data analysis and does not include hypothesis generating activities or assessing associations of predictors and outcomes. 
  
 IDA has the following phases: (1) metadata setup; (2) data cleaning; (3) data screening; (4) initial data reporting; 
 (5) refining and updating the research analysis plan; and (6) documenting and reporting IDA. 
@@ -99,11 +99,11 @@ Structural variables are variables that help to structure initial data analysis 
 
 ### Analysis project
 
-Analysis project refers to a systematic and organized data analysis conducted to address one or more research objectives. 
+Analysis project refers to a systematic and organized data analysis conducted to address one or more research objectives. The analysis project may be using data sources from a study or parent study, defined as the research project that generated the data.
 
 ### Target population
 
-Population of interest for which conclusions are to be drawn. For example, health care context, geographic location, age, sex, specific disease(s) to which the results of the research project apply
+Population of interest for which conclusions are to be drawn. For example, health care context, geographic location, age, sex, specific disease(s) to which the results of the research project apply.
 
 ### Observation unit
 
@@ -119,7 +119,7 @@ Index date, sometimes referred to as time origin or time zero, is the date that 
 
 ### Analysis outputs 
 
-Any tables, documents, or files resulting from the analysis, e.g., code files IDA report, MDA report, analysis dataset, data quality report
+Any tables, documents, or files resulting from the analysis, e.g., code files IDA report, MDA report, analysis dataset, data quality report.
 
 
 

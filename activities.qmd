@@ -8,9 +8,11 @@ title: "Activities"
 
 The objective is to develop a checklist for a statistical analysis plan (SAP) for observational studies that accounts for initial data analysis and records deviations from initial plans in one document. 
 
+Lead: Marianne Huebner
+
 Authors: STRATOS wide initiative with authors from several TGs
 
-Project status: **ACTIVE**
+Project status: **ACTIVE, Paper submitted**
 
 ### **Project outcomes:**
 
@@ -22,20 +24,6 @@ Project status: **ACTIVE**
 
 4.\  [Documentation of Delphi process](https://doi.org/10.17605/OSF.IO/ZFJAH)
 
-
-## IDA glossary
-
-### **Project description**
-
-The objective is to provide definitions of common terms used by the Initial Data Analysis topics group. Every effort will be made to use existing open access definitions.
-
-Authors: All TG3 members
-
-Project status: **ACTIVE**
-
-### **Project outcomes:**
-
-Glossary of 10-15 terms with definitions, e.g IDA, EDA, MDA, data cleaning, data screening, data quality 
 
 
 ## Incorporating IDA in courses on statistics
@@ -61,7 +49,6 @@ Project status: **ACTIVE**
 4.\ Statistical analysis plan for this example
 
 5.\ Discussion questions or tasks for the students
-
 
 
 

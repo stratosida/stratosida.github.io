@@ -16,7 +16,7 @@ Project status: **ACTIVE, Paper submitted**
 
 ### **Project outcomes:**
 
-1.\  SAPI expanded checklist: [Word](assets/SAPI_checklist_final.docx) or [HTML](https://github.com/stratosida/stratosida.github.io/sapi.qmd)
+1.\  SAPI expanded checklist: [Word](assets/SAPI_checklist_final.docx) or [HTML](https://github.com/stratosida/stratosida.github.io/blob/main/assets/sapi.qmd)
 
 2.\  SAPI statement paper
 

@@ -1,0 +1,233 @@
+---
+title: "SAPI Expanded Checklist"
+subtitle: "Statistical Analysis Plan with Initial data analysis for observational studies"
+format: html
+editor: visual
+---
+
+# 1. Administrative Information
+
+**1.1 Project title:** State the title of the analysis project
+
+**1.2 Project documents**: Provide links to any documents (e.g., protocol) describing the analysis project for this SAP, if available
+
+-   For example, links to the research protocol or data management plan including version numbers
+
+**1.3 Ethics approval**: Provide details of any ethics approval
+
+-   If ethics approval is required for this project, indicate the status (not yet submitted, submitted, approved, exempt)
+-   Name the institutional research board(s) or ethics committee(s) relevant for conducting the analyses
+-   Provide details of how this analysis project is covered by existing informed consent, if applicable
+-   Alternatively, refer to the documents where this information is provided
+
+**1.4 Names and Contact:** Provide names, affiliations, and contacts of key project team members 
+
+-   List all author(s) of this document
+
+-   List all principal investigator(s) of this analysis project 
+
+-   List all data analyst(s)
+
+-   List any oversight committee members, if applicable
+
+# 2. Project Background
+
+**2.1 Research aims and objetives**: Describe the research aims and objectives of this analysis project
+
+-   For each objective, state whether it is descriptive, predictive, or causal
+
+-   Refer to applicable project documents for background and rationale 
+
+**2.2 Target population:** Describe the target population of interest for each objective
+
+-   For example, explain health care context, geographic location, age, sex, gender, specific disease to which the results of the analysis project apply
+
+# 3. Design and Data
+
+**3.1 Data sources**: Describe the sources of data (e.g., prospective cohort study, routinely collected electronic health records, registries, surveys)
+
+-   Describe the name and origin of each data source relevant for this analysis project
+
+-   Describe the structure, design, or method of collection of each data source, e.g., cohort study, survey, registry, routinely collected electronic health records, clinical measurements.
+
+-   Describe information relevant for the analyses on methods for assessment and collection of data and corresponding instruments (e.g., questionnaires or laboratory tests)
+
+-   Alternatively, refer to the documents where this information is provided (study protocol, publication, DOI, website)
+
+**3.2 Design**: State the study design for this analysis project (e.g., cross-sectional, cohort, case-control, case-crossover, serial cross-sectional)
+
+-   Define observation units, e.g. individuals, samples, or groups
+
+-   Describe methods or variables for selecting observation units, e.g., specific subset or designs
+
+-   Discuss risk of biases of the design or the data sources for the objectives of this analysis project (e.g., information bias, selection bias)
+
+-   Alternatively, refer to the documents where this information is provided
+
+**3.3 Eligibility criteria:** Specify eligibility criteria for the analysis project based on information available at baseline
+
+-   Describe the setting such as health care context or geographic location 
+
+-   Specify the observation windows for which data will be used with start and end dates. This may refer to periods for examinations, diagnoses, visits, events, or follow-up, for example.  
+
+-   Define the index condition for including observation units, for example, the first diagnosis of a disease, the beginning of a treatment, or a health examination.
+
+-   Describe the index date which will be used to anchor observation windows between observation units in analyses, if applicable. For example, the index date could be the date of diagnosis, the date of treatment assignment, or the date at which predictors are measured. Define the index date for each research objective. Specify follow-up times, if applicable
+
+-   Describe further eligibility criteria (e.g. variables used to select the analysis population), construct a flow diagram starting with the data source and successive steps for inclusion criteria and then exclusion criteria
+
+**3.4 Data sets: Describe how the data is provided for this analysis project (e.g., format and content of data sets)**
+
+-   Describe how the data was processed from the data source for use in this analysis project, e.g., linking of datasets, deletion of cases and variables, data cleaning, assessing compliance with pre-specified structural and technical requirements
+
+-   Include a data dictionary or refer to documents where this information is available. This includes variable abbreviations, variable names, values or units of measurements, instruments (e.g. questionnaires or laboratory tests), data standards, expectations about the data, or link to data sources for specific variables, if applicable
+
+-    Alternatively, refer to the documents and reproducible code where this information is provided, if available
+
+# 4. Variables
+
+**4.1 Variables included in the main data analyses:** Define all variable(s) and their roles in the analyses to answer research objectives
+
+-   For each objective, and according to the nature of the objective, define the roles of variables such as outcome, covariates, independent variables, predictors, exposure, mediators, or confounding variables
+
+-   If appropriate, provide justification for the specification of confounding variables by including directed acyclic graphs (DAG) indicating the assumed causal relationships or selection variables
+
+-   Include a table of variables aligned with each objective, if applicable
+
+-    Provide details relevant to the analyses on measurements or point(s) of measurements relative to the index date
+
+**4.2 Other variables:** Define any variables that are not directly used to answer the research objectives, but which provide information about the observation units
+
+-   These variables can be used for evaluating data quality, structuring IDA reports, or generating statistical weights. Examples are process variables such as centers, time stamps, or other design variables
+
+# 5. Methods: Main Data Analysis
+
+**5.1 Description of observation units:** Describe the methods of analysis to summarize the characteristics of observation units
+
+-   For example, describe which variables will be included in such descriptions, type of summary statistics used, or graphical descriptions. A template for a table summarizing the characteristics can be included here.
+
+-   Specify if these data descriptions will be stratified by any variable, and by which, if applicable
+
+-   Specify any association analyses to be conducted, e.g. by means of correlation analysis, and the type of association measure to be computed or the graphical display of such associations
+
+**5.2 Main data analysis methods:** Describe the methods of analysis for each research objective, including the quantities to be estimated, the analysis models with variables and observation units, and methods to mitigate potential bias for non-random selection
+
+-   Describe the quantities to be statistically estimated or predicted (estimands, predictimands) for each research objective, e.g., mean, cumulative incidence, probability of event, odds or hazard ratio, differences in means)
+
+-   Specify the analysis model for each objective and/or the relevant estimator to estimate the quantities of interest, e.g., any focal regression coefficients or predictions or transforms thereof 
+
+-   Describe how variables are handled in each analysis, for example regarding transformations, functional forms, or interactions 
+
+-   Define observation units for the analyses
+
+-   Discuss methods used to mitigate potential bias for non-random selection
+
+-   Describe methods for model development, e.g. selection of variables and their functional form
+
+-   Specify planned subgroup analyses, if applicable
+
+-   Describe any further aspects of analysis that are relevant for full reproducibility
+
+**5.3 Assumptions and diagnostics:** State any statistical assumptions and diagnostics for each analysis. Specify all measures and diagnostics used to evaluate statistical assumptions and appropriateness of analyses, including graphical tools
+
+-   Specify all measures used to evaluate model performance, if applicable 
+
+-   If missing data are expected, describe how this will be handled with details about any imputation or augmentation method
+
+-   If measurement errors are expected, describe how they will be addressed.
+
+-   Specify planned sensitivity analyses, if applicable
+
+-   Describe potential limitations of the analyses 
+
+**5.4 Sample size:** Describe how the sample size was determined, including all assumptions supporting the sample size calculation
+
+-   Describe available information about sample size, number of outcome events, or follow-up time, if applicable
+
+-   If the provided numbers are based on expectations provide the rationale
+
+-   Provide all details and assumptions needed to replicate the sample size or power calculation independently
+
+**5.5 Software:** Describe software used for all analyses, visualizations, data management, data archiving, or backups 
+
+# 6. Methods: Initial Data Analysis
+
+**6.1 Data preprocessing:** Describe any methods for preparing data for the analyses
+
+-   Describe how consistency of dates is checked
+
+-   Describe how new variables needed for the main data analysis are computed
+
+-   Describe any preparation or formatting of data needed for the analyses, e.g., multistate or wide and long format
+
+**6.2 Unit missingness: Describe any methods to identify the extent of unit missingness**
+
+-   Describe methods to explore the lack of data availability for an observation unit
+
+-   Describe methods to compare characteristics of those with and without unit missingness, where possible. For example, specify which characteristics of participants will be compared to those from census data, or specify what baseline data will be compared for those who did and did not drop out before the study sample was recruited
+
+**6.3 Unit profile: Describe any methods to summarize the temporal or structural pattern of observations for each observation unit**
+
+-   Unit profile refers to such patterns of observations, for example the number of units enrolled over time, over geographical locations, or other relevant structures
+
+**6.4 Item missingness:** Describe the methods to examine item missingness (i.e., missing values in variables)
+
+-   Describe methods to explore the number and proportion of missing values for each variable and reasons for missingness, if known 
+
+-   Describe methods to evaluate the number of complete observations for each analysis, if applicable
+
+-   Describe methods to examine patterns of missingness and relate these to completely observed variables, for example to outcome and exposure variables or any important structural variables that are completely observed
+
+**6.5 Univariable descriptions:** Describe the methods to summarize the distribution of each variable used in the analyses with numerical or graphical summaries
+
+**6.6 Multivariable descriptions: Describe any multivariable descriptive statistics and graphical summaries**
+
+-   Specify structural variables which will be used to help structure the results of multivariable analyses
+
+-   Specify which associations between covariates with these structural variables or other variables will be evaluated and the numerical measures or graphical summaries that will be used
+
+-   This does not include evaluating associations with outcome variables
+
+# 7. Evaluation and Updates
+
+**7.1 Evaluating the SAPI:** Indicate if an update of the SAPI is needed after IDA
+
+-   This information is provided after completion of IDA
+
+-   If there is no need for an update, this should be stated
+
+**7.2. Updating the SAPI, if applicable: List all SAPI sections affected by updates and state the reasons for the updates**
+
+-   This may include changes to inclusion or exclusion criteria for observation units or updated information about the variables, for example ranges, categories, transformations
+
+-   Updates to the main data analysis plan may also be needed
+
+# 8. Supplement
+
+**8.1 Key references: Include references related to statistical methods, research aims, or other background information**
+
+-   Specify reporting guidelines to be used for the manuscript (EQUATOR Network)
+
+**8.2 Sustainable handling of analysis outputs:** Describe the measures to ensure sustainable handling of analysis outputs and FAIR principles (e.g., archiving analysis reports, code files, updated datasets, documentation for interoperability and reuse)
+
+-   List the analysis documents, for example final SAPI, IDA report, MDA report, data quality report, code files, updated data files
+
+-   Describe data formats and documentation that will be used to ensure interoperability and reuse by the research team or third parties
+
+-   Indicate where and how these outputs will be archived or who they will be shared with
+
+------------------------------------------------------------------------
+
+### ABBREVIATIONS
+
+SAPI - Statistical Analysis Plan with Initial data analysis for observational studoes
+
+MDA - Main Data Analysis
+
+IDA - Initial Data Analysis
+
+FAIR - Findable, Accessible, Interoperable, Reusable
+
+### REFERENCES: 
+
+STRATOS Initiative - **STR**engthening **A**nalytical **T**hinking for **O**bservational **S**tudies <https://stratos-initiative.org>

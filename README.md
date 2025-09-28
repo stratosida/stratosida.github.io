@@ -20,4 +20,4 @@ https://stratos-initiative.org/
 ### Assets
 Website links to:
 * images
-* pdf documents for projects
+* documents related to projects

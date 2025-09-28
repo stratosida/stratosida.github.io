@@ -1,8 +1,6 @@
 ---
 title: "SAPI Expanded Checklist"
 subtitle: "Statistical Analysis Plan with Initial data analysis for observational studies"
-format: html
-editor: visual
 ---
 
 # 1. Administrative Information

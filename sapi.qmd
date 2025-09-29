@@ -220,7 +220,7 @@ editor: visual
 
 ### ABBREVIATIONS
 
-SAPI - Statistical Analysis Plan with Initial data analysis for observational studoes
+SAPI - **S**tatistical **A**nalysis **P**lan with **I**nitial data analysis for observational studies
 
 MDA - Main Data Analysis
 

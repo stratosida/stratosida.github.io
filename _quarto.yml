@@ -26,7 +26,6 @@ website:
       - papers.qmd
       - activities.qmd
       - resources.qmd
-      - sapi.qmd
       - glossary.qmd
     logo: "assets/stratos-color-transpbackgr.png"
 

@@ -76,7 +76,7 @@ editor: visual
 
 -   Describe further eligibility criteria (e.g. variables used to select the analysis population), construct a flow diagram starting with the data source and successive steps for inclusion criteria and then exclusion criteria
 
-**3.4 Data sets: Describe how the data is provided for this analysis project (e.g., format and content of data sets)**
+**3.4 Data sets:** Describe how the data is provided for this analysis project (e.g., format and content of data sets)
 
 -   Describe how the data was processed from the data source for use in this analysis project, e.g., linking of datasets, deletion of cases and variables, data cleaning, assessing compliance with pre-specified structural and technical requirements
 
@@ -160,13 +160,13 @@ editor: visual
 
 -   Describe any preparation or formatting of data needed for the analyses, e.g., multistate or wide and long format
 
-**6.2 Unit missingness: Describe any methods to identify the extent of unit missingness**
+**6.2 Unit missingness:** Describe any methods to identify the extent of unit missingness
 
 -   Describe methods to explore the lack of data availability for an observation unit
 
 -   Describe methods to compare characteristics of those with and without unit missingness, where possible. For example, specify which characteristics of participants will be compared to those from census data, or specify what baseline data will be compared for those who did and did not drop out before the study sample was recruited
 
-**6.3 Unit profile: Describe any methods to summarize the temporal or structural pattern of observations for each observation unit**
+**6.3 Unit profile:** Describe any methods to summarize the temporal or structural pattern of observations for each observation unit
 
 -   Unit profile refers to such patterns of observations, for example the number of units enrolled over time, over geographical locations, or other relevant structures
 
@@ -180,7 +180,7 @@ editor: visual
 
 **6.5 Univariable descriptions:** Describe the methods to summarize the distribution of each variable used in the analyses with numerical or graphical summaries
 
-**6.6 Multivariable descriptions: Describe any multivariable descriptive statistics and graphical summaries**
+**6.6 Multivariable descriptions:** Describe any multivariable descriptive statistics and graphical summaries
 
 -   Specify structural variables which will be used to help structure the results of multivariable analyses
 
@@ -196,7 +196,7 @@ editor: visual
 
 -   If there is no need for an update, this should be stated
 
-**7.2. Updating the SAPI, if applicable: List all SAPI sections affected by updates and state the reasons for the updates**
+**7.2. Updating the SAPI, if applicable:** List all SAPI sections affected by updates and state the reasons for the updates
 
 -   This may include changes to inclusion or exclusion criteria for observation units or updated information about the variables, for example ranges, categories, transformations
 
@@ -204,7 +204,7 @@ editor: visual
 
 # 8. Supplement
 
-**8.1 Key references: Include references related to statistical methods, research aims, or other background information**
+**8.1 Key references:** Include references related to statistical methods, research aims, or other background information
 
 -   Specify reporting guidelines to be used for the manuscript (EQUATOR Network)
 

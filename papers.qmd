@@ -4,7 +4,7 @@ title: "Publications"
 ## **TG3 Videos**
 {{< video https://youtu.be/VEJ8Xc7e6PI?si=1j6hNQuFm_PQmSY4 width="250" height="175" >}}
 
-**Other materials:** [IDA Zine](assets/Zine_IDA.pdf) (foldable 8-page min-Zine)
+**Other materials:** [IDA Zine](assets/Zine_IDA.pdf) (foldable 8-page mini-Zine)
 
 ## **TG3 Publications**
 

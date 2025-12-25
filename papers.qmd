@@ -4,6 +4,8 @@ title: "Publications"
 ## **TG3 Videos**
 {{< video https://youtu.be/VEJ8Xc7e6PI?si=1j6hNQuFm_PQmSY4 width="250" height="175" >}}
 
+**Other materials:** [IDA Zine](assets/Zine_IDA.pdf) (foldable 8-page min-Zine)
+
 ## **TG3 Publications**
 
 *1. This is a great overview over initial data analysis and the steps to think about .*

@@ -17,30 +17,31 @@ Grip strength data set from the [SHARE project](https://share-eric.eu)
 
 <https://stratosida.github.io/longitudinal/>
 
-### Teaching IDA and SAP for regression models
+### Teaching a workflow for regression analyses with a Pokemon case study
 
-#### Pokemon data
-[Pokemon data set - curated, format: tsv] (assets/Pokemon_clean.tsv)
-[Pokemon data set - after IDA, format: Rdata] (assets/Pokemon_afterida.Rdata)
-[Pokemon data set - data dictionary, format: xlsx] (assets/Pokemon_datadictionary.xlsx)
+1. Pokemon data
 
-#### Statistical analysis plan (SAP)
+* [Pokemon data set - curated, format: tsv] (assets/Pokemon_clean.tsv)
+* [Pokemon data set - after IDA, format: Rdata] (assets/Pokemon_afterida.Rdata)
+* [Pokemon data set - data dictionary, format: xlsx] (assets/Pokemon_datadictionary.xlsx)
 
-[SAP version 1]
-[SAP version 2 -update after IDA]
+2. Statistical analysis plan (SAP)
 
-#### Initial data analysis (IDA) report 
+* SAP version 1
+* SAP version 2 -update after IDA
 
-[IDA report - html]
-[IDA report - quarto]
+3. Initial data analysis (IDA) report 
 
-[IDA additional investigations - html]
-[IDA additional investigations - quarto]
+* IDA report - html
+* IDA report - quarto
 
-#### Regression analysis report -main data analysis (MDA)
+* IDA additional investigations - html
+* IDA additional investigations - quarto
 
-[MDA report - html]
-[MDA report - quarto]
+4.  Regression analysis report -main data analysis (MDA)
 
-[MDA additional investigations - html]
-[MDA additional investigations - quarto]
+* MDA report - html
+* MDA report - quarto
+
+* MDA additional investigations - html
+* MDA additional investigations - quarto

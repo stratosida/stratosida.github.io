@@ -70,7 +70,7 @@ Project status: **CLOSED, paper published**
 
 2.\  [IDA report with R code](https://stratosida.github.io/regression-regrets/)
 
-3.\  IDA plan (check list) for the example(s) (in the paper)
+3.\  IDA plan for the example(s) [check list] (assets/IDAchecklist_cross.pdf)
 
 4.\  [Paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02294-3)  with scope of regression model, results, and consequences of IDA for regression:
 

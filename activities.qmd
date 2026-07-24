@@ -40,15 +40,15 @@ Project status: **ACTIVE**
 
 ### **Project outcomes:**
 
-1.\ Manuscript for a journal with a "Teaching corner"
+1.\ Manuscript for a statistical journal with a "Teaching corner"
 
-2.\ Curated Pokemon data set for open access [Data](assets/Pokemon_clean.tsv)
+2.\ Curated Pokemon data sets (tsv and Rdata)
 
-3.\ R code for initial data analysis and for regression models
+3.\ Statistical analysis plans for this example (pre- and post-IDA)
 
-4.\ Statistical analysis plan for this example
+4.\ R code and IDA report for initial data analysis 
 
-5.\ Discussion questions or tasks for the students
+5.\ R code and Analysis report filen for regression models
 
 
 

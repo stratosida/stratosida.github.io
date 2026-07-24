@@ -1,0 +1,1026 @@
+PokemonID	name	pokedex_number	PokemonPhase_5cat	generation	type1	type2	height_m	weight_kg	hp	attack	defense	sp_attack	sp_defense	speed	total	catch_rate	percentage_male	base_happiness_8	special_status	gender_unknown	dual_type	is_rock	is_steel	is_ground	is_water	is_fire	is_grass	is_bug	is_ice	is_dragon	is_flying	is_fairy	is_ghost	is_poison	is_electric	is_normal	is_dark	is_psychic	is_fighting	gender_cat	happiness_cat	BMI
+1	Bulbasaur	1	Base	1	grass	poison	0.7	6.9	45	49	49	65	65	45	318	45	87.5	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Mostly males	Normal	14.08163265
+1	Ivysaur	2	Phase1	1	grass	poison	1	13	60	62	63	80	80	60	405	45	87.5	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Mostly males	Normal	13
+1	Venusaur	3	Phase2	1	grass	poison	2	100	80	82	83	100	100	80	525	45	87.5	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Mostly males	Normal	25
+4	Charmander	4	Base	1	fire	NA	0.6	8.5	39	52	43	60	50	65	309	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	23.61111111
+4	Charmeleon	5	Phase1	1	fire	NA	1.1	19	58	64	58	80	65	80	405	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	15.70247934
+4	Charizard	6	Phase2	1	fire	flying	1.7	90.5	78	84	78	109	85	100	534	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Normal	31.31487889
+7	Squirtle	7	Base	1	water	NA	0.5	9	44	48	65	50	64	43	314	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	36
+7	Wartortle	8	Phase1	1	water	NA	1	22.5	59	63	80	65	80	58	405	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	22.5
+7	Blastoise	9	Phase2	1	water	NA	1.6	85.5	79	83	100	85	105	78	530	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	33.3984375
+10	Caterpie	10	Base	1	bug	NA	0.3	2.9	45	30	35	20	20	45	195	255	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	32.22222222
+10	Metapod	11	Phase1	1	bug	NA	0.7	9.9	50	20	55	25	25	30	205	120	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	20.20408163
+10	Butterfree	12	Phase2	1	bug	flying	1.1	32	60	45	50	90	80	70	395	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	26.44628099
+13	Weedle	13	Base	1	bug	poison	0.3	3.2	40	35	30	20	20	50	195	255	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	35.55555556
+13	Kakuna	14	Phase1	1	bug	poison	0.6	10	45	25	50	25	25	35	205	120	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	27.77777778
+13	Beedrill	15	Phase2	1	bug	poison	1	29.5	65	90	40	45	80	75	395	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	29.5
+16	Pidgey	16	Base	1	normal	flying	0.3	1.8	40	45	40	35	35	56	251	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	20
+16	Pidgeotto	17	Phase1	1	normal	flying	1.1	30	63	60	55	50	50	71	349	120	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	24.79338843
+16	Pidgeot	18	Phase2	1	normal	flying	1.5	39.5	83	80	75	70	70	101	479	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	17.55555556
+19	Rattata	19	Base	1	normal	dark	0.3	3.5	30	56	35	25	35	72	253	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	Equal	Normal	38.88888889
+19	Raticate	20	Phase1	1	normal	dark	0.7	18.5	55	81	60	50	70	97	413	127	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	Equal	Normal	37.75510204
+21	Spearow	21	Base	1	normal	flying	0.3	2	40	60	30	31	31	70	262	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	22.22222222
+21	Fearow	22	Phase1	1	normal	flying	1.2	38	65	90	65	61	61	100	442	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	26.38888889
+23	Ekans	23	Base	1	poison	NA	2	6.9	35	60	44	40	54	55	288	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	1.725
+23	Arbok	24	Phase1	1	poison	NA	3.5	65	60	95	69	65	79	80	448	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	5.306122449
+172	Pikachu	25	Base	1	electric	NA	0.4	6	35	55	40	50	50	90	320	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	37.5
+172	Raichu	26	Phase1	1	electric	NA	0.8	30	60	90	55	90	80	110	485	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	46.875
+27	Sandshrew	27	Base	1	ground	ice	0.6	12	50	75	85	20	30	40	300	255	50	50	normal	0	Dual	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	33.33333333
+27	Sandslash	28	Phase1	1	ground	ice	1	29.5	75	100	110	45	55	65	450	90	50	50	normal	0	Dual	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	29.5
+29	Nidoran-F	29	Base	1	poison	NA	0.4	7	55	47	52	40	40	41	275	235	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Mostly females	Normal	43.75
+29	Nidorina	30	Phase1	1	poison	NA	0.8	20	70	62	67	55	55	56	365	120	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Mostly females	Normal	31.25
+29	Nidoqueen	31	Phase2	1	poison	ground	1.3	60	90	92	87	75	85	76	505	45	0	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Mostly females	Normal	35.50295858
+32	Nidoran-M	32	Base	1	poison	NA	0.5	9	46	57	40	40	40	50	273	235	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Mostly males	Normal	36
+32	Nidorino	33	Phase1	1	poison	NA	0.9	19.5	61	72	57	55	55	65	365	120	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Mostly males	Normal	24.07407407
+32	Nidoking	34	Phase2	1	poison	ground	1.4	62	81	102	77	85	75	85	505	45	100	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Mostly males	Normal	31.63265306
+173	Clefairy	35	Base	1	fairy	NA	0.6	7.5	70	45	48	60	65	35	323	150	25	140	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Happy	20.83333333
+173	Clefable	36	Phase1	1	fairy	NA	1.3	40	95	70	73	95	90	60	483	25	25	140	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Happy	23.66863905
+37	Vulpix	37	Base	1	fire	ice	0.6	9.9	38	41	40	50	65	65	299	190	25	50	normal	0	Dual	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	27.5
+37	Ninetales	38	Phase1	1	fire	ice	1.1	19.9	73	76	75	81	100	100	505	75	25	50	normal	0	Dual	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	16.44628099
+174	Jigglypuff	39	Base	1	normal	fairy	0.5	5.5	115	45	20	45	25	20	270	170	25	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	Mostly females	Normal	22
+174	Wigglytuff	40	Phase1	1	normal	fairy	1	12	140	70	45	85	50	45	435	50	25	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	Mostly females	Normal	12
+41	Zubat	41	Base	1	poison	flying	0.8	7.5	40	45	35	30	40	55	245	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	Equal	Normal	11.71875
+41	Golbat	42	Phase1	1	poison	flying	1.6	55	75	80	70	65	75	90	455	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	Equal	Normal	21.484375
+43	Oddish	43	Base	1	grass	poison	0.5	5.4	45	50	55	75	65	30	320	255	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	21.6
+43	Gloom	44	Phase1	1	grass	poison	0.8	8.6	60	65	70	85	75	40	395	120	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	13.4375
+43	Vileplume	45	Phase2	1	grass	poison	1.2	18.6	75	80	85	110	90	50	490	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	12.91666667
+46	Paras	46	Base	1	bug	grass	0.3	5.4	35	70	55	45	55	25	285	190	50	50	normal	0	Dual	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	60
+46	Parasect	47	Phase1	1	bug	grass	1	29.5	60	95	80	60	80	30	405	75	50	50	normal	0	Dual	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	29.5
+48	Venonat	48	Base	1	bug	poison	1	30	60	55	50	40	55	45	305	190	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	30
+48	Venomoth	49	Phase1	1	bug	poison	1.5	12.5	70	65	60	90	75	90	450	75	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	5.555555556
+50	Diglett	50	Base	1	ground	NA	0.2	0.8	10	55	25	35	45	95	265	255	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	20
+50	Dugtrio	51	Phase1	1	ground	NA	0.7	33.3	35	100	50	50	70	120	425	50	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	67.95918367
+52	Meowth	52	Base	1	normal	dark	0.4	4.2	40	45	35	40	40	90	290	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	Equal	Normal	26.25
+52	Persian	53	Phase1	1	normal	dark	1	32	65	70	60	65	65	115	440	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	Equal	Normal	32
+54	Psyduck	54	Base	1	water	NA	0.8	19.6	50	52	48	65	50	55	320	190	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	30.625
+54	Golduck	55	Phase1	1	water	NA	1.7	76.6	80	82	78	95	80	85	500	75	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	26.50519031
+56	Mankey	56	Base	1	fighting	NA	0.5	28	40	80	35	35	45	70	305	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	112
+56	Primeape	57	Phase1	1	fighting	NA	1	32	65	105	60	60	70	95	455	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	32
+58	Growlithe	58	Base	1	fire	NA	0.7	19	55	70	45	70	50	60	350	190	75	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	38.7755102
+58	Arcanine	59	Phase1	1	fire	NA	1.9	155	90	110	80	100	80	95	555	75	75	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	42.93628809
+60	Poliwag	60	Base	1	water	NA	0.6	12.4	40	50	40	40	40	90	300	255	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	34.44444444
+60	Poliwhirl	61	Phase1	1	water	NA	1	20	65	65	65	50	50	90	385	120	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	20
+60	Poliwrath	62	Phase2	1	water	fighting	1.3	54	90	95	95	70	90	70	510	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	31.95266272
+63	Abra	63	Base	1	psychic	NA	0.9	19.5	25	20	15	105	55	90	310	200	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly males	Normal	24.07407407
+63	Kadabra	64	Phase1	1	psychic	NA	1.3	56.5	40	35	30	120	70	105	400	100	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly males	Normal	33.43195266
+63	Alakazam	65	Phase2	1	psychic	NA	1.5	48	55	50	45	135	95	120	500	50	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly males	Normal	21.33333333
+66	Machop	66	Base	1	fighting	NA	0.8	19.5	70	80	50	35	35	35	305	180	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	30.46875
+66	Machoke	67	Phase1	1	fighting	NA	1.5	70.5	80	100	70	50	60	45	405	90	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	31.33333333
+66	Machamp	68	Phase2	1	fighting	NA	1.6	130	90	130	80	65	85	55	505	45	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	50.78125
+69	Bellsprout	69	Base	1	grass	poison	0.7	4	50	75	35	70	30	40	300	255	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	8.163265306
+69	Weepinbell	70	Phase1	1	grass	poison	1	6.4	65	90	50	85	45	55	390	120	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	6.4
+69	Victreebel	71	Phase2	1	grass	poison	1.7	15.5	80	105	65	100	70	70	490	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	5.363321799
+72	Tentacool	72	Base	1	water	poison	0.9	45.5	40	40	35	50	100	70	335	190	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	56.17283951
+72	Tentacruel	73	Phase1	1	water	poison	1.6	55	80	70	65	80	120	100	515	60	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	21.484375
+74	Geodude	74	Base	1	rock	ground	0.4	20	40	80	100	30	30	20	300	255	50	50	normal	0	Dual	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	125
+74	Graveler	75	Phase1	1	rock	ground	1	105	55	95	115	45	45	35	390	120	50	50	normal	0	Dual	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	105
+74	Golem	76	Phase2	1	rock	ground	1.4	300	80	120	130	55	65	45	495	45	50	50	normal	0	Dual	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	153.0612245
+77	Ponyta	77	Base	1	fire	NA	1	30	50	85	55	65	65	90	410	190	50	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	30
+77	Rapidash	78	Phase1	1	fire	NA	1.7	95	65	100	70	80	80	105	500	60	50	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	32.87197232
+79	Slowpoke	79	Base	1	water	psychic	1.2	36	90	65	65	40	40	15	315	190	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	25
+79	Slowbro	80	Phase1	1	water	psychic	1.6	78.5	95	75	110	100	80	30	490	75	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	30.6640625
+81	Magnemite	81	Base	1	electric	steel	0.3	6	25	35	70	95	55	45	325	190	NA	50	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Normal	66.66666667
+81	Magneton	82	Phase1	1	electric	steel	1	60	50	60	95	120	70	70	465	60	NA	50	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Normal	60
+83	Farfetch'd	83	Base	1	normal	flying	0.8	15	52	90	55	58	62	60	377	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	23.4375
+84	Doduo	84	Base	1	normal	flying	1.4	39.2	35	85	45	35	35	75	310	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	20
+84	Dodrio	85	Phase1	1	normal	flying	1.8	85.2	60	110	70	60	60	110	470	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	26.2962963
+86	Seel	86	Base	1	water	NA	1.1	90	65	45	55	45	70	45	325	190	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	74.38016529
+86	Dewgong	87	Phase1	1	water	ice	1.7	120	90	70	80	70	95	70	475	75	50	50	normal	0	Dual	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	41.52249135
+88	Grimer	88	Base	1	poison	NA	0.9	30	80	80	50	40	50	25	325	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	37.03703704
+88	Muk	89	Phase1	1	poison	NA	1.2	30	105	105	75	65	100	50	500	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	20.83333333
+90	Shellder	90	Base	1	water	NA	0.3	4	30	65	100	45	25	40	305	190	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	44.44444444
+90	Cloyster	91	Phase1	1	water	ice	1.5	132.5	50	95	180	85	45	70	525	60	50	50	normal	0	Dual	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	58.88888889
+92	Gastly	92	Base	1	ghost	poison	1.3	0.1	30	35	30	100	35	80	310	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	Equal	Normal	0.059171598
+92	Haunter	93	Phase1	1	ghost	poison	1.6	0.1	45	50	45	115	55	95	405	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	Equal	Normal	0.0390625
+92	Gengar	94	Phase2	1	ghost	poison	1.5	40.5	60	65	60	130	75	110	500	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	Equal	Normal	18
+95	Onix	95	Base	1	rock	ground	8.8	210	35	45	160	30	45	70	385	45	50	50	normal	0	Dual	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	2.71177686
+96	Drowzee	96	Base	1	psychic	NA	1	32.4	60	48	45	43	90	42	328	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	32.4
+96	Hypno	97	Phase1	1	psychic	NA	1.6	75.6	85	73	70	73	115	67	483	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	29.53125
+98	Krabby	98	Base	1	water	NA	0.4	6.5	30	105	90	25	25	50	325	225	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	40.625
+98	Kingler	99	Phase1	1	water	NA	1.3	60	55	130	115	50	50	75	475	60	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	35.50295858
+100	Voltorb	100	Base	1	electric	NA	0.5	10.4	40	30	50	55	55	100	330	190	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Normal	41.6
+100	Electrode	101	Phase1	1	electric	NA	1.2	66.6	60	50	70	80	80	150	490	60	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Normal	46.25
+102	Exeggcute	102	Base	1	grass	psychic	0.4	2.5	60	40	80	60	45	40	325	90	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	15.625
+102	Exeggutor	103	Phase1	1	grass	psychic	2	120	95	95	85	125	75	55	530	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	30
+104	Cubone	104	Base	1	ground	NA	0.4	6.5	50	50	95	40	50	35	320	190	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	40.625
+104	Marowak	105	Phase1	1	ground	fire	1	4.5	60	80	110	50	80	45	425	75	50	50	normal	0	Dual	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	4.5
+236	Hitmonlee	106	Base	1	fighting	NA	1.5	49.8	50	120	53	35	110	87	455	45	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	22.13333333
+236	Hitmonchan	107	Base	1	fighting	NA	1.4	50.2	50	105	79	35	110	76	455	45	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	25.6122449
+108	Lickitung	108	Base	1	normal	NA	1.2	65.5	90	55	75	60	75	30	385	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	45.48611111
+109	Koffing	109	Base	1	poison	NA	0.6	1	40	65	95	60	45	35	340	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	2.777777778
+109	Weezing	110	Phase1	1	poison	NA	1.2	9.5	65	90	120	85	70	60	490	60	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	6.597222222
+111	Rhyhorn	111	Base	1	ground	rock	1	115	80	85	95	30	30	25	345	120	50	50	normal	0	Dual	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	115
+111	Rhydon	112	Phase1	1	ground	rock	1.9	120	105	130	120	45	45	40	485	60	50	50	normal	0	Dual	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	33.24099723
+440	Chansey	113	Base	1	normal	NA	1.1	34.6	250	5	5	35	105	50	450	30	0	140	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Happy	28.59504132
+114	Tangela	114	Base	1	grass	NA	1	35	65	55	115	100	40	60	435	45	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	35
+115	Kangaskhan	115	NotEvolving	1	normal	NA	2.2	80	105	95	80	40	80	90	490	45	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	16.52892562
+116	Horsea	116	Base	1	water	NA	0.4	8	30	40	70	70	25	60	295	225	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	50
+116	Seadra	117	Phase1	1	water	NA	1.2	25	55	65	95	95	45	85	440	75	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	17.36111111
+118	Goldeen	118	Base	1	water	NA	0.6	15	45	67	60	35	50	63	320	225	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	41.66666667
+118	Seaking	119	Phase1	1	water	NA	1.3	39	80	92	65	65	80	68	450	60	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	23.07692308
+120	Staryu	120	Base	1	water	NA	0.8	34.5	30	45	55	70	55	85	340	225	NA	50	normal	1	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Normal	53.90625
+120	Starmie	121	Phase1	1	water	psychic	1.1	80	60	75	85	100	85	115	520	60	NA	50	normal	1	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Normal	66.11570248
+439	Mr. Mime	122	Base	1	psychic	fairy	1.3	54.5	40	45	65	100	120	90	460	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	Equal	Normal	32.24852071
+123	Scyther	123	Base	1	bug	flying	1.5	56	70	110	80	55	80	105	500	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	24.88888889
+238	Jynx	124	Base	1	ice	psychic	1.4	40.6	65	50	35	115	95	95	455	45	0	50	normal	0	Dual	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	Mostly females	Normal	20.71428571
+239	Electabuzz	125	Base	1	electric	NA	1.1	30	65	83	57	95	85	105	490	45	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Mostly males	Normal	24.79338843
+240	Magmar	126	Base	1	fire	NA	1.3	44.5	65	95	57	100	85	93	495	45	75	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	26.33136095
+127	Pinsir	127	NotEvolving	1	bug	NA	1.5	55	65	125	100	55	70	85	500	45	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	24.44444444
+128	Tauros	128	NotEvolving	1	normal	NA	1.4	88.4	75	100	95	40	70	110	490	45	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly males	Normal	45.10204082
+129	Magikarp	129	Base	1	water	NA	0.9	10	20	10	55	15	20	80	200	255	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	12.34567901
+129	Gyarados	130	Phase1	1	water	flying	6.5	235	95	125	79	60	100	81	540	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	5.562130178
+131	Lapras	131	NotEvolving	1	water	ice	2.5	220	130	85	80	85	95	60	535	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	35.2
+132	Ditto	132	NotEvolving	1	normal	NA	0.3	4	48	48	48	48	48	48	288	35	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Normal	44.44444444
+133	Eevee	133	Base	1	normal	NA	0.3	6.5	55	55	50	45	65	55	325	45	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly males	Normal	72.22222222
+133	Vaporeon	134	Phase1	1	water	NA	1	29	130	65	60	110	95	65	525	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	29
+133	Jolteon	135	Phase1	1	electric	NA	0.8	24.5	65	65	60	110	95	130	525	45	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Mostly males	Normal	38.28125
+133	Flareon	136	Phase1	1	fire	NA	0.9	25	65	130	60	95	110	65	525	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	30.86419753
+137	Porygon	137	Base	1	normal	NA	0.8	36.5	65	60	70	85	75	40	395	45	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Normal	57.03125
+138	Omanyte	138	Base	1	rock	water	0.4	7.5	35	40	100	90	55	35	355	45	87.5	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	46.875
+138	Omastar	139	Phase1	1	rock	water	1	35	70	60	125	115	70	55	495	45	87.5	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	35
+140	Kabuto	140	Base	1	rock	water	0.5	11.5	30	80	90	55	45	55	355	45	87.5	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	46
+140	Kabutops	141	Phase1	1	rock	water	1.3	40.5	60	115	105	65	70	80	495	45	87.5	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	23.96449704
+142	Aerodactyl	142	NotEvolving	1	rock	flying	1.8	59	80	105	65	60	75	130	515	45	87.5	50	normal	0	Dual	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Normal	18.20987654
+446	Snorlax	143	Base	1	normal	NA	2.1	460	160	110	65	65	110	30	540	25	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly males	Normal	104.30839
+144	Articuno	144	NotEvolving	1	ice	flying	1.7	55.4	90	85	100	95	125	85	580	3	NA	35	sub-legendary	1	Dual	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	Genderless	Unhappy	19.16955017
+145	Zapdos	145	NotEvolving	1	electric	flying	1.6	52.6	90	90	85	125	90	100	580	3	NA	35	sub-legendary	1	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	Genderless	Unhappy	20.546875
+146	Moltres	146	NotEvolving	1	fire	flying	2	60	90	100	90	125	85	90	580	3	NA	35	sub-legendary	1	Dual	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	Genderless	Unhappy	15
+147	Dratini	147	Base	1	dragon	NA	1.8	3.3	41	64	45	50	50	50	300	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	1.018518519
+147	Dragonair	148	Phase1	1	dragon	NA	4	16.5	61	84	65	70	70	70	420	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	1.03125
+147	Dragonite	149	Phase2	1	dragon	flying	2.2	210	91	134	95	100	100	80	600	45	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	Equal	Unhappy	43.38842975
+150	Mewtwo	150	NotEvolving	1	psychic	NA	2	122	106	110	90	154	90	130	680	3	NA	0	legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	30.5
+151	Mew	151	NotEvolving	1	psychic	NA	0.4	4	100	100	100	100	100	100	600	45	NA	100	mythical	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Happy	25
+152	Chikorita	152	Base	2	grass	NA	0.9	6.4	45	49	65	49	65	45	318	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	7.901234568
+152	Bayleef	153	Phase1	2	grass	NA	1.2	15.8	60	62	80	63	80	60	405	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	10.97222222
+152	Meganium	154	Phase2	2	grass	NA	1.8	100.5	80	82	100	83	100	80	525	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	31.01851852
+155	Cyndaquil	155	Base	2	fire	NA	0.5	7.9	39	52	43	60	50	65	309	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	31.6
+155	Quilava	156	Phase1	2	fire	NA	0.9	19	58	64	58	80	65	80	405	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	23.45679012
+155	Typhlosion	157	Phase2	2	fire	NA	1.7	79.5	78	84	78	109	85	100	534	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	27.50865052
+158	Totodile	158	Base	2	water	NA	0.6	9.5	50	65	64	44	48	43	314	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	26.38888889
+158	Croconaw	159	Phase1	2	water	NA	1.1	25	65	80	80	59	63	58	405	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	20.66115702
+158	Feraligatr	160	Phase2	2	water	NA	2.3	88.8	85	105	100	79	83	78	530	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	16.78638941
+161	Sentret	161	Base	2	normal	NA	0.8	6	35	46	34	35	45	20	215	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	9.375
+161	Furret	162	Phase1	2	normal	NA	1.8	32.5	85	76	64	45	55	90	415	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	10.0308642
+163	Hoothoot	163	Base	2	normal	flying	0.7	21.2	60	30	30	36	56	50	262	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	43.26530612
+163	Noctowl	164	Phase1	2	normal	flying	1.6	40.8	100	50	50	86	96	70	452	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	15.9375
+165	Ledyba	165	Base	2	bug	flying	1	10.8	40	20	30	40	80	55	265	255	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	10.8
+165	Ledian	166	Phase1	2	bug	flying	1.4	35.6	55	35	50	55	110	85	390	90	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	18.16326531
+167	Spinarak	167	Base	2	bug	poison	0.5	8.5	40	60	40	40	40	30	250	255	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	34
+167	Ariados	168	Phase1	2	bug	poison	1.1	33.5	70	90	70	60	70	40	400	90	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	27.68595041
+41	Crobat	169	Phase2	2	poison	flying	1.8	75	85	90	80	70	80	130	535	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	Equal	Normal	23.14814815
+170	Chinchou	170	Base	2	water	electric	0.5	12	75	38	38	56	56	67	330	190	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	48
+170	Lanturn	171	Phase1	2	water	electric	1.2	22.5	125	58	58	76	76	67	460	75	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	15.625
+172	Pichu	172	Baby	2	electric	NA	0.3	2	20	40	15	35	35	60	205	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	22.22222222
+173	Cleffa	173	Baby	2	fairy	NA	0.3	3	50	25	28	45	55	15	218	150	25	140	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Happy	33.33333333
+174	Igglybuff	174	Baby	2	normal	fairy	0.3	1	90	30	15	40	20	15	210	170	25	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	Mostly females	Normal	11.11111111
+175	Togepi	175	Baby	2	fairy	NA	0.3	1.5	35	20	65	40	65	20	245	190	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly males	Normal	16.66666667
+175	Togetic	176	Base	2	fairy	flying	0.6	3.2	55	40	85	80	105	40	405	75	87.5	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	Mostly males	Normal	8.888888889
+177	Natu	177	Base	2	psychic	flying	0.2	2	40	50	45	70	45	70	320	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	Equal	Normal	50
+177	Xatu	178	Phase1	2	psychic	flying	1.5	15	65	75	70	95	70	95	470	75	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	Equal	Normal	6.666666667
+179	Mareep	179	Base	2	electric	NA	0.6	7.8	55	40	40	65	45	35	280	235	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	21.66666667
+179	Flaaffy	180	Phase1	2	electric	NA	0.8	13.3	70	55	55	80	60	45	365	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	20.78125
+179	Ampharos	181	Phase2	2	electric	NA	1.4	61.5	90	75	85	115	90	55	510	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	31.37755102
+43	Bellossom	182	Phase2	2	grass	NA	0.4	5.8	75	80	95	90	100	50	490	45	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	36.25
+298	Marill	183	Base	2	water	fairy	0.4	8.5	70	20	50	20	50	40	250	190	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	53.125
+298	Azumarill	184	Phase1	2	water	fairy	0.8	28.5	100	50	80	60	80	50	420	75	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	44.53125
+438	Sudowoodo	185	Base	2	rock	NA	1.2	38	70	100	115	30	65	30	410	65	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	26.38888889
+60	Politoed	186	Phase2	2	water	NA	1.1	33.9	90	75	75	90	100	70	500	45	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	28.01652893
+187	Hoppip	187	Base	2	grass	flying	0.4	0.5	35	35	40	35	55	50	250	255	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	3.125
+187	Skiploom	188	Phase1	2	grass	flying	0.6	1	55	45	50	45	65	80	340	120	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	2.777777778
+187	Jumpluff	189	Phase2	2	grass	flying	0.8	3	75	55	70	55	95	110	460	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	4.6875
+190	Aipom	190	Base	2	normal	NA	0.8	11.5	55	70	55	40	55	85	360	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	17.96875
+191	Sunkern	191	Base	2	grass	NA	0.3	1.8	30	30	30	30	30	30	180	235	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	20
+191	Sunflora	192	Phase1	2	grass	NA	0.8	8.5	75	75	55	105	85	30	425	120	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	13.28125
+193	Yanma	193	Base	2	bug	flying	1.2	38	65	65	45	75	45	95	390	75	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	26.38888889
+194	Wooper	194	Base	2	water	ground	0.4	8.5	55	45	45	25	25	15	210	255	50	50	normal	0	Dual	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	53.125
+194	Quagsire	195	Phase1	2	water	ground	1.4	75	95	85	85	65	65	35	430	90	50	50	normal	0	Dual	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	38.26530612
+133	Espeon	196	Phase1	2	psychic	NA	0.9	26.5	65	65	60	130	95	110	525	45	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly males	Normal	32.71604938
+133	Umbreon	197	Phase1	2	dark	NA	1	27	95	65	110	60	130	65	525	45	87.5	35	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Mostly males	Unhappy	27
+198	Murkrow	198	Base	2	dark	flying	0.5	2.1	60	85	42	85	42	91	405	30	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	Equal	Unhappy	8.4
+79	Slowking	199	Phase1	2	water	psychic	2	79.5	95	75	80	100	110	30	490	70	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	19.875
+200	Misdreavus	200	Base	2	ghost	NA	0.7	1	60	60	60	85	85	85	435	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Unhappy	2.040816327
+201	Unown	201	NotEvolving	2	psychic	NA	0.5	5	48	72	48	72	48	48	336	225	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Normal	20
+360	Wobbuffet	202	Base	2	psychic	NA	1.3	28.5	190	33	58	33	58	33	405	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	16.86390533
+203	Girafarig	203	Base	2	normal	psychic	1.5	41.5	70	80	65	90	65	85	455	60	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Equal	Normal	18.44444444
+204	Pineco	204	Base	2	bug	NA	0.6	7.2	50	65	90	35	35	15	290	190	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	20
+204	Forretress	205	Phase1	2	bug	steel	1.2	125.8	75	90	140	60	60	40	465	75	50	50	normal	0	Dual	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	87.36111111
+206	Dunsparce	206	Base	2	normal	NA	1.5	14	100	70	70	65	65	45	415	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	6.222222222
+207	Gligar	207	Base	2	ground	flying	1.1	64.8	65	75	105	35	65	85	430	60	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	53.55371901
+95	Steelix	208	Phase1	2	steel	ground	9.2	400	75	85	200	55	65	30	510	25	50	50	normal	0	Dual	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	4.725897921
+209	Snubbull	209	Base	2	fairy	NA	0.6	7.8	60	80	50	40	40	30	300	190	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	21.66666667
+209	Granbull	210	Phase1	2	fairy	NA	1.4	48.7	90	120	75	60	60	45	450	75	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	24.84693878
+211	Qwilfish	211	Base	2	water	poison	0.5	3.9	65	95	85	55	55	85	440	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	15.6
+123	Scizor	212	Phase1	2	bug	steel	1.8	118	70	130	100	55	80	65	500	25	50	50	normal	0	Dual	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	36.41975309
+213	Shuckle	213	NotEvolving	2	bug	rock	0.6	20.5	20	10	230	10	230	5	505	190	50	50	normal	0	Dual	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	56.94444444
+214	Heracross	214	NotEvolving	2	bug	fighting	1.5	54	80	125	75	40	95	85	500	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	24
+215	Sneasel	215	Base	2	dark	ice	0.9	28	55	95	55	35	75	115	430	60	50	35	normal	0	Dual	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	34.56790123
+216	Teddiursa	216	Base	2	normal	NA	0.6	8.8	60	80	50	50	50	40	330	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	24.44444444
+216	Ursaring	217	Phase1	2	normal	NA	1.8	125.8	90	130	75	75	75	55	500	60	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	38.82716049
+218	Slugma	218	Base	2	fire	NA	0.7	35	40	40	40	70	40	20	250	190	50	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	71.42857143
+218	Magcargo	219	Phase1	2	fire	rock	0.8	55	60	50	120	90	80	30	430	75	50	50	normal	0	Dual	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	85.9375
+220	Swinub	220	Base	2	ice	ground	0.4	6.5	50	50	40	30	30	50	250	225	50	50	normal	0	Dual	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	40.625
+220	Piloswine	221	Phase1	2	ice	ground	1.1	55.8	100	100	80	60	60	50	450	75	50	50	normal	0	Dual	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	46.11570248
+222	Corsola	222	Base	2	water	rock	0.6	5	65	55	95	65	95	35	410	60	25	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	13.88888889
+223	Remoraid	223	Base	2	water	NA	0.6	12	35	65	35	65	35	65	300	190	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	33.33333333
+223	Octillery	224	Phase1	2	water	NA	0.9	28.5	75	105	75	105	75	45	480	75	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	35.18518519
+225	Delibird	225	NotEvolving	2	ice	flying	0.9	16	45	55	45	65	45	75	330	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	Equal	Normal	19.75308642
+458	Mantine	226	Base	2	water	flying	2.1	220	85	40	70	80	140	70	485	25	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	49.88662132
+227	Skarmory	227	NotEvolving	2	steel	flying	1.7	50.5	65	80	140	40	70	70	465	25	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	17.47404844
+228	Houndour	228	Base	2	dark	fire	0.6	10.8	45	60	30	80	50	65	330	120	50	35	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	30
+228	Houndoom	229	Phase1	2	dark	fire	1.4	35	75	90	50	110	80	95	500	45	50	35	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	17.85714286
+116	Kingdra	230	Phase2	2	water	dragon	1.8	152	75	95	95	95	95	85	540	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	46.91358025
+231	Phanpy	231	Base	2	ground	NA	0.5	33.5	90	60	60	40	40	40	330	120	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	134
+231	Donphan	232	Phase1	2	ground	NA	1.1	120	90	120	120	60	60	50	500	60	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	99.17355372
+137	Porygon2	233	Phase1	2	normal	NA	0.6	32.5	85	80	90	105	95	60	515	45	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Normal	90.27777778
+234	Stantler	234	Base	2	normal	NA	1.4	71.2	73	95	62	85	65	85	465	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	36.32653061
+235	Smeargle	235	NotEvolving	2	normal	NA	1.2	58	55	20	35	20	45	75	250	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	40.27777778
+236	Tyrogue	236	Baby	2	fighting	NA	0.7	21	35	35	35	35	35	35	210	75	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	42.85714286
+236	Hitmontop	237	Base	2	fighting	NA	1.4	48	50	95	95	35	110	70	455	45	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	24.48979592
+238	Smoochum	238	Baby	2	ice	psychic	0.4	6	45	30	15	85	65	65	305	45	0	50	normal	0	Dual	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	Mostly females	Normal	37.5
+239	Elekid	239	Baby	2	electric	NA	0.6	23.5	45	63	37	65	55	95	360	45	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Mostly males	Normal	65.27777778
+240	Magby	240	Baby	2	fire	NA	0.7	21.4	45	75	37	70	55	83	365	45	75	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	43.67346939
+241	Miltank	241	NotEvolving	2	normal	NA	1.2	75.5	95	80	105	40	70	100	490	45	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	52.43055556
+440	Blissey	242	Phase1	2	normal	NA	1.5	46.8	255	10	10	75	135	55	540	30	0	140	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Happy	20.8
+243	Raikou	243	NotEvolving	2	electric	NA	1.9	178	90	85	75	115	100	115	580	3	NA	35	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	49.30747922
+244	Entei	244	NotEvolving	2	fire	NA	2.1	198	115	115	85	90	75	100	580	3	NA	35	sub-legendary	1	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	44.89795918
+245	Suicune	245	NotEvolving	2	water	NA	2	187	100	75	115	90	115	85	580	3	NA	35	sub-legendary	1	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	46.75
+246	Larvitar	246	Base	2	rock	ground	0.6	72	50	64	50	45	50	41	300	45	50	35	normal	0	Dual	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Unhappy	200
+246	Pupitar	247	Phase1	2	rock	ground	1.2	152	70	84	70	65	70	51	410	45	50	35	normal	0	Dual	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Unhappy	105.5555556
+246	Tyranitar	248	Phase2	2	rock	dark	2	202	100	134	110	95	100	61	600	45	50	35	normal	0	Dual	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	50.5
+249	Lugia	249	NotEvolving	2	psychic	flying	5.2	216	106	90	130	90	154	110	680	3	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	Genderless	Unhappy	7.98816568
+250	Ho-Oh	250	NotEvolving	2	fire	flying	3.8	199	106	130	90	110	154	90	680	3	NA	0	legendary	1	Dual	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	Genderless	Unhappy	13.78116343
+251	Celebi	251	NotEvolving	2	psychic	grass	0.6	5	100	100	100	100	100	100	600	45	NA	100	mythical	1	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Happy	13.88888889
+252	Treecko	252	Base	3	grass	NA	0.5	5	40	45	35	65	55	70	310	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	20
+252	Grovyle	253	Phase1	3	grass	NA	0.9	21.6	50	65	45	85	65	95	405	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	26.66666667
+252	Sceptile	254	Phase2	3	grass	NA	1.7	52.2	70	85	65	105	85	120	530	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	18.06228374
+255	Torchic	255	Base	3	fire	NA	0.4	2.5	45	60	40	70	50	45	310	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	15.625
+255	Combusken	256	Phase1	3	fire	fighting	0.9	19.5	60	85	60	85	60	55	405	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	24.07407407
+255	Blaziken	257	Phase2	3	fire	fighting	1.9	52	80	120	70	110	70	80	530	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	14.40443213
+258	Mudkip	258	Base	3	water	NA	0.4	7.6	50	70	50	50	50	40	310	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	47.5
+258	Marshtomp	259	Phase1	3	water	ground	0.7	28	70	85	70	60	70	50	405	45	87.5	50	normal	0	Dual	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	57.14285714
+258	Swampert	260	Phase2	3	water	ground	1.5	81.9	100	110	90	85	90	60	535	45	87.5	50	normal	0	Dual	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	36.4
+261	Poochyena	261	Base	3	dark	NA	0.5	13.6	35	55	35	30	30	35	220	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	54.4
+261	Mightyena	262	Phase1	3	dark	NA	1	37	70	90	70	60	60	70	420	127	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	37
+263	Zigzagoon	263	Base	3	normal	NA	0.4	17.5	38	30	41	30	41	60	240	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	109.375
+263	Linoone	264	Phase1	3	normal	NA	0.5	32.5	78	70	61	50	61	100	420	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	130
+265	Wurmple	265	Base	3	bug	NA	0.3	3.6	45	45	35	20	30	20	195	255	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	40
+265	Silcoon	266	Phase1	3	bug	NA	0.6	10	50	35	55	25	25	15	205	120	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	27.77777778
+265	Beautifly	267	Phase2	3	bug	flying	1	28.4	60	70	50	100	50	65	395	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	28.4
+265	Cascoon	268	Phase1	3	bug	NA	0.7	11.5	50	35	55	25	25	15	205	120	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	23.46938776
+265	Dustox	269	Phase2	3	bug	poison	1.2	31.6	60	50	70	50	90	65	385	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	21.94444444
+270	Lotad	270	Base	3	water	grass	0.5	2.6	40	30	30	40	50	30	220	255	50	50	normal	0	Dual	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	10.4
+270	Lombre	271	Phase1	3	water	grass	1.2	32.5	60	50	50	60	70	50	340	120	50	50	normal	0	Dual	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	22.56944444
+270	Ludicolo	272	Phase2	3	water	grass	1.5	55	80	70	70	90	100	70	480	45	50	50	normal	0	Dual	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	24.44444444
+273	Seedot	273	Base	3	grass	NA	0.5	4	40	40	50	30	30	30	220	255	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	16
+273	Nuzleaf	274	Phase1	3	grass	dark	1	28	70	70	40	60	40	60	340	120	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	28
+273	Shiftry	275	Phase2	3	grass	dark	1.3	59.6	90	100	60	90	60	80	480	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	35.26627219
+276	Taillow	276	Base	3	normal	flying	0.3	2.3	40	55	30	30	30	85	270	200	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	25.55555556
+276	Swellow	277	Phase1	3	normal	flying	0.7	19.8	60	85	60	75	50	125	455	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	40.40816327
+278	Wingull	278	Base	3	water	flying	0.6	9.5	40	30	30	55	30	85	270	190	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	26.38888889
+278	Pelipper	279	Phase1	3	water	flying	1.2	28	60	50	100	95	70	65	440	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	19.44444444
+280	Ralts	280	Base	3	psychic	fairy	0.4	6.6	28	25	25	45	35	40	198	235	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	Equal	Unhappy	41.25
+280	Kirlia	281	Phase1	3	psychic	fairy	0.8	20.2	38	35	35	65	55	50	278	120	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	Equal	Unhappy	31.5625
+280	Gardevoir	282	Phase2	3	psychic	fairy	1.6	48.4	68	65	65	125	115	80	518	45	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	Equal	Unhappy	18.90625
+283	Surskit	283	Base	3	bug	water	0.5	1.7	40	30	32	50	52	65	269	200	50	50	normal	0	Dual	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	6.8
+283	Masquerain	284	Phase1	3	bug	flying	0.8	3.6	70	60	62	100	82	80	454	75	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	5.625
+285	Shroomish	285	Base	3	grass	NA	0.4	4.5	60	40	60	40	60	35	295	255	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	28.125
+285	Breloom	286	Phase1	3	grass	fighting	1.2	39.2	60	130	80	60	60	70	460	90	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	27.22222222
+287	Slakoth	287	Base	3	normal	NA	0.8	24	60	60	60	35	35	30	280	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	37.5
+287	Vigoroth	288	Phase1	3	normal	NA	1.4	46.5	80	80	80	55	55	90	440	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	23.7244898
+287	Slaking	289	Phase2	3	normal	NA	2	130.5	150	160	100	95	65	100	670	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	32.625
+290	Nincada	290	Base	3	bug	ground	0.5	5.5	31	45	90	30	30	40	266	255	50	50	normal	0	Dual	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	22
+290	Ninjask	291	Phase1	3	bug	flying	0.8	12	61	90	45	50	50	160	456	120	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	18.75
+290	Shedinja	292	Phase1	3	bug	ghost	0.8	1.2	1	90	45	30	30	40	236	45	NA	50	normal	1	Dual	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	Genderless	Normal	1.875
+293	Whismur	293	Base	3	normal	NA	0.6	16.3	64	51	23	51	23	28	240	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	45.27777778
+293	Loudred	294	Phase1	3	normal	NA	1	40.5	84	71	43	71	43	48	360	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	40.5
+293	Exploud	295	Phase2	3	normal	NA	1.5	84	104	91	63	91	73	68	490	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	37.33333333
+296	Makuhita	296	Base	3	fighting	NA	1	86.4	72	60	30	20	30	25	237	180	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	86.4
+296	Hariyama	297	Phase1	3	fighting	NA	2.3	253.8	144	120	60	40	60	50	474	200	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	47.97731569
+298	Azurill	298	Baby	3	normal	fairy	0.2	2	50	20	40	20	40	20	190	150	25	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	Mostly females	Normal	50
+299	Nosepass	299	Base	3	rock	NA	1	97	30	45	135	45	90	30	375	255	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	97
+300	Skitty	300	Base	3	normal	NA	0.6	11	50	45	45	35	35	50	260	255	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	30.55555556
+300	Delcatty	301	Phase1	3	normal	NA	1.1	32.6	70	65	65	55	55	90	400	60	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	26.94214876
+302	Sableye	302	NotEvolving	3	dark	ghost	0.5	11	50	75	75	65	65	50	380	45	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	Equal	Unhappy	44
+303	Mawile	303	NotEvolving	3	steel	fairy	0.6	11.5	50	85	85	55	55	50	380	45	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	31.94444444
+304	Aron	304	Base	3	steel	rock	0.4	60	50	70	100	40	40	30	330	180	50	35	normal	0	Dual	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Unhappy	375
+304	Lairon	305	Phase1	3	steel	rock	0.9	120	60	90	140	50	50	40	430	90	50	35	normal	0	Dual	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Unhappy	148.1481481
+304	Aggron	306	Phase2	3	steel	rock	2.1	360	70	110	180	60	60	50	530	45	50	35	normal	0	Dual	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Unhappy	81.63265306
+307	Meditite	307	Base	3	fighting	psychic	0.6	11.2	30	40	55	40	55	60	280	180	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	Equal	Normal	31.11111111
+307	Medicham	308	Phase1	3	fighting	psychic	1.3	31.5	60	60	75	60	75	80	410	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	Equal	Normal	18.63905325
+309	Electrike	309	Base	3	electric	NA	0.6	15.2	40	45	40	65	40	65	295	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	42.22222222
+309	Manectric	310	Phase1	3	electric	NA	1.5	40.2	70	75	60	105	60	105	475	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	17.86666667
+311	Plusle	311	NotEvolving	3	electric	NA	0.4	4.2	60	50	40	85	75	95	405	200	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	26.25
+312	Minun	312	NotEvolving	3	electric	NA	0.4	4.2	60	40	50	75	85	95	405	200	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	26.25
+313	Volbeat	313	NotEvolving	3	bug	NA	0.7	17.7	65	73	75	47	85	85	430	150	100	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	36.12244898
+314	Illumise	314	NotEvolving	3	bug	NA	0.6	17.7	65	47	75	73	85	85	430	150	0	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	49.16666667
+406	Roselia	315	Base	3	grass	poison	0.3	2	50	60	45	100	80	65	400	150	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	22.22222222
+316	Gulpin	316	Base	3	poison	NA	0.4	10.3	70	43	53	43	53	40	302	225	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	64.375
+316	Swalot	317	Phase1	3	poison	NA	1.7	80	100	73	83	73	83	55	467	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	27.6816609
+318	Carvanha	318	Base	3	water	dark	0.8	20.8	45	90	20	65	20	65	305	225	50	35	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	32.5
+318	Sharpedo	319	Phase1	3	water	dark	1.8	88.8	70	120	40	95	40	95	460	60	50	35	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	27.40740741
+320	Wailmer	320	Base	3	water	NA	2	130	130	70	35	70	35	60	400	125	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	32.5
+320	Wailord	321	Phase1	3	water	NA	14.5	398	170	90	45	90	45	60	500	60	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	1.892984542
+322	Numel	322	Base	3	fire	ground	0.7	24	60	60	40	65	45	35	305	255	50	50	normal	0	Dual	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	48.97959184
+322	Camerupt	323	Phase1	3	fire	ground	1.9	220	70	100	70	105	75	40	460	150	50	50	normal	0	Dual	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	60.94182825
+324	Torkoal	324	NotEvolving	3	fire	NA	0.5	80.4	70	85	140	85	70	20	470	90	50	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	321.6
+325	Spoink	325	Base	3	psychic	NA	0.7	30.6	60	25	35	70	80	60	330	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	62.44897959
+325	Grumpig	326	Phase1	3	psychic	NA	0.9	71.5	80	45	65	90	110	80	470	60	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	88.27160494
+327	Spinda	327	NotEvolving	3	normal	NA	1.1	5	60	60	60	60	60	60	360	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	4.132231405
+328	Trapinch	328	Base	3	ground	NA	0.7	15	45	100	45	45	45	10	290	255	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	30.6122449
+328	Vibrava	329	Phase1	3	ground	dragon	1.1	15.3	50	70	50	50	50	70	340	120	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	12.6446281
+328	Flygon	330	Phase2	3	ground	dragon	2	82	80	100	80	80	80	100	520	45	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	20.5
+331	Cacnea	331	Base	3	grass	NA	0.4	51.3	50	85	40	85	40	35	335	190	50	35	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Unhappy	320.625
+331	Cacturne	332	Phase1	3	grass	dark	1.3	77.4	70	115	60	115	60	55	475	60	50	35	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	45.79881657
+333	Swablu	333	Base	3	normal	flying	0.4	1.2	45	40	60	40	75	50	310	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	7.5
+333	Altaria	334	Phase1	3	dragon	flying	1.1	20.6	75	70	90	70	105	80	490	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	Equal	Normal	17.02479339
+335	Zangoose	335	NotEvolving	3	normal	NA	1.3	40.3	73	115	60	60	60	90	458	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	23.84615385
+336	Seviper	336	NotEvolving	3	poison	NA	2.7	52.5	73	100	60	100	60	65	458	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	7.201646091
+337	Lunatone	337	NotEvolving	3	rock	psychic	1	168	90	55	65	95	85	70	460	45	NA	50	normal	1	Dual	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Normal	168
+338	Solrock	338	NotEvolving	3	rock	psychic	1.2	154	90	95	85	55	65	70	460	45	NA	50	normal	1	Dual	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Normal	106.9444444
+339	Barboach	339	Base	3	water	ground	0.4	1.9	50	48	43	46	41	60	288	190	50	50	normal	0	Dual	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	11.875
+339	Whiscash	340	Phase1	3	water	ground	0.9	23.6	110	78	73	76	71	60	468	75	50	50	normal	0	Dual	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	29.13580247
+341	Corphish	341	Base	3	water	NA	0.6	11.5	43	80	65	50	35	35	308	205	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	31.94444444
+341	Crawdaunt	342	Phase1	3	water	dark	1.1	32.8	63	120	85	90	55	55	468	155	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	27.10743802
+343	Baltoy	343	Base	3	ground	psychic	0.5	21.5	40	40	55	40	70	55	300	255	NA	50	normal	1	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Normal	86
+343	Claydol	344	Phase1	3	ground	psychic	1.5	108	60	70	105	70	120	75	500	90	NA	50	normal	1	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Normal	48
+345	Lileep	345	Base	3	rock	grass	1	23.8	66	41	77	61	87	23	355	45	87.5	50	normal	0	Dual	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	23.8
+345	Cradily	346	Phase1	3	rock	grass	1.5	60.4	86	81	97	81	107	43	495	45	87.5	50	normal	0	Dual	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	26.84444444
+347	Anorith	347	Base	3	rock	bug	0.7	12.5	45	95	50	40	50	75	355	45	87.5	50	normal	0	Dual	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	25.51020408
+347	 Armaldo	348	Phase1	3	rock	bug	1.5	68.2	75	125	100	70	80	45	495	45	87.5	50	normal	0	Dual	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	30.31111111
+349	Feebas	349	Base	3	water	NA	0.6	7.4	20	15	20	10	55	80	200	255	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	20.55555556
+349	Milotic	350	Phase1	3	water	NA	6.2	162	95	60	79	100	125	81	540	60	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	4.214360042
+351	Castform	351	NotEvolving	3	normal	NA	0.3	0.8	70	70	70	70	70	70	420	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	8.888888889
+352	Kecleon	352	NotEvolving	3	normal	NA	1	22	60	90	70	60	120	40	440	200	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	22
+353	Shuppet	353	Base	3	ghost	NA	0.6	2.3	44	75	35	63	33	45	295	225	50	35	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Unhappy	6.388888889
+353	Banette	354	Phase1	3	ghost	NA	1.1	12.5	64	115	65	83	63	65	455	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Unhappy	10.33057851
+355	Duskull	355	Base	3	ghost	NA	0.8	15	20	40	90	30	90	25	295	190	50	35	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Unhappy	23.4375
+355	Dusclops	356	Phase1	3	ghost	NA	1.6	30.6	40	70	130	60	130	25	455	90	50	35	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Unhappy	11.953125
+357	Tropius	357	NotEvolving	3	grass	flying	2	100	99	68	83	72	87	51	460	200	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	25
+433	Chimecho	358	Base	3	psychic	NA	0.6	1	75	50	80	95	90	65	455	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	2.777777778
+359	Absol	359	NotEvolving	3	dark	NA	1.2	47	65	130	60	75	60	75	465	30	50	35	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	32.63888889
+360	Wynaut	360	Baby	3	psychic	NA	0.6	14	95	23	48	23	48	23	260	125	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	38.88888889
+361	Snorunt	361	Base	3	ice	NA	0.7	16.8	50	50	50	50	50	50	300	190	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	34.28571429
+361	Glalie	362	Phase1	3	ice	NA	1.5	256.5	80	80	80	80	80	80	480	75	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	114
+363	Spheal	363	Base	3	ice	water	0.8	39.5	70	40	50	55	50	25	290	255	50	50	normal	0	Dual	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	61.71875
+363	Sealeo	364	Phase1	3	ice	water	1.1	87.6	90	60	70	75	70	45	410	120	50	50	normal	0	Dual	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	72.39669421
+363	Walrein	365	Phase2	3	ice	water	1.4	150.6	110	80	90	95	90	65	530	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	76.83673469
+366	Clamperl	366	Base	3	water	NA	0.4	52.5	35	64	85	74	55	32	345	255	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	328.125
+366	Huntail	367	Phase1	3	water	NA	1.7	27	55	104	105	94	75	52	485	60	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	9.342560554
+366	Gorebyss	368	Phase1	3	water	NA	1.8	22.6	55	84	105	114	75	52	485	60	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	6.975308642
+369	Relicanth	369	NotEvolving	3	water	rock	1	23.4	100	90	130	45	65	55	485	25	87.5	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	23.4
+370	Luvdisc	370	NotEvolving	3	water	NA	0.6	8.7	43	30	55	40	65	97	330	225	25	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	24.16666667
+371	Bagon	371	Base	3	dragon	NA	0.6	42.1	45	75	60	40	30	50	300	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	116.9444444
+371	Shelgon	372	Phase1	3	dragon	NA	1.1	110.5	65	95	100	60	50	50	420	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	91.32231405
+371	Salamence	373	Phase2	3	dragon	flying	1.5	102.6	95	135	80	110	80	100	600	45	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	Equal	Unhappy	45.6
+374	Beldum	374	Base	3	steel	psychic	0.6	95.2	40	55	80	35	60	30	300	3	NA	35	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	264.4444444
+374	Metang	375	Phase1	3	steel	psychic	1.2	202.5	60	75	100	55	80	50	420	3	NA	35	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	140.625
+374	Metagross	376	Phase2	3	steel	psychic	1.6	550	80	135	130	95	90	70	600	3	NA	35	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	214.84375
+377	Regirock	377	NotEvolving	3	rock	NA	1.7	230	80	100	200	50	100	50	580	3	NA	35	sub-legendary	1	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	79.58477509
+378	Regice	378	NotEvolving	3	ice	NA	1.8	175	80	50	100	100	200	50	580	3	NA	35	sub-legendary	1	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	54.01234568
+379	Registeel	379	NotEvolving	3	steel	NA	1.9	205	80	75	150	75	150	50	580	3	NA	35	sub-legendary	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	56.7867036
+380	Latias	380	NotEvolving	3	dragon	psychic	1.4	40	80	80	90	110	130	110	600	3	0	90	sub-legendary	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	Mostly females	Happy	20.40816327
+381	Latios	381	NotEvolving	3	dragon	psychic	2	60	80	90	80	130	110	110	600	3	100	90	sub-legendary	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	Mostly males	Happy	15
+382	Kyogre	382	NotEvolving	3	water	NA	4.5	352	100	100	90	150	140	90	670	3	NA	0	legendary	1	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	17.38271605
+383	Groudon	383	NotEvolving	3	ground	NA	3.5	950	100	150	140	100	90	90	670	3	NA	0	legendary	1	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	77.55102041
+384	Rayquaza	384	NotEvolving	3	dragon	flying	7	206.5	105	150	90	150	90	95	680	45	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	Genderless	Unhappy	4.214285714
+385	Jirachi	385	NotEvolving	3	steel	psychic	0.3	1.1	100	100	100	100	100	100	600	3	NA	100	mythical	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Happy	12.22222222
+386	Deoxys	386	NotEvolving	3	psychic	NA	1.7	60.8	50	150	50	150	50	150	600	3	NA	0	mythical	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	21.03806228
+387	Turtwig	387	Base	4	grass	NA	0.4	10.2	55	68	64	45	55	31	318	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	63.75
+387	Grotle	388	Phase1	4	grass	NA	1.1	97	75	89	85	55	65	36	405	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	80.16528926
+387	Torterra	389	Phase2	4	grass	ground	2.2	310	95	109	105	75	85	56	525	45	87.5	50	normal	0	Dual	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	64.04958678
+390	Chimchar	390	Base	4	fire	NA	0.5	6.2	44	58	44	58	44	61	309	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	24.8
+390	Monferno	391	Phase1	4	fire	fighting	0.9	22	64	78	52	78	52	81	405	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	27.16049383
+390	Infernape	392	Phase2	4	fire	fighting	1.2	55	76	104	71	104	71	108	534	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	38.19444444
+393	Piplup	393	Base	4	water	NA	0.4	5.2	53	51	53	61	56	40	314	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	32.5
+393	Prinplup	394	Phase1	4	water	NA	0.8	23	64	66	68	81	76	50	405	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	35.9375
+393	Empoleon	395	Phase2	4	water	steel	1.7	84.5	84	86	88	111	101	60	530	45	87.5	50	normal	0	Dual	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	29.23875433
+396	Starly	396	Base	4	normal	flying	0.3	2	40	55	30	30	30	60	245	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	22.22222222
+396	Staravia	397	Phase1	4	normal	flying	0.6	15.5	55	75	50	40	40	80	340	120	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	43.05555556
+396	Staraptor	398	Phase2	4	normal	flying	1.2	24.9	85	120	70	50	60	100	485	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	17.29166667
+399	Bidoof	399	Base	4	normal	NA	0.5	20	59	45	40	35	40	31	250	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	80
+399	Bibarel	400	Phase1	4	normal	water	1	31.5	79	85	60	55	60	71	410	127	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	31.5
+401	Kricketot	401	Base	4	bug	NA	0.3	2.2	37	25	41	25	41	25	194	255	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	24.44444444
+401	Kricketune	402	Phase1	4	bug	NA	1	25.5	77	85	51	55	51	65	384	45	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	25.5
+403	Shinx	403	Base	4	electric	NA	0.5	9.5	45	65	34	40	34	45	263	235	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	38
+403	Luxio	404	Phase1	4	electric	NA	0.9	30.5	60	85	49	60	49	60	363	120	50	100	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Happy	37.65432099
+403	Luxray	405	Phase2	4	electric	NA	1.4	42	80	120	79	95	79	70	523	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	21.42857143
+406	Budew	406	Baby	4	grass	poison	0.2	1.2	40	30	35	50	70	55	280	255	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	30
+406	Roserade	407	Phase1	4	grass	poison	0.9	14.5	60	70	65	125	105	90	515	75	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	17.90123457
+408	Cranidos	408	Base	4	rock	NA	0.9	31.5	67	125	40	30	30	58	350	45	87.5	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	38.88888889
+408	Rampardos	409	Phase1	4	rock	NA	1.6	102.5	97	165	60	65	50	58	495	45	87.5	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	40.0390625
+410	Shieldon	410	Base	4	rock	steel	0.5	57	30	42	118	42	88	30	350	45	87.5	50	normal	0	Dual	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	228
+410	Bastiodon	411	Phase1	4	rock	steel	1.3	149.5	60	52	168	47	138	30	495	45	87.5	50	normal	0	Dual	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	88.46153846
+412	Burmy	412	Base	4	bug	NA	0.2	3.4	40	29	45	29	45	36	224	120	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	85
+412	Wormadam	413	Phase1	4	bug	grass	0.5	6.5	60	59	85	79	105	36	424	45	0	50	normal	0	Dual	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	26
+412	Mothim	414	Phase1	4	bug	flying	0.9	23.3	70	94	50	94	50	66	424	45	100	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Normal	28.7654321
+415	Combee	415	Base	4	bug	flying	0.3	5.5	30	30	42	30	42	70	244	120	87.5	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Normal	61.11111111
+415	Vespiquen	416	Phase1	4	bug	flying	1.2	38.5	70	80	102	80	102	40	474	45	0	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Mostly females	Normal	26.73611111
+417	Pachirisu	417	NotEvolving	4	electric	NA	0.4	3.9	60	45	70	45	90	95	405	200	50	100	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Happy	24.375
+418	Buizel	418	Base	4	water	NA	0.7	29.5	55	65	35	60	30	85	330	190	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	60.20408163
+418	Floatzel	419	Phase1	4	water	NA	1.1	33.5	85	105	55	85	50	115	495	75	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	27.68595041
+420	Cherubi	420	Base	4	grass	NA	0.4	3.3	45	35	45	62	53	35	275	190	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	20.625
+420	Cherrim	421	Phase1	4	grass	NA	0.5	9.3	70	60	70	87	78	85	450	75	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	37.2
+422	Shellos	422	Base	4	water	NA	0.3	6.3	76	48	48	57	62	34	325	190	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	70
+422	Gastrodon	423	Phase1	4	water	ground	0.9	29.9	111	83	68	92	82	39	475	75	50	50	normal	0	Dual	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	36.91358025
+190	Ambipom	424	Phase1	4	normal	NA	1.2	20.3	75	100	66	60	66	115	482	45	50	100	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Happy	14.09722222
+425	Drifloon	425	Base	4	ghost	flying	0.4	1.2	90	50	34	60	44	70	348	125	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	Equal	Normal	7.5
+425	Drifblim	426	Phase1	4	ghost	flying	1.2	15	150	80	44	90	54	80	498	60	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	Equal	Normal	10.41666667
+427	Buneary	427	Base	4	normal	NA	0.4	5.5	55	66	44	44	56	85	350	190	50	0	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Unhappy	34.375
+427	Lopunny	428	Phase1	4	normal	NA	1.2	33.3	65	76	84	54	96	105	480	60	50	140	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Happy	23.125
+200	Mismagius	429	Phase1	4	ghost	NA	0.9	4.4	60	60	60	105	105	105	495	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Unhappy	5.432098765
+198	Honchkrow	430	Phase1	4	dark	flying	0.9	27.3	100	125	52	105	52	71	505	30	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	Equal	Unhappy	33.7037037
+431	Glameow	431	Base	4	normal	NA	0.5	3.9	49	55	42	42	37	85	310	190	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	15.6
+431	Purugly	432	Phase1	4	normal	NA	1	43.8	71	82	64	64	59	112	452	75	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	43.8
+433	Chingling	433	Baby	4	psychic	NA	0.2	0.6	45	30	50	65	50	45	285	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	15
+434	Stunky	434	Base	4	poison	dark	0.4	19.2	63	63	47	41	41	74	329	225	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Equal	Normal	120
+434	Skuntank	435	Phase1	4	poison	dark	1	38	103	93	67	71	61	84	479	60	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Equal	Normal	38
+436	Bronzor	436	Base	4	steel	psychic	0.5	60.5	57	24	86	24	86	23	300	255	NA	50	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Normal	242
+436	Bronzong	437	Phase1	4	steel	psychic	1.3	187	67	89	116	79	116	33	500	90	NA	50	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Normal	110.6508876
+438	Bonsly	438	Baby	4	rock	NA	0.5	15	50	80	95	10	45	10	290	255	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	60
+439	Mime Jr.	439	Baby	4	psychic	fairy	0.6	13	20	25	45	70	90	60	310	145	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	Equal	Normal	36.11111111
+440	Happiny	440	Baby	4	normal	NA	0.6	24.4	100	5	5	15	65	30	220	130	0	140	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Happy	67.77777778
+441	Chatot	441	NotEvolving	4	normal	flying	0.5	1.9	76	65	45	92	42	91	411	30	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Unhappy	7.6
+442	Spiritomb	442	NotEvolving	4	ghost	dark	1	108	50	92	108	92	108	35	485	100	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	Equal	Normal	108
+443	Gible	443	Base	4	dragon	ground	0.7	20.5	58	70	45	40	45	42	300	45	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	41.83673469
+443	Gabite	444	Phase1	4	dragon	ground	1.4	56	68	90	65	50	55	82	410	45	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	28.57142857
+443	Garchomp	445	Phase2	4	dragon	ground	1.9	95	108	130	95	80	85	102	600	45	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	26.31578947
+446	Munchlax	446	Baby	4	normal	NA	0.6	105	135	85	40	40	85	5	390	50	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly males	Normal	291.6666667
+447	Riolu	447	Base	4	fighting	NA	0.7	20.2	40	70	40	35	40	60	285	75	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	41.2244898
+447	Lucario	448	Phase1	4	fighting	steel	1.2	54	70	110	70	115	70	90	525	45	87.5	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	37.5
+449	Hippopotas	449	Base	4	ground	NA	0.8	49.5	68	72	78	38	42	32	330	140	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	77.34375
+449	Hippowdon	450	Phase1	4	ground	NA	2	300	108	112	118	68	72	47	525	60	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	75
+451	Skorupi	451	Base	4	poison	bug	0.8	12	40	50	90	30	55	65	330	120	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	18.75
+451	Drapion	452	Phase1	4	poison	dark	1.3	61.5	70	90	110	60	75	95	500	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Equal	Normal	36.39053254
+453	Croagunk	453	Base	4	poison	fighting	0.7	23	48	61	40	61	40	50	300	140	50	100	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	Equal	Happy	46.93877551
+453	Toxicroak	454	Phase1	4	poison	fighting	1.3	44.4	83	106	65	86	65	85	490	75	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	Equal	Normal	26.27218935
+455	Carnivine	455	NotEvolving	4	grass	NA	1.4	27	74	100	72	90	72	46	454	200	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	13.7755102
+456	Finneon	456	Base	4	water	NA	0.4	7	49	49	56	49	61	66	330	190	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	43.75
+456	Lumineon	457	Phase1	4	water	NA	1.2	24	69	69	76	69	86	91	460	75	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	16.66666667
+458	Mantyke	458	Baby	4	water	flying	1	65	45	20	50	60	120	50	345	25	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	65
+459	Snover	459	Base	4	grass	ice	1	50.5	60	62	50	62	60	40	334	120	50	50	normal	0	Dual	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	50.5
+459	Abomasnow	460	Phase1	4	grass	ice	2.2	135.5	90	92	75	92	85	60	494	60	50	50	normal	0	Dual	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	27.99586777
+215	Weavile	461	Phase1	4	dark	ice	1.1	34	70	120	65	45	85	125	510	45	50	35	normal	0	Dual	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	28.09917355
+81	Magnezone	462	Phase2	4	electric	steel	1.2	180	70	70	115	130	90	60	535	30	NA	50	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Normal	125
+108	Lickilicky	463	Phase1	4	normal	NA	1.7	140	110	85	95	80	95	50	515	30	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	48.44290657
+111	Rhyperior	464	Phase2	4	ground	rock	2.4	282.8	115	140	130	55	55	40	535	30	50	50	normal	0	Dual	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	49.09722222
+114	Tangrowth	465	Phase1	4	grass	NA	2	128.6	100	100	125	110	50	50	535	30	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	32.15
+239	Electivire	466	Phase1	4	electric	NA	1.8	138.6	75	123	67	95	85	95	540	30	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Mostly males	Normal	42.77777778
+240	Magmortar	467	Phase1	4	fire	NA	1.6	68	75	95	67	125	95	83	540	30	75	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	26.5625
+175	Togekiss	468	Phase1	4	fairy	flying	1.5	38	85	50	95	120	115	80	545	30	87.5	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	Mostly males	Normal	16.88888889
+193	Yanmega	469	Phase1	4	bug	flying	1.9	51.5	86	76	86	116	56	95	515	30	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	14.26592798
+133	Leafeon	470	Phase1	4	grass	NA	1	25.5	65	110	130	60	65	95	525	45	87.5	35	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Unhappy	25.5
+133	Glaceon	471	Phase1	4	ice	NA	0.8	25.9	65	60	110	130	95	65	525	45	87.5	35	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Mostly males	Unhappy	40.46875
+207	Gliscor	472	Phase1	4	ground	flying	2	42.5	75	95	125	45	75	95	510	30	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	10.625
+220	Mamoswine	473	Phase2	4	ice	ground	2.5	291	110	130	80	70	60	80	530	50	50	50	normal	0	Dual	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	46.56
+137	Porygon-Z	474	Phase2	4	normal	NA	0.9	34	85	80	70	135	75	90	535	30	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Normal	41.97530864
+280	Gallade	475	Phase2	4	psychic	fighting	1.6	52	68	125	65	65	115	80	518	45	100	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	Mostly males	Unhappy	20.3125
+299	Probopass	476	Phase1	4	rock	steel	1.4	340	60	55	145	75	150	40	525	60	50	50	normal	0	Dual	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	173.4693878
+355	Dusknoir	477	Phase2	4	ghost	NA	2.2	106.6	45	100	135	65	135	45	525	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Unhappy	22.02479339
+361	Froslass	478	Phase1	4	ice	ghost	1.3	26.6	70	80	70	80	70	110	480	75	0	50	normal	0	Dual	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	Mostly females	Normal	15.73964497
+479	Rotom	479	NotEvolving	4	electric	ghost	0.3	0.3	50	50	77	95	77	91	440	45	NA	50	normal	1	Dual	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	Genderless	Normal	3.333333333
+480	Uxie	480	NotEvolving	4	psychic	NA	0.3	0.3	75	75	130	75	130	95	580	3	NA	140	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Happy	3.333333333
+481	Mesprit	481	NotEvolving	4	psychic	NA	0.3	0.3	80	105	105	105	105	80	580	3	NA	140	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Happy	3.333333333
+482	Azelf	482	NotEvolving	4	psychic	NA	0.3	0.3	75	125	70	125	70	115	580	3	NA	140	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Happy	3.333333333
+483	Dialga	483	NotEvolving	4	steel	dragon	5.4	683	100	120	120	150	100	90	680	3	NA	0	legendary	1	Dual	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	23.42249657
+484	Palkia	484	NotEvolving	4	water	dragon	4.2	336	90	120	100	150	120	100	680	3	NA	0	legendary	1	Dual	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	19.04761905
+485	Heatran	485	NotEvolving	4	fire	steel	1.7	430	91	90	106	130	106	77	600	3	50	100	sub-legendary	0	Dual	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Happy	148.7889273
+486	Regigigas	486	NotEvolving	4	normal	NA	3.7	420	110	160	110	80	110	100	670	3	NA	0	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Unhappy	30.67932798
+487	Giratina	487	NotEvolving	4	ghost	dragon	4.5	750	150	100	120	100	120	90	680	3	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	Genderless	Unhappy	37.03703704
+488	Cresselia	488	NotEvolving	4	psychic	NA	1.5	85.6	120	70	110	75	120	85	580	3	0	100	sub-legendary	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly females	Happy	38.04444444
+489	Phione	489	NotEvolving	4	water	NA	0.4	3.1	80	80	80	80	80	80	480	30	NA	50	mythical	1	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Normal	19.375
+490	Manaphy	490	NotEvolving	4	water	NA	0.3	1.4	100	100	100	100	100	100	600	3	NA	50	mythical	1	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Normal	15.55555556
+491	Darkrai	491	NotEvolving	4	dark	NA	1.5	50.5	70	90	90	135	90	125	600	3	NA	0	mythical	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	22.44444444
+492	Shaymin	492	NotEvolving	4	grass	NA	0.2	2.1	100	100	100	100	100	100	600	45	NA	100	mythical	1	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Happy	52.5
+493	Arceus	493	NotEvolving	4	normal	NA	3.2	320	120	120	120	120	120	120	720	3	NA	0	mythical	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Unhappy	31.25
+494	Victini	494	NotEvolving	5	psychic	fire	0.4	4	100	100	100	100	100	100	600	3	NA	100	mythical	1	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Happy	25
+495	Snivy	495	Base	5	grass	NA	0.6	8.1	45	45	55	45	55	63	308	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	22.5
+495	Servine	496	Phase1	5	grass	NA	0.8	16	60	60	75	60	75	83	413	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	25
+495	Serperior	497	Phase2	5	grass	NA	3.3	63	75	75	95	75	95	113	528	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	5.785123967
+498	Tepig	498	Base	5	fire	NA	0.5	9.9	65	63	45	45	45	45	308	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	39.6
+498	Pignite	499	Phase1	5	fire	fighting	1	55.5	90	93	55	70	55	55	418	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	55.5
+498	Emboar	500	Phase2	5	fire	fighting	1.6	150	110	123	65	100	65	65	528	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	58.59375
+501	Oshawott	501	Base	5	water	NA	0.5	5.9	55	55	45	63	45	45	308	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	23.6
+501	Dewott	502	Phase1	5	water	NA	0.8	24.5	75	75	60	83	60	60	413	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	38.28125
+501	Samurott	503	Phase2	5	water	NA	1.5	94.6	95	100	85	108	70	70	528	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	42.04444444
+504	Patrat	504	Base	5	normal	NA	0.5	11.6	45	55	39	35	39	42	255	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	46.4
+504	Watchog	505	Phase1	5	normal	NA	1.1	27	60	85	69	60	69	77	420	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	22.31404959
+506	Lillipup	506	Base	5	normal	NA	0.4	4.1	45	60	45	25	45	55	275	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	25.625
+506	Herdier	507	Phase1	5	normal	NA	0.9	14.7	65	80	65	35	65	60	370	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	18.14814815
+506	Stoutland	508	Phase2	5	normal	NA	1.2	61	85	110	90	45	90	80	500	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	42.36111111
+509	Purrloin	509	Base	5	dark	NA	0.4	10.1	41	50	37	50	37	66	281	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	63.125
+509	Liepard	510	Phase1	5	dark	NA	1.1	37.5	64	88	50	88	50	106	446	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	30.99173554
+511	Pansage	511	Base	5	grass	NA	0.6	10.5	50	53	48	53	48	64	316	190	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	29.16666667
+511	Simisage	512	Phase1	5	grass	NA	1.1	30.5	75	98	63	98	63	101	498	75	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	25.20661157
+513	Pansear	513	Base	5	fire	NA	0.6	11	50	53	48	53	48	64	316	190	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	30.55555556
+513	Simisear	514	Phase1	5	fire	NA	1	28	75	98	63	98	63	101	498	75	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	28
+515	Panpour	515	Base	5	water	NA	0.6	13.5	50	53	48	53	48	64	316	190	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	37.5
+515	Simipour	516	Phase1	5	water	NA	1	29	75	98	63	98	63	101	498	75	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	29
+517	Munna	517	Base	5	psychic	NA	0.6	23.3	76	25	45	67	55	24	292	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	64.72222222
+517	Musharna	518	Phase1	5	psychic	NA	1.1	60.5	116	55	85	107	95	29	487	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	50
+519	Pidove	519	Base	5	normal	flying	0.3	2.1	50	55	50	36	30	43	264	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	23.33333333
+519	Tranquill	520	Phase1	5	normal	flying	0.6	15	62	77	62	50	42	65	358	120	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	41.66666667
+519	Unfezant	521	Phase2	5	normal	flying	1.2	29	80	115	80	65	55	93	488	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	20.13888889
+522	Blitzle	522	Base	5	electric	NA	0.8	29.8	45	60	32	50	32	76	295	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	46.5625
+522	Zebstrika	523	Phase1	5	electric	NA	1.6	79.5	75	100	63	80	63	116	497	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	31.0546875
+524	Roggenrola	524	Base	5	rock	NA	0.4	18	55	75	85	25	25	15	280	255	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	112.5
+524	Boldore	525	Phase1	5	rock	NA	0.9	102	70	105	105	50	40	20	390	120	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	125.9259259
+524	Gigalith	526	Phase2	5	rock	NA	1.7	260	85	135	130	60	80	25	515	45	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	89.96539792
+527	Woobat	527	Base	5	psychic	flying	0.4	2.1	65	45	43	55	43	72	323	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	Equal	Normal	13.125
+527	Swoobat	528	Phase1	5	psychic	flying	0.9	10.5	67	57	55	77	55	114	425	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	Equal	Normal	12.96296296
+529	Drilbur	529	Base	5	ground	NA	0.3	8.5	60	85	40	30	45	68	328	120	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	94.44444444
+529	Excadrill	530	Phase1	5	ground	steel	0.7	40.4	110	135	60	50	65	88	508	60	50	50	normal	0	Dual	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	82.44897959
+531	Audino	531	NotEvolving	5	normal	NA	1.1	31	103	60	86	60	86	50	445	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	25.61983471
+532	Timburr	532	Base	5	fighting	NA	0.6	12.5	75	80	55	25	35	35	305	180	75	70	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Happy	34.72222222
+532	Gurdurr	533	Phase1	5	fighting	NA	1.2	40	85	105	85	40	50	40	405	90	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	27.77777778
+532	Conkeldurr	534	Phase2	5	fighting	NA	1.4	87	105	140	95	55	65	45	505	45	75	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	44.3877551
+535	Tympole	535	Base	5	water	NA	0.5	4.5	50	50	40	50	40	64	294	255	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	18
+535	Palpitoad	536	Phase1	5	water	ground	0.8	17	75	65	55	65	55	69	384	120	50	50	normal	0	Dual	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	26.5625
+535	Seismitoad	537	Phase2	5	water	ground	1.5	62	105	95	75	85	75	74	509	45	50	50	normal	0	Dual	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	27.55555556
+538	Throh	538	NotEvolving	5	fighting	NA	1.3	55.5	120	100	85	30	85	45	465	45	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	32.84023669
+539	Sawk	539	NotEvolving	5	fighting	NA	1.4	51	75	125	75	30	75	85	465	45	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	26.02040816
+540	Sewaddle	540	Base	5	bug	grass	0.3	2.5	45	53	70	40	60	42	310	255	50	50	normal	0	Dual	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	27.77777778
+540	Swadloon	541	Phase1	5	bug	grass	0.5	7.3	55	63	90	50	80	42	380	120	50	50	normal	0	Dual	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	29.2
+540	Leavanny	542	Phase2	5	bug	grass	1.2	20.5	75	103	80	70	80	92	500	45	50	50	normal	0	Dual	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	14.23611111
+543	Venipede	543	Base	5	bug	poison	0.4	5.3	30	45	59	30	39	57	260	255	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	33.125
+543	Whirlipede	544	Phase1	5	bug	poison	1.2	58.5	40	55	99	40	79	47	360	120	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	40.625
+543	Scolipede	545	Phase2	5	bug	poison	2.5	200.5	60	100	89	55	69	112	485	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	32.08
+546	Cottonee	546	Base	5	grass	fairy	0.3	0.6	40	27	60	37	50	66	280	190	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	6.666666667
+546	Whimsicott	547	Phase1	5	grass	fairy	0.7	6.6	60	67	85	77	75	116	480	75	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	13.46938776
+548	Petilil	548	Base	5	grass	NA	0.5	6.6	45	35	50	70	50	30	280	190	0	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	26.4
+548	Lilligant	549	Phase1	5	grass	NA	1.1	16.3	70	60	75	110	75	90	480	75	0	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	13.47107438
+550	Basculin	550	Base	5	water	NA	1	18	70	92	65	80	55	98	460	25	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	18
+551	Sandile	551	Base	5	ground	dark	0.7	15.2	50	72	35	35	35	65	292	180	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	31.02040816
+551	Krokorok	552	Phase1	5	ground	dark	1	33.4	60	82	45	45	45	74	351	90	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	33.4
+551	Krookodile	553	Phase2	5	ground	dark	1.5	96.3	95	117	80	65	70	92	519	45	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	42.8
+554	Darumaka	554	Base	5	fire	NA	0.6	37.5	70	90	45	15	45	50	315	120	50	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	104.1666667
+554	Darmanitan	555	Phase1	5	fire	NA	1.3	92.9	105	140	55	30	55	95	480	60	50	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	54.9704142
+556	Maractus	556	NotEvolving	5	grass	NA	1	28	75	86	67	106	67	60	461	255	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	28
+557	Dwebble	557	Base	5	bug	rock	0.3	14.5	50	65	85	35	35	55	325	190	50	50	normal	0	Dual	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	161.1111111
+557	Crustle	558	Phase1	5	bug	rock	1.4	200	70	105	125	65	75	45	485	75	50	50	normal	0	Dual	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	102.0408163
+559	Scraggy	559	Base	5	dark	fighting	0.6	11.8	50	75	70	35	70	48	348	180	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	Equal	Unhappy	32.77777778
+559	Scrafty	560	Phase1	5	dark	fighting	1.1	30	65	90	115	45	115	58	488	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	Equal	Normal	24.79338843
+561	Sigilyph	561	NotEvolving	5	psychic	flying	1.4	14	72	58	80	103	80	97	490	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	Equal	Normal	7.142857143
+562	Yamask	562	Base	5	ghost	NA	0.5	1.5	38	30	85	55	65	30	303	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	6
+562	Cofagrigus	563	Phase1	5	ghost	NA	1.7	76.5	58	50	145	95	105	30	483	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	26.47058824
+564	Tirtouga	564	Base	5	water	rock	0.7	16.5	54	78	103	53	45	22	355	45	87.5	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	33.67346939
+564	Carracosta	565	Phase1	5	water	rock	1.2	81	74	108	133	83	65	32	495	45	87.5	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	56.25
+566	Archen	566	Base	5	rock	flying	0.5	9.5	55	112	45	74	45	70	401	45	87.5	50	normal	0	Dual	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Normal	38
+566	Archeops	567	Phase1	5	rock	flying	1.4	32	75	140	65	112	65	110	567	45	87.5	50	normal	0	Dual	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Normal	16.32653061
+568	Trubbish	568	Base	5	poison	NA	0.6	31	50	50	62	40	62	65	329	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	86.11111111
+568	Garbodor	569	Phase1	5	poison	NA	1.9	107.3	80	95	82	60	82	75	474	60	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	29.72299169
+570	Zorua	570	Base	5	dark	NA	0.7	12.5	40	65	40	80	40	65	330	75	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Mostly males	Normal	25.51020408
+570	Zoroark	571	Phase1	5	dark	NA	1.6	81.1	60	105	60	120	60	105	510	45	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Mostly males	Normal	31.6796875
+572	Minccino	572	Base	5	normal	NA	0.4	5.8	55	50	40	40	40	75	300	255	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	36.25
+572	Cinccino	573	Phase1	5	normal	NA	0.5	7.5	75	95	60	65	60	115	470	60	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	30
+574	Gothita	574	Base	5	psychic	NA	0.4	5.8	45	30	50	55	65	45	290	200	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly females	Normal	36.25
+574	Gothorita	575	Phase1	5	psychic	NA	0.7	18	60	45	70	75	85	55	390	100	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly females	Normal	36.73469388
+574	Gothitelle	576	Phase2	5	psychic	NA	1.5	44	70	55	95	95	110	65	490	50	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly females	Normal	19.55555556
+577	Solosis	577	Base	5	psychic	NA	0.3	1	45	30	40	105	50	20	290	200	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	11.11111111
+577	Duosion	578	Phase1	5	psychic	NA	0.6	8	65	40	50	125	60	30	370	100	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	22.22222222
+577	Reuniclus	579	Phase2	5	psychic	NA	1	20.1	110	65	75	125	85	30	490	50	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	20.1
+580	Ducklett	580	Base	5	water	flying	0.5	5.5	62	44	50	44	50	55	305	190	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	22
+580	Swanna	581	Phase1	5	water	flying	1.3	24.2	75	87	63	87	63	98	473	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	14.31952663
+582	Vanillite	582	Base	5	ice	NA	0.4	5.7	36	50	50	65	60	44	305	255	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	35.625
+582	Vanillish	583	Phase1	5	ice	NA	1.1	41	51	65	65	80	75	59	395	120	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	33.88429752
+582	Vanilluxe	584	Phase2	5	ice	NA	1.3	57.5	71	95	85	110	95	79	535	45	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	34.02366864
+585	Deerling	585	Base	5	normal	grass	0.6	19.5	60	60	50	40	50	75	335	190	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	54.16666667
+585	Sawsbuck	586	Phase1	5	normal	grass	1.9	92.5	80	100	70	60	70	95	475	75	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	25.6232687
+587	Emolga	587	NotEvolving	5	electric	flying	0.4	5	55	75	60	75	60	103	428	200	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	Equal	Normal	31.25
+588	Karrablast	588	Base	5	bug	NA	0.5	5.9	50	75	45	40	45	60	315	200	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	23.6
+588	Escavalier	589	Phase1	5	bug	steel	1	33	70	135	105	60	105	20	495	75	50	50	normal	0	Dual	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	33
+590	Foongus	590	Base	5	grass	poison	0.2	1	69	55	45	55	55	15	294	190	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	25
+590	Amoonguss	591	Phase1	5	grass	poison	0.6	10.5	114	85	70	85	80	30	464	75	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	29.16666667
+592	Frillish	592	Base	5	water	ghost	1.2	33	55	40	50	65	85	40	335	190	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	22.91666667
+592	Jellicent	593	Phase1	5	water	ghost	2.2	135	100	60	70	85	105	60	480	60	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	27.89256198
+594	Alomomola	594	NotEvolving	5	water	NA	1.2	31.6	165	75	80	40	45	65	470	75	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	21.94444444
+595	Joltik	595	Base	5	bug	electric	0.1	0.6	50	47	50	57	50	65	319	190	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	60
+595	Galvantula	596	Phase1	5	bug	electric	0.8	14.3	70	77	60	97	60	108	472	75	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	22.34375
+597	Ferroseed	597	Base	5	grass	steel	0.6	18.8	44	50	91	24	86	10	305	255	50	50	normal	0	Dual	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	52.22222222
+597	Ferrothorn	598	Phase1	5	grass	steel	1	110	74	94	131	54	116	20	489	90	50	50	normal	0	Dual	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	110
+599	Klink	599	Base	5	steel	NA	0.3	21	40	55	70	45	60	30	300	130	NA	50	normal	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Normal	233.3333333
+599	Klang	600	Phase1	5	steel	NA	0.6	51	60	80	95	70	85	50	440	60	NA	50	normal	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Normal	141.6666667
+599	Klinklang	601	Phase2	5	steel	NA	0.6	81	60	100	115	70	85	90	520	30	NA	50	normal	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Normal	225
+602	Tynamo	602	Base	5	electric	NA	0.2	0.3	35	55	40	45	40	60	275	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	7.5
+602	Eelektrik	603	Phase1	5	electric	NA	1.2	22	65	85	70	75	70	40	405	60	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	15.27777778
+602	Eelektross	604	Phase2	5	electric	NA	2.1	80.5	85	115	80	105	80	50	515	30	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	18.25396825
+605	Elgyem	605	Base	5	psychic	NA	0.5	9	55	55	55	85	55	30	335	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	36
+605	Beheeyem	606	Phase1	5	psychic	NA	1	34.5	75	75	75	125	95	40	485	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	34.5
+607	Litwick	607	Base	5	ghost	fire	0.3	3.1	50	30	55	65	55	20	275	190	50	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	34.44444444
+607	Lampent	608	Phase1	5	ghost	fire	0.6	13	60	40	60	95	60	55	370	90	50	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	36.11111111
+607	Chandelure	609	Phase2	5	ghost	fire	1	34.3	60	55	90	145	90	80	520	45	50	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	34.3
+610	Axew	610	Base	5	dragon	NA	0.6	18	46	87	60	30	40	57	320	75	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	50
+610	Fraxure	611	Phase1	5	dragon	NA	1	36	66	117	70	40	50	67	410	60	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	36
+610	Haxorus	612	Phase2	5	dragon	NA	1.8	105.5	76	147	90	60	70	97	540	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	32.5617284
+613	Cubchoo	613	Base	5	ice	NA	0.5	8.5	55	70	40	60	40	40	305	120	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	34
+613	Beartic	614	Phase1	5	ice	NA	2.6	260	95	130	80	70	80	50	505	60	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	38.46153846
+615	Cryogonal	615	NotEvolving	5	ice	NA	1.1	148	80	50	50	95	135	105	515	25	NA	50	normal	1	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Genderless	Normal	122.3140496
+616	Shelmet	616	Base	5	bug	NA	0.4	7.7	50	40	85	40	65	25	305	200	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	48.125
+616	Accelgor	617	Phase1	5	bug	NA	0.8	25.3	80	70	40	100	60	145	495	75	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	39.53125
+618	Stunfisk	618	NotEvolving	5	ground	electric	0.7	11	109	66	84	81	99	32	471	75	50	70	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Happy	22.44897959
+619	Mienfoo	619	Base	5	fighting	NA	0.9	20	45	85	50	55	50	65	350	180	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	24.69135802
+619	Mienshao	620	Phase1	5	fighting	NA	1.4	35.5	65	125	60	95	60	105	510	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	18.1122449
+621	Druddigon	621	NotEvolving	5	dragon	NA	1.6	139	77	120	90	60	90	48	485	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	54.296875
+622	Golett	622	Base	5	ground	ghost	1	92	59	74	50	35	50	35	303	190	NA	50	normal	1	Dual	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Normal	92
+622	Golurk	623	Phase1	5	ground	ghost	2.8	330	89	124	80	55	80	55	483	90	NA	50	normal	1	Dual	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Normal	42.09183673
+624	Pawniard	624	Base	5	dark	steel	0.5	10.2	45	85	70	40	40	60	340	120	50	35	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	40.8
+624	Bisharp	625	Phase1	5	dark	steel	1.6	70	65	125	100	60	70	70	490	45	50	35	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	27.34375
+626	Bouffalant	626	NotEvolving	5	normal	NA	1.6	94.6	95	110	95	40	95	55	490	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	36.953125
+627	Rufflet	627	Base	5	normal	flying	0.5	10.5	70	83	50	37	50	60	350	190	100	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Mostly males	Normal	42
+627	Braviary	628	Phase1	5	normal	flying	1.5	41	100	123	75	57	75	80	510	60	100	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Mostly males	Normal	18.22222222
+629	Vullaby	629	Base	5	dark	flying	0.5	9	70	55	75	45	65	60	370	190	0	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	Mostly females	Unhappy	36
+629	Mandibuzz	630	Phase1	5	dark	flying	1.2	39.5	110	65	105	55	95	80	510	60	0	35	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	Mostly females	Unhappy	27.43055556
+631	Heatmor	631	NotEvolving	5	fire	NA	1.4	58	85	97	66	105	66	65	484	90	50	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	29.59183673
+632	Durant	632	NotEvolving	5	bug	steel	0.3	33	58	109	112	48	48	109	484	90	50	50	normal	0	Dual	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	366.6666667
+633	Deino	633	Base	5	dark	dragon	0.8	17.3	52	65	50	45	50	38	300	45	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	Equal	Unhappy	27.03125
+633	Zweilous	634	Phase1	5	dark	dragon	1.4	50	72	85	70	65	70	58	420	45	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	Equal	Unhappy	25.51020408
+633	Hydreigon	635	Phase2	5	dark	dragon	1.8	160	92	105	90	125	90	98	600	45	50	35	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	Equal	Unhappy	49.38271605
+636	Larvesta	636	Base	5	bug	fire	1.1	28.8	55	85	55	50	55	60	360	45	50	50	normal	0	Dual	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	23.80165289
+636	Volcarona	637	Phase1	5	bug	fire	1.6	46	85	60	65	135	105	100	550	15	50	50	normal	0	Dual	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	17.96875
+638	Cobalion	638	NotEvolving	5	steel	fighting	2.1	250	91	90	129	90	72	108	580	3	NA	35	sub-legendary	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	56.6893424
+639	Terrakion	639	NotEvolving	5	rock	fighting	1.9	260	91	129	90	72	90	108	580	3	NA	35	sub-legendary	1	Dual	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	72.02216066
+640	Virizion	640	NotEvolving	5	grass	fighting	2	200	91	90	72	90	129	108	580	3	NA	35	sub-legendary	1	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	50
+641	Tornadus	641	NotEvolving	5	flying	NA	1.5	63	79	115	70	125	80	111	580	3	100	90	sub-legendary	0	Single	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Happy	28
+642	Thundurus	642	NotEvolving	5	electric	flying	1.5	61	79	115	70	125	80	111	580	3	100	90	sub-legendary	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	Mostly males	Happy	27.11111111
+643	Reshiram	643	NotEvolving	5	dragon	fire	3.2	330	100	120	100	150	120	90	680	3	NA	0	legendary	1	Dual	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	32.2265625
+644	Zekrom	644	NotEvolving	5	dragon	electric	2.9	345	100	150	120	120	100	90	680	3	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	41.02259215
+645	Landorus	645	NotEvolving	5	ground	flying	1.5	68	89	125	90	115	80	101	600	3	100	90	sub-legendary	0	Dual	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Happy	30.22222222
+646	Kyurem	646	NotEvolving	5	dragon	ice	3	325	125	130	90	130	90	95	660	3	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	36.11111111
+647	Keldeo	647	NotEvolving	5	water	fighting	1.4	48.5	91	72	90	129	90	108	580	3	NA	35	mythical	1	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	24.74489796
+648	Meloetta	648	NotEvolving	5	normal	psychic	0.6	6.5	100	77	77	128	128	90	600	3	NA	100	mythical	1	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Genderless	Happy	18.05555556
+649	Genesect	649	NotEvolving	5	bug	steel	1.5	82.5	71	120	95	120	95	99	600	3	NA	0	mythical	1	Dual	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	36.66666667
+650	Chespin	650	Base	6	grass	NA	0.4	9	56	61	65	48	45	38	313	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	56.25
+650	Quilladin	651	Phase1	6	grass	NA	0.7	29	61	78	95	56	58	57	405	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	59.18367347
+650	Chesnaught	652	Phase2	6	grass	fighting	1.6	90	88	107	122	74	75	64	530	45	87.5	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	35.15625
+653	Fennekin	653	Base	6	fire	NA	0.4	9.4	40	45	40	62	60	60	307	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	58.75
+653	Braixen	654	Phase1	6	fire	NA	1	14.5	59	59	58	90	70	73	409	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	14.5
+653	Delphox	655	Phase2	6	fire	psychic	1.5	39	75	69	72	114	100	104	534	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly males	Normal	17.33333333
+656	Froakie	656	Base	6	water	NA	0.3	7	41	56	40	62	44	71	314	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	77.77777778
+656	Frogadier	657	Phase1	6	water	NA	0.6	10.9	54	63	52	83	56	97	405	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	30.27777778
+656	Greninja	658	Phase2	6	water	dark	1.5	40	72	95	67	103	71	122	530	45	87.5	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Mostly males	Normal	17.77777778
+659	Bunnelby	659	Base	6	normal	NA	0.4	5	38	36	38	32	36	57	237	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	31.25
+659	Diggersby	660	Phase1	6	normal	ground	1	42.4	85	56	77	50	77	78	423	127	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	42.4
+661	Fletchling	661	Base	6	normal	flying	0.3	1.7	45	50	43	40	38	62	278	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	18.88888889
+661	Fletchinder	662	Phase1	6	fire	flying	0.7	16	62	73	55	56	52	84	382	120	50	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	32.65306122
+661	Talonflame	663	Phase2	6	fire	flying	1.2	24.5	78	81	71	74	69	126	499	45	50	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	17.01388889
+664	Scatterbug	664	Base	6	bug	NA	0.3	2.5	38	35	40	27	25	35	200	255	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	27.77777778
+664	Spewpa	665	Phase1	6	bug	NA	0.3	8.4	45	22	60	27	30	29	213	120	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	93.33333333
+664	Vivillon	666	Phase2	6	bug	flying	1.2	17	80	52	50	90	50	89	411	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	11.80555556
+667	Litleo	667	Base	6	fire	normal	0.6	13.5	62	50	58	73	54	72	369	220	12.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	37.5
+667	Pyroar	668	Phase1	6	fire	normal	1.5	81.5	86	68	72	109	66	106	507	65	12.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly females	Normal	36.22222222
+669	Flabebe	669	Base	6	fairy	NA	0.1	0.1	44	38	39	61	79	42	303	225	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	10
+669	Floette	670	Phase1	6	fairy	NA	0.2	0.9	54	45	47	75	98	52	371	120	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	22.5
+669	Florges	671	Phase2	6	fairy	NA	1.1	10	78	65	68	112	154	75	552	45	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	8.26446281
+672	Skiddo	672	Base	6	grass	NA	0.9	31	66	65	48	62	57	52	350	200	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	38.27160494
+672	Gogoat	673	Phase1	6	grass	NA	1.7	91	123	100	62	97	81	68	531	45	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	31.48788927
+674	Pancham	674	Base	6	fighting	NA	0.6	8	67	82	62	46	48	43	348	220	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	22.22222222
+674	Pangoro	675	Phase1	6	fighting	dark	2.1	136	95	124	78	69	71	58	495	65	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	Equal	Normal	30.83900227
+676	Furfrou	676	NotEvolving	6	normal	NA	1.2	28	75	80	60	65	90	102	472	160	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	19.44444444
+677	Espurr	677	Base	6	psychic	NA	0.3	3.5	62	48	54	63	60	68	355	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	38.88888889
+677	Meowstic	678	Phase1	6	psychic	NA	0.6	8.5	74	48	76	83	81	104	466	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	23.61111111
+679	Honedge	679	Base	6	steel	ghost	0.8	2	45	80	100	35	37	28	325	180	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	3.125
+679	Doublade	680	Phase1	6	steel	ghost	0.8	4.5	59	110	150	45	49	35	448	90	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	7.03125
+679	Aegislash	681	Phase2	6	steel	ghost	1.7	53	60	50	140	50	140	60	500	45	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	18.33910035
+682	Spritzee	682	Base	6	fairy	NA	0.2	0.5	78	52	60	63	65	23	341	200	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	12.5
+682	Aromatisse	683	Phase1	6	fairy	NA	0.8	15.5	101	72	72	99	89	29	462	140	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	24.21875
+684	Swirlix	684	Base	6	fairy	NA	0.4	3.5	62	48	66	59	57	49	341	200	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	21.875
+684	Slurpuff	685	Phase1	6	fairy	NA	0.8	5	82	80	86	85	75	72	480	140	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	7.8125
+686	Inkay	686	Base	6	dark	psychic	0.4	3.5	53	54	53	37	46	45	288	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	Equal	Normal	21.875
+686	Malamar	687	Phase1	6	dark	psychic	1.5	47	86	92	88	68	75	73	482	80	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	Equal	Normal	20.88888889
+688	Binacle	688	Base	6	rock	water	0.5	31	42	52	67	39	56	50	306	120	50	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	124
+688	Barbaracle	689	Phase1	6	rock	water	1.3	96	72	105	115	54	86	68	500	45	50	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	56.80473373
+690	Skrelp	690	Base	6	poison	water	0.5	7.3	50	60	60	60	60	30	320	225	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	29.2
+690	Dragalge	691	Phase1	6	poison	dragon	1.8	81.5	65	75	90	97	123	44	494	55	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	Equal	Normal	25.15432099
+692	Clauncher	692	Base	6	water	NA	0.5	8.3	50	53	62	58	63	44	330	225	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	33.2
+692	Clawitzer	693	Phase1	6	water	NA	1.3	35.3	71	73	88	120	89	59	500	55	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	20.88757396
+694	Helioptile	694	Base	6	electric	normal	0.5	6	44	38	33	61	43	70	289	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	Equal	Normal	24
+694	Heliolisk	695	Phase1	6	electric	normal	1	21	62	55	52	109	94	109	481	75	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	Equal	Normal	21
+696	Tyrunt	696	Base	6	rock	dragon	0.8	26	58	89	77	45	45	48	362	45	87.5	50	normal	0	Dual	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Mostly males	Normal	40.625
+696	Tyrantrum	697	Phase1	6	rock	dragon	2.5	270	82	121	119	69	59	71	521	45	87.5	50	normal	0	Dual	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Mostly males	Normal	43.2
+698	Amaura	698	Base	6	rock	ice	1.3	25.2	77	59	50	67	63	46	362	45	87.5	50	normal	0	Dual	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	14.9112426
+698	Aurorus	699	Phase1	6	rock	ice	2.7	225	123	77	72	99	92	58	521	45	87.5	50	normal	0	Dual	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	30.86419753
+133	Sylveon	700	Phase1	6	fairy	NA	1	23.5	95	65	65	110	130	60	525	45	87.5	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly males	Normal	23.5
+701	Hawlucha	701	NotEvolving	6	fighting	flying	0.8	21.5	78	92	75	74	63	118	500	100	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	Equal	Normal	33.59375
+702	Dedenne	702	NotEvolving	6	electric	fairy	0.2	2.2	67	58	57	81	67	101	431	180	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	Equal	Normal	55
+703	Carbink	703	NotEvolving	6	rock	fairy	0.3	5.7	50	50	150	50	150	50	500	60	NA	50	normal	1	Dual	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Genderless	Normal	63.33333333
+704	Goomy	704	Base	6	dragon	NA	0.3	2.8	45	50	35	55	75	40	300	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	31.11111111
+704	Sliggoo	705	Phase1	6	dragon	NA	0.8	17.5	68	75	53	83	113	60	452	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	27.34375
+704	Goodra	706	Phase2	6	dragon	NA	2	150.5	90	100	70	110	150	80	600	45	50	35	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Unhappy	37.625
+707	Klefki	707	NotEvolving	6	steel	fairy	0.2	3	57	80	91	80	87	75	470	75	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	75
+708	Phantump	708	Base	6	ghost	grass	0.4	7	43	70	48	50	60	38	309	120	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	43.75
+708	Trevenant	709	Phase1	6	ghost	grass	1.5	71	85	110	76	65	82	56	474	60	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	31.55555556
+710	Pumpkaboo	710	Base	6	ghost	grass	0.8	15	49	66	70	44	55	51	335	120	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	23.4375
+710	Gourgeist	711	Phase1	6	ghost	grass	1.7	39	65	90	122	58	75	84	494	60	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	13.49480969
+712	Bergmite	712	Base	6	ice	NA	1	99.5	55	69	85	32	35	28	304	190	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	99.5
+712	Avalugg	713	Phase1	6	ice	NA	2	505	95	117	184	44	46	28	514	55	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	126.25
+714	Noibat	714	Base	6	flying	dragon	0.5	8	40	30	35	45	40	55	245	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	Equal	Normal	32
+714	Noivern	715	Phase1	6	flying	dragon	1.5	85	85	70	80	97	80	123	535	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	Equal	Normal	37.77777778
+716	Xerneas	716	NotEvolving	6	fairy	NA	3	215	126	131	95	131	98	99	680	45	NA	0	legendary	1	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Genderless	Unhappy	23.88888889
+717	Yveltal	717	NotEvolving	6	dark	flying	5.8	203	126	131	95	131	98	99	680	45	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	Genderless	Unhappy	6.034482759
+718	Zygarde	718	NotEvolving	6	dragon	ground	5	284.6	108	100	121	81	95	95	600	3	NA	0	legendary	1	Dual	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	11.384
+719	Diancie	719	NotEvolving	6	rock	fairy	0.7	8.8	50	100	150	100	150	50	600	3	NA	50	mythical	1	Dual	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Genderless	Normal	17.95918367
+720	Hoopa	720	NotEvolving	6	psychic	ghost	0.5	9	80	110	60	150	130	70	600	3	NA	100	mythical	1	Dual	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	Genderless	Happy	36
+721	Volcanion	721	NotEvolving	6	fire	water	1.7	195	80	110	120	130	90	70	600	3	NA	100	mythical	1	Dual	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Happy	67.47404844
+722	Rowlet	722	Base	7	grass	flying	0.3	1.5	68	55	55	50	50	42	320	45	87.5	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Normal	16.66666667
+722	Dartrix	723	Phase1	7	grass	flying	0.7	16	78	75	75	70	70	52	420	45	87.5	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	Mostly males	Normal	32.65306122
+722	Decidueye	724	Phase2	7	grass	ghost	1.6	36.6	78	107	75	100	100	70	530	45	87.5	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Mostly males	Normal	14.296875
+725	Litten	725	Base	7	fire	NA	0.4	4.3	45	65	40	60	40	70	320	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	26.875
+725	Torracat	726	Phase1	7	fire	NA	0.7	25	65	85	50	80	50	90	420	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	51.02040816
+725	Incineroar	727	Phase2	7	fire	dark	1.8	83	95	115	90	80	90	60	530	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	Mostly males	Normal	25.61728395
+728	Popplio	728	Base	7	water	NA	0.4	7.5	50	54	54	66	56	40	320	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	46.875
+728	Brionne	729	Phase1	7	water	NA	0.6	17.5	60	69	69	91	81	50	420	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	48.61111111
+728	Primarina	730	Phase2	7	water	fairy	1.8	44	80	74	74	126	116	60	530	45	87.5	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly males	Normal	13.58024691
+731	Pikipek	731	Base	7	normal	flying	0.3	1.2	35	75	30	30	30	65	265	255	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	13.33333333
+731	Trumbeak	732	Phase1	7	normal	flying	0.6	14.8	55	85	50	40	50	75	355	120	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	41.11111111
+731	Toucannon	733	Phase2	7	normal	flying	1.1	26	80	120	75	75	75	60	485	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	21.48760331
+734	Yungoos	734	Base	7	normal	NA	0.4	6	48	70	30	30	30	45	253	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	37.5
+734	Gumshoos	735	Phase1	7	normal	NA	0.7	14.2	88	110	60	55	60	45	418	127	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	28.97959184
+736	Grubbin	736	Base	7	bug	NA	0.4	4.4	47	62	45	55	45	46	300	255	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	27.5
+736	Charjabug	737	Phase1	7	bug	electric	0.5	10.5	57	82	95	55	75	36	400	120	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	42
+736	Vikavolt	738	Phase2	7	bug	electric	1.5	45	77	70	90	145	75	43	500	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	20
+739	Crabrawler	739	Base	7	fighting	NA	0.6	7	47	82	57	42	47	63	338	225	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	19.44444444
+739	Crabominable	740	Phase1	7	fighting	ice	1.7	180	97	132	77	62	67	43	478	60	50	50	normal	0	Dual	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	Equal	Normal	62.28373702
+741	Oricorio	741	NotEvolving	7	fire	flying	0.6	3.4	75	70	70	98	70	93	476	45	25	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	Mostly females	Normal	9.444444444
+742	Cutiefly	742	Base	7	bug	fairy	0.1	0.2	40	45	40	55	40	84	304	190	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	20
+742	Ribombee	743	Phase1	7	bug	fairy	0.2	0.5	60	55	60	95	70	124	464	75	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	12.5
+744	Rockruff	744	Base	7	rock	NA	0.5	9.2	45	65	40	30	40	60	280	190	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	36.8
+744	Lycanroc	745	Phase1	7	rock	NA	0.8	25	75	115	65	55	65	112	487	90	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	39.0625
+746	Wishiwashi	746	NotEvolving	7	water	NA	0.2	0.3	45	20	20	25	25	40	175	60	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	7.5
+747	Mareanie	747	Base	7	poison	water	0.4	8	50	53	62	43	52	45	305	190	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	50
+747	Toxapex	748	Phase1	7	poison	water	0.7	14.5	50	63	152	53	142	35	495	75	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	29.59183673
+749	Mudbray	749	Base	7	ground	NA	1	110	70	100	70	45	55	45	385	190	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	110
+749	Mudsdale	750	Phase1	7	ground	NA	2.5	920	100	125	100	55	85	35	500	60	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	147.2
+751	Dewpider	751	Base	7	water	bug	0.3	4	38	40	52	40	72	27	269	200	50	50	normal	0	Dual	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	44.44444444
+751	Araquanid	752	Phase1	7	water	bug	1.8	82	68	70	92	50	132	42	454	100	50	50	normal	0	Dual	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	25.30864198
+753	Fomantis	753	Base	7	grass	NA	0.3	1.5	40	55	35	50	35	35	250	190	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	16.66666667
+753	Lurantis	754	Phase1	7	grass	NA	0.9	18.5	70	105	90	80	90	45	480	75	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	22.83950617
+755	Morelull	755	Base	7	grass	fairy	0.2	1.5	40	35	55	65	75	15	285	190	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	37.5
+755	Shiinotic	756	Phase1	7	grass	fairy	1	11.5	60	45	80	90	100	30	405	75	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	11.5
+757	Salandit	757	Base	7	poison	fire	0.6	4.8	48	44	40	71	40	77	320	120	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	Mostly males	Normal	13.33333333
+757	Salazzle	758	Phase1	7	poison	fire	1.2	22.2	68	64	60	111	60	117	480	45	0	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	Mostly females	Normal	15.41666667
+759	Stufful	759	Base	7	normal	fighting	0.5	6.8	70	75	50	45	50	50	340	140	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	Equal	Normal	27.2
+759	Bewear	760	Phase1	7	normal	fighting	2.1	135	120	125	80	55	60	60	500	70	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	Equal	Normal	30.6122449
+761	Bounsweet	761	Base	7	grass	NA	0.3	3.2	42	30	38	30	38	32	210	235	0	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	35.55555556
+761	Steenee	762	Phase1	7	grass	NA	0.7	8.2	52	40	48	40	48	62	290	120	0	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	16.73469388
+761	Tsareena	763	Phase2	7	grass	NA	1.2	21.4	72	120	98	50	98	72	510	45	0	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly females	Normal	14.86111111
+764	Comfey	764	NotEvolving	7	fairy	NA	0.1	0.3	51	52	90	82	110	100	485	60	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	30
+765	Oranguru	765	NotEvolving	7	normal	psychic	1.5	76	90	60	80	90	110	60	490	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Equal	Normal	33.77777778
+766	Passimian	766	NotEvolving	7	fighting	NA	2	82.8	100	120	90	40	60	80	490	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	20.7
+767	Wimpod	767	Base	7	bug	water	0.5	12	25	35	40	20	30	80	230	90	50	50	normal	0	Dual	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	48
+767	Golisopod	768	Phase1	7	bug	water	2	108	75	125	140	60	90	40	530	45	50	50	normal	0	Dual	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	27
+769	Sandygast	769	Base	7	ghost	ground	0.5	70	55	55	80	70	45	15	320	140	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	280
+769	Palossand	770	Phase1	7	ghost	ground	1.3	250	85	75	110	100	75	35	480	60	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	147.9289941
+771	Pyukumuku	771	NotEvolving	7	water	NA	0.3	1.2	55	60	130	30	130	5	410	60	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	13.33333333
+772	Type: Null	772	Base	7	normal	NA	1.9	120.5	95	95	95	95	95	59	534	3	NA	0	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Unhappy	33.37950139
+772	Silvally	773	Phase1	7	normal	NA	2.3	100.5	95	95	95	95	95	95	570	3	NA	0	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Unhappy	18.99810964
+774	Minior	774	NotEvolving	7	rock	flying	0.3	40	60	60	100	60	100	60	440	30	NA	50	normal	1	Dual	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Genderless	Normal	444.4444444
+775	Komala	775	NotEvolving	7	normal	NA	0.4	19.9	65	115	65	75	95	65	480	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	124.375
+776	Turtonator	776	NotEvolving	7	fire	dragon	2	212	60	78	135	91	85	36	485	70	50	50	normal	0	Dual	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	53
+777	Togedemaru	777	NotEvolving	7	electric	steel	0.3	3.3	65	98	63	40	73	96	435	180	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	36.66666667
+778	Mimikyu	778	NotEvolving	7	ghost	fairy	0.2	0.7	55	90	80	50	105	96	476	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	Equal	Normal	17.5
+779	Bruxish	779	NotEvolving	7	water	psychic	0.9	19	68	105	70	70	70	92	475	80	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	23.45679012
+780	Drampa	780	NotEvolving	7	normal	dragon	3	185	78	60	85	135	91	36	485	70	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Equal	Normal	20.55555556
+781	Dhelmise	781	NotEvolving	7	ghost	grass	3.9	210	70	131	100	86	90	40	517	25	NA	50	normal	1	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Normal	13.80670611
+782	Jangmo-o	782	Base	7	dragon	NA	0.6	29.7	45	55	65	45	45	45	300	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	82.5
+782	Hakamo-o	783	Phase1	7	dragon	fighting	1.2	47	55	75	90	65	70	65	420	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	Equal	Normal	32.63888889
+782	Kommo-o	784	Phase2	7	dragon	fighting	1.6	78.2	75	110	125	100	105	85	600	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	Equal	Normal	30.546875
+785	Tapu Koko	785	NotEvolving	7	electric	fairy	1.8	20.5	70	115	85	95	75	130	570	3	NA	50	sub-legendary	1	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	Genderless	Normal	6.327160494
+786	Tapu Lele	786	NotEvolving	7	psychic	fairy	1.2	18.6	70	85	75	130	115	95	570	3	NA	50	sub-legendary	1	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	Genderless	Normal	12.91666667
+787	Tapu Bulu	787	NotEvolving	7	grass	fairy	1.9	45.5	70	130	115	85	95	75	570	3	NA	50	sub-legendary	1	Dual	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	Genderless	Normal	12.60387812
+788	Tapu Fini	788	NotEvolving	7	water	fairy	1.3	21.2	70	75	115	95	130	85	570	3	NA	50	sub-legendary	1	Dual	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Genderless	Normal	12.5443787
+789	Cosmog	789	Base	7	psychic	NA	0.2	0.1	43	29	31	29	31	37	200	45	NA	0	legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	2.5
+789	Cosmoem	790	Phase1	7	psychic	NA	0.1	999.9	43	29	131	29	131	37	400	45	NA	0	legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	99990
+789	Solgaleo	791	Phase2	7	psychic	steel	3.4	230	137	137	107	113	89	97	680	45	NA	0	legendary	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	19.89619377
+789	Lunala	792	Phase2	7	psychic	ghost	4	120	137	113	89	137	107	97	680	45	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	Genderless	Unhappy	7.5
+793	Nihilego	793	NotEvolving	7	rock	poison	1.2	55.5	109	53	47	127	131	103	570	45	NA	0	sub-legendary	1	Dual	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Genderless	Unhappy	38.54166667
+794	Buzzwole	794	NotEvolving	7	bug	fighting	2.4	333.6	107	139	139	53	53	79	570	25	NA	0	sub-legendary	1	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	57.91666667
+795	Pheromosa	795	NotEvolving	7	bug	fighting	1.8	25	71	137	37	137	37	151	570	255	NA	0	sub-legendary	1	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	7.716049383
+796	Xurkitree	796	NotEvolving	7	electric	NA	3.8	100	83	89	71	173	71	83	570	30	NA	0	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	6.925207756
+797	Celesteela	797	NotEvolving	7	steel	flying	9.2	999.9	97	101	103	107	101	61	570	25	NA	0	sub-legendary	1	Dual	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Genderless	Unhappy	11.81356333
+798	Kartana	798	NotEvolving	7	grass	steel	0.3	0.1	59	181	131	59	31	109	570	255	NA	0	sub-legendary	1	Dual	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	1.111111111
+799	Guzzlord	799	NotEvolving	7	dark	dragon	5.5	888	223	101	53	97	53	43	570	15	NA	0	sub-legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	29.3553719
+800	Necrozma	800	NotEvolving	7	psychic	NA	2.4	230	97	107	101	127	89	79	600	3	NA	0	legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	39.93055556
+801	Magearna	801	NotEvolving	7	steel	fairy	1	80.5	80	95	115	130	115	65	600	3	NA	0	mythical	1	Dual	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Genderless	Unhappy	80.5
+802	Marshadow	802	NotEvolving	8	fighting	ghost	0.7	22.2	90	125	80	90	90	125	600	3	NA	0	mythical	1	Dual	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	Genderless	Unhappy	45.30612245
+803	Poipole	803	Base	8	poison	NA	0.6	1.8	67	73	67	73	67	73	420	45	NA	0	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Genderless	Unhappy	5
+803	Naganadel	804	Phase1	8	poison	dragon	3.6	150	73	73	73	127	73	121	540	45	NA	0	sub-legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	Genderless	Unhappy	11.57407407
+805	Stakataka	805	NotEvolving	8	rock	steel	5.5	820	61	131	211	53	101	13	570	30	NA	0	sub-legendary	1	Dual	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	27.10743802
+806	Blacephalon	806	NotEvolving	8	fire	ghost	1.8	13	53	127	53	151	79	107	570	30	NA	0	sub-legendary	1	Dual	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Unhappy	4.012345679
+807	Zeraora	807	NotEvolving	8	electric	NA	1.5	44.5	88	112	75	102	80	143	600	3	NA	0	mythical	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	19.77777778
+808	Meltan	808	Base	8	steel	NA	0.2	8	46	65	65	55	35	34	300	3	NA	0	mythical	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	200
+808	Melmetal	809	Phase1	8	steel	NA	2.5	800	135	143	143	80	65	34	600	3	NA	0	mythical	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	128
+810	Grookey	810	Base	8	grass	NA	0.3	5	50	65	50	40	40	65	310	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	55.55555556
+810	Thwackey	811	Phase1	8	grass	NA	0.7	14	70	85	70	55	60	80	420	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	28.57142857
+810	Rillaboom	812	Phase2	8	grass	NA	2.1	90	100	125	90	60	70	85	530	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	20.40816327
+813	Scorbunny	813	Base	8	fire	NA	0.3	4.5	50	71	40	40	40	69	310	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	50
+813	Raboot	814	Phase1	8	fire	NA	0.6	9	65	86	60	55	60	94	420	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	25
+813	Cinderace	815	Phase2	8	fire	NA	1.4	33	80	116	75	65	75	119	530	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	16.83673469
+816	Sobble	816	Base	8	water	NA	0.3	4	50	40	40	70	40	70	310	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	44.44444444
+816	Drizzile	817	Phase1	8	water	NA	0.7	11.5	65	60	55	95	55	90	420	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	23.46938776
+816	Inteleon	818	Phase2	8	water	NA	1.9	45.2	70	85	65	125	65	120	530	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	12.52077562
+819	Skwovet	819	Base	8	normal	NA	0.3	2.5	70	55	55	35	35	25	275	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	27.77777778
+819	Greedent	820	Phase1	8	normal	NA	0.6	6	120	95	95	55	75	20	460	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	16.66666667
+821	Rookidee	821	Base	8	flying	NA	0.2	1.8	38	47	35	33	35	57	245	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	45
+821	Corvisquire	822	Phase1	8	flying	NA	0.8	16	68	67	55	43	55	77	365	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	25
+821	Corviknight	823	Phase2	8	flying	steel	2.2	75	98	87	105	53	85	67	495	45	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	15.49586777
+824	Blipbug	824	Base	8	bug	NA	0.4	8	25	20	20	25	45	45	180	255	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	50
+824	Dottler	825	Phase1	8	bug	psychic	0.4	19.5	50	35	80	50	90	30	335	120	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	121.875
+824	Orbeetle	826	Phase2	8	bug	psychic	0.4	40.8	60	45	110	80	120	90	505	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	255
+827	Nickit	827	Base	8	dark	NA	0.6	8.9	40	28	28	47	52	50	245	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	24.72222222
+827	Thievul	828	Phase1	8	dark	NA	1.2	19.9	70	58	58	87	92	90	455	127	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	13.81944444
+829	Gossifleur	829	Base	8	grass	NA	0.4	2.2	40	40	60	40	60	10	250	190	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	13.75
+829	Eldegoss	830	Phase1	8	grass	NA	0.5	2.5	60	50	90	80	120	60	460	75	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	10
+831	Wooloo	831	Base	8	normal	NA	0.6	6	42	40	55	40	45	48	270	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	16.66666667
+831	Dubwool	832	Phase1	8	normal	NA	1.3	43	72	80	100	60	90	88	490	127	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	25.44378698
+833	Chewtle	833	Base	8	water	NA	0.3	8.5	50	64	50	38	38	44	284	255	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	94.44444444
+833	Drednaw	834	Phase1	8	water	rock	1	115.5	90	115	90	48	68	74	485	75	50	50	normal	0	Dual	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	115.5
+835	Yamper	835	Base	8	electric	NA	0.3	13.5	59	45	50	40	50	26	270	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	150
+835	Boltund	836	Phase1	8	electric	NA	1	34	69	90	60	90	60	121	490	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	34
+837	Rolycoly	837	Base	8	rock	NA	0.3	12	30	40	50	40	50	30	240	255	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	133.3333333
+837	Carkol	838	Phase1	8	rock	fire	1.1	78	80	60	90	60	70	50	410	120	50	50	normal	0	Dual	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	64.46280992
+837	Coalossal	839	Phase2	8	rock	fire	2.8	310.5	110	80	120	80	90	30	510	45	50	50	normal	0	Dual	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	39.60459184
+840	Applin	840	Base	8	grass	dragon	0.2	0.5	40	40	80	40	40	20	260	255	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	12.5
+840	Flapple	841	Phase1	8	grass	dragon	0.3	1	70	110	80	95	60	70	485	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	11.11111111
+840	Appletun	842	Phase1	8	grass	dragon	0.4	13	110	85	80	100	80	30	485	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	81.25
+843	Silicobra	843	Base	8	ground	NA	2.2	7.6	52	57	75	35	50	46	315	255	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	1.570247934
+843	Sandaconda	844	Phase1	8	ground	NA	3.8	65.5	72	107	125	65	70	71	510	120	50	50	normal	0	Single	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	4.53601108
+845	Cramorant	845	NotEvolving	8	flying	water	0.8	18	70	85	55	85	95	85	475	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	Equal	Normal	28.125
+846	Arrokuda	846	Base	8	water	NA	0.5	1	41	63	40	40	30	66	280	255	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	4
+846	Barraskewda	847	Phase1	8	water	NA	1.3	30	61	123	60	60	50	136	490	60	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	17.75147929
+848	Toxel	848	Base	8	electric	poison	0.4	11	40	38	35	54	35	40	242	75	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	Equal	Normal	68.75
+848	Toxtricity	849	Phase1	8	electric	poison	1.6	40	75	98	70	114	70	75	502	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	Equal	Normal	15.625
+850	Sizzlipede	850	Base	8	fire	bug	0.7	1	50	65	45	50	50	45	305	190	50	50	normal	0	Dual	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	2.040816327
+850	Centiskorch	851	Phase1	8	fire	bug	3	120	100	115	65	90	90	65	525	75	50	50	normal	0	Dual	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	13.33333333
+852	Clobbopus	852	Base	8	fighting	NA	0.6	4	50	68	60	50	50	32	310	180	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	11.11111111
+852	Grapploct	853	Phase1	8	fighting	NA	1.6	39	80	118	90	70	80	42	480	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	15.234375
+854	Sinistea	854	Base	8	ghost	NA	0.1	0.2	40	45	45	74	54	50	308	120	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Normal	20
+854	Polteageist	855	Phase1	8	ghost	NA	0.2	0.4	60	65	65	134	114	70	508	60	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Normal	10
+856	Hatenna	856	Base	8	psychic	NA	0.4	3.4	42	30	45	56	53	39	265	235	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly females	Normal	21.25
+856	Hattrem	857	Phase1	8	psychic	NA	0.6	4.8	57	40	65	86	73	49	370	120	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Mostly females	Normal	13.33333333
+856	Hatterene	858	Phase2	8	psychic	fairy	2.1	5.1	57	90	95	136	103	29	510	45	0	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	Mostly females	Normal	1.156462585
+859	Impidimp	859	Base	8	dark	fairy	0.4	5.5	45	45	30	55	40	50	265	255	100	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	Mostly males	Normal	34.375
+859	Morgrem	860	Phase1	8	dark	fairy	0.8	12.5	65	60	45	75	55	70	370	120	100	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	Mostly males	Normal	19.53125
+859	Grimmsnarl	861	Phase2	8	dark	fairy	1.5	61	95	120	65	95	75	60	510	45	100	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	Mostly males	Normal	27.11111111
+263	Obstagoon	862	Phase2	8	dark	normal	1.6	46	93	90	101	60	81	95	520	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	Equal	Normal	17.96875
+52	Perrserker	863	Phase1	8	steel	NA	0.8	28	70	110	100	50	60	50	440	90	50	50	normal	0	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	43.75
+222	Cursola	864	Phase1	8	ghost	NA	1	0.4	60	95	50	145	130	30	510	30	25	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Mostly females	Normal	0.4
+83	Sirfetch'd	865	Phase1	8	fighting	NA	0.8	117	62	135	95	68	82	65	507	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Equal	Normal	182.8125
+439	Mr. Rime	866	Phase1	8	ice	psychic	1.5	58.2	80	85	75	110	100	70	520	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	Equal	Normal	25.86666667
+562	Runerigus	867	Phase1	8	ground	ghost	1.6	66.6	58	95	145	50	105	30	483	90	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	26.015625
+868	Milcery	868	Base	8	fairy	NA	0.2	0.3	45	40	40	50	61	34	270	200	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	7.5
+868	Alcremie	869	Phase1	8	fairy	NA	0.3	0.5	65	60	75	110	121	64	495	100	0	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	5.555555556
+870	Falinks	870	NotEvolving	8	fighting	NA	3	62	65	100	100	70	60	75	470	45	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Genderless	Normal	6.888888889
+871	Pincurchin	871	NotEvolving	8	electric	NA	0.3	1	48	101	95	91	85	15	435	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	11.11111111
+872	Snom	872	Base	8	ice	bug	0.3	3.8	30	25	35	45	30	20	185	190	50	50	normal	0	Dual	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	42.22222222
+872	Frosmoth	873	Phase1	8	ice	bug	1.3	42	70	65	60	125	90	65	475	75	50	50	normal	0	Dual	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	24.85207101
+874	Stonjourner	874	NotEvolving	8	rock	NA	2.5	520	100	125	135	20	20	70	470	60	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	83.2
+875	Eiscue	875	NotEvolving	8	ice	NA	1.4	89	75	80	110	65	90	50	470	60	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	45.40816327
+876	Indeedee	876	NotEvolving	8	psychic	normal	0.9	28	60	65	55	105	95	95	475	30	50	140	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Equal	Happy	34.56790123
+877	Morpeko	877	NotEvolving	8	electric	dark	0.3	3	58	95	58	70	58	97	436	180	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	Equal	Normal	33.33333333
+878	Cufant	878	Base	8	steel	NA	1.2	100	72	80	49	40	49	40	330	190	50	50	normal	0	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	69.44444444
+878	Copperajah	879	Phase1	8	steel	NA	3	650	122	130	69	80	69	30	500	90	50	50	normal	0	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	72.22222222
+880	Dracozolt	880	NotEvolving	8	electric	dragon	1.8	190	90	100	90	80	70	75	505	45	NA	50	normal	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	Genderless	Normal	58.64197531
+881	Arctozolt	881	NotEvolving	8	electric	ice	2.3	150	90	100	90	90	80	55	505	45	NA	50	normal	1	Dual	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	Genderless	Normal	28.35538752
+882	Dracovish	882	NotEvolving	8	water	dragon	2.3	215	90	90	100	70	80	75	505	45	NA	50	normal	1	Dual	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Genderless	Normal	40.64272212
+883	Arctovish	883	NotEvolving	8	water	ice	2	175	90	90	100	80	90	55	505	45	NA	50	normal	1	Dual	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Genderless	Normal	43.75
+884	Duraludon	884	Base	8	steel	dragon	1.8	40	70	95	115	120	50	85	535	45	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	12.34567901
+885	Dreepy	885	Base	8	dragon	ghost	0.5	2	28	60	30	40	30	82	270	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	Equal	Normal	8
+885	Drakloak	886	Phase1	8	dragon	ghost	1.4	11	68	80	50	60	50	102	410	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	Equal	Normal	5.612244898
+885	Dragapult	887	Phase2	8	dragon	ghost	3	50	88	120	75	100	75	142	600	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	Equal	Normal	5.555555556
+888	Zacian	888	NotEvolving	8	fairy	NA	2.8	110	92	120	115	80	115	138	660	10	NA	0	legendary	1	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Genderless	Unhappy	14.03061224
+889	Zamazenta	889	NotEvolving	8	fighting	NA	2.9	210	92	120	115	80	115	138	660	10	NA	0	legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	24.97027348
+890	Eternatus	890	NotEvolving	8	poison	dragon	20	950	140	85	95	145	95	130	690	255	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	Genderless	Unhappy	2.375
+891	Kubfu	891	Base	8	fighting	NA	0.6	12	60	90	60	53	50	72	385	3	87.5	50	sub-legendary	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	33.33333333
+891	Urshifu	892	Phase1	8	fighting	dark	1.9	105	100	130	100	63	60	97	550	3	87.5	50	sub-legendary	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	Mostly males	Normal	29.08587258
+893	Zarude	893	NotEvolving	8	dark	grass	1.8	70	105	120	105	70	95	105	600	3	NA	0	mythical	1	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	21.60493827
+894	Regieleki	894	NotEvolving	8	electric	NA	1.2	145	80	100	50	100	50	200	580	3	NA	35	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	100.6944444
+895	Regidrago	895	NotEvolving	8	dragon	NA	2.1	200	200	100	50	100	50	80	580	3	NA	35	sub-legendary	1	Single	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	45.35147392
+896	Glastrier	896	NotEvolving	8	ice	NA	2.2	800	100	145	130	65	110	30	580	3	NA	35	sub-legendary	1	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	165.2892562
+897	Spectrier	897	NotEvolving	8	ghost	NA	2	44.5	100	65	60	145	80	130	580	3	NA	35	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Unhappy	11.125
+898	Calyrex	898	NotEvolving	8	psychic	grass	1.1	7.7	100	80	80	80	80	80	500	3	NA	100	legendary	1	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Happy	6.363636364
+234	Wyrdeer	899	Phase1	8	normal	psychic	1.8	95.1	103	105	72	105	75	65	525	45	50	70	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Equal	Happy	29.35185185
+123	Kleavor	900	Phase1	8	bug	rock	1.8	89	70	130	95	45	75	85	500	15	50	50	normal	0	Dual	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	27.4691358
+216	Ursaluna	901	Phase2	8	ground	normal	2.4	290	130	140	105	45	80	50	550	20	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	50.34722222
+550	Basculegion	902	Phase1	8	water	ghost	3	110	120	112	65	80	75	78	530	45	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	12.22222222
+215	Sneasler	903	Phase1	8	poison	fighting	1.3	43	80	130	60	40	80	120	510	20	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	Equal	Normal	25.44378698
+211	Overqwil	904	Phase1	8	dark	poison	2.5	60.5	85	115	95	65	65	85	510	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	Equal	Normal	9.68
+905	Enamorus	905	NotEvolving	8	fairy	flying	1.6	48	74	115	70	135	80	106	580	3	0	50	sub-legendary	0	Dual	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	Mostly females	Normal	18.75
+906	Sprigatito	906	Base	9	grass	NA	0.4	4.1	40	61	54	45	45	65	310	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	25.625
+906	Floragato	907	Phase1	9	grass	NA	0.9	12.2	61	80	63	60	63	83	410	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	15.0617284
+906	Meowscarada	908	Phase2	9	grass	dark	1.5	31.2	76	110	70	81	70	123	530	45	87.5	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	Mostly males	Normal	13.86666667
+909	Fuecoco	909	Base	9	fire	NA	0.4	9.8	67	45	59	63	40	36	310	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	61.25
+909	Crocalor	910	Phase1	9	fire	NA	1	30.7	81	55	78	90	58	49	411	45	87.5	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	30.7
+909	Skeledirge	911	Phase2	9	fire	ghost	1.6	326.5	104	75	100	110	75	66	530	45	87.5	50	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	Mostly males	Normal	127.5390625
+912	Quaxly	912	Base	9	water	NA	0.5	6.1	55	65	45	50	45	50	310	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	24.4
+912	Quaxwell	913	Phase1	9	water	NA	1.2	21.5	70	85	65	65	60	65	410	45	87.5	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	14.93055556
+912	Quaquaval	914	Phase2	9	water	fighting	1.8	61.9	85	120	80	85	75	85	530	45	87.5	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Mostly males	Normal	19.10493827
+915	Lechonk	915	Base	9	normal	NA	0.5	10.2	54	45	40	35	45	35	254	255	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	40.8
+915	Oinkologne	916	Phase1	9	normal	NA	1	120	110	100	75	59	80	65	489	100	100	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Mostly males	Normal	120
+917	Tarountula	917	Base	9	bug	NA	0.3	4	35	41	45	29	40	20	210	255	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	44.44444444
+917	Spidops	918	Phase1	9	bug	NA	1	16.5	60	79	92	52	86	35	404	120	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	16.5
+919	Nymble	919	Base	9	bug	NA	0.2	1	33	46	40	21	25	45	210	190	50	20	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Unhappy	25
+919	Lokix	920	Phase1	9	bug	dark	1	17.5	71	102	78	52	55	92	450	30	50	0	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	Equal	Unhappy	17.5
+921	Pawmi	921	Base	9	electric	NA	0.3	2.5	45	50	20	40	25	60	240	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	27.77777778
+921	Pawmo	922	Phase1	9	electric	fighting	0.4	6.5	60	75	40	50	40	85	350	80	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	Equal	Normal	40.625
+921	Pawmot	923	Phase2	9	electric	fighting	0.9	41	70	115	70	70	60	105	490	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	Equal	Normal	50.61728395
+924	Tandemaus	924	Base	9	normal	NA	0.3	1.8	50	50	45	40	45	75	305	150	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Normal	20
+924	Maushold	925	Phase1	9	normal	NA	0.3	2.8	74	75	70	65	75	111	470	75	NA	50	normal	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Genderless	Normal	31.11111111
+926	Fidough	926	Base	9	fairy	NA	0.3	10.9	37	55	70	30	55	65	312	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	121.1111111
+926	Dachsbun	927	Phase1	9	fairy	NA	0.5	14.9	57	80	115	50	80	95	477	90	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Equal	Normal	59.6
+928	Smoliv	928	Base	9	grass	normal	0.3	6.5	41	35	45	58	51	30	260	255	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	72.22222222
+928	Dolliv	929	Phase1	9	grass	normal	0.6	11.9	52	53	60	78	78	33	354	120	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	33.05555556
+928	Arboliva	930	Phase2	9	grass	normal	1.4	48.2	78	69	90	125	109	39	510	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	24.59183673
+931	Squawkabilly	931	NotEvolving	9	normal	flying	0.6	2.4	82	96	51	45	51	92	417	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	Equal	Normal	6.666666667
+932	Nacli	932	Base	9	rock	NA	0.4	16	55	55	75	35	35	25	280	255	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	100
+932	Naclstack	933	Phase1	9	rock	NA	0.6	105	60	60	100	35	65	35	355	120	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	291.6666667
+932	Garganacl	934	Phase2	9	rock	NA	2.3	240	100	100	130	45	90	35	500	45	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	45.36862004
+935	Charcadet	935	Base	9	fire	NA	0.6	10.5	40	50	40	50	40	35	255	90	50	50	normal	0	Single	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	29.16666667
+935	Armarouge	936	Phase1	9	fire	psychic	1.5	85	85	60	100	125	80	75	525	25	50	20	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Unhappy	37.77777778
+935	Ceruledge	937	Phase1	9	fire	ghost	1.6	62	75	125	80	60	100	85	525	25	50	20	normal	0	Dual	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Unhappy	24.21875
+938	Tadbulb	938	Base	9	electric	NA	0.3	0.4	61	31	41	59	35	45	272	190	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	4.444444444
+938	Bellibolt	939	Phase1	9	electric	NA	1.2	113	109	64	91	103	83	45	495	50	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Equal	Normal	78.47222222
+940	Wattrel	940	Base	9	electric	flying	0.4	3.6	40	40	35	55	40	70	280	180	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	Equal	Normal	22.5
+940	Kilowattrel	941	Phase1	9	electric	flying	1.4	38.6	70	70	60	105	60	125	490	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	Equal	Normal	19.69387755
+942	Maschiff	942	Base	9	dark	NA	0.5	16	60	78	60	40	51	51	340	150	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	64
+942	Mabosstiff	943	Phase1	9	dark	NA	1.1	61	80	120	90	60	70	85	505	75	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	50.41322314
+944	Shroodle	944	Base	9	poison	normal	0.2	0.7	40	65	35	40	35	75	290	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	Equal	Normal	17.5
+944	Grafaiai	945	Phase1	9	poison	normal	0.7	27.2	63	95	65	80	72	110	485	90	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	Equal	Normal	55.51020408
+946	Bramblin	946	Base	9	grass	ghost	0.6	0.6	40	65	30	45	35	60	275	190	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	1.666666667
+946	Brambleghast	947	Phase1	9	grass	ghost	1.2	6	55	115	70	80	70	90	480	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	4.166666667
+948	Toedscool	948	Base	9	ground	grass	0.9	33	40	40	35	50	100	70	335	190	50	50	normal	0	Dual	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	40.74074074
+948	Toedscruel	949	Phase1	9	ground	grass	1.9	58	80	70	65	80	120	100	515	90	50	50	normal	0	Dual	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	16.06648199
+950	Klawf	950	NotEvolving	9	rock	NA	1.3	79	70	100	115	35	55	75	450	120	50	50	normal	0	Single	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	46.74556213
+951	Capsakid	951	Base	9	grass	NA	0.3	3	50	62	40	62	40	50	304	190	50	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	33.33333333
+951	Scovillain	952	Phase1	9	grass	fire	0.9	15	65	108	65	108	65	75	486	75	50	50	normal	0	Dual	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	18.51851852
+953	Rellor	953	Base	9	bug	NA	0.2	1	41	50	60	31	58	30	270	190	50	50	normal	0	Single	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	25
+953	Rabsca	954	Phase1	9	bug	psychic	0.3	3.5	75	50	85	115	100	45	470	45	50	50	normal	0	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	38.88888889
+955	Flittle	955	Base	9	psychic	NA	0.2	1.5	30	35	30	55	30	75	255	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	37.5
+955	Espathra	956	Phase1	9	psychic	NA	1.9	90	95	60	60	101	60	105	481	60	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	24.93074792
+957	Tinkatink	957	Base	9	fairy	steel	0.4	8.9	50	45	45	35	64	58	297	190	0	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	55.625
+957	Tinkatuff	958	Phase1	9	fairy	steel	0.7	59.1	65	55	55	45	82	78	380	90	0	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	120.6122449
+957	Tinkaton	959	Phase2	9	fairy	steel	0.7	112.8	85	75	77	70	105	94	506	45	0	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Mostly females	Normal	230.2040816
+960	Wiglett	960	Base	9	water	NA	1.2	1.8	10	55	25	35	25	95	245	255	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	1.25
+960	Wugtrio	961	Phase1	9	water	NA	1.2	5.4	35	100	50	50	70	120	425	50	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	3.75
+962	Bombirdier	962	NotEvolving	9	flying	dark	1.5	42.9	70	103	85	60	85	82	485	25	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	Equal	Normal	19.06666667
+963	Finizen	963	Base	9	water	NA	1.3	60.2	70	45	40	45	40	75	315	200	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	35.62130178
+963	Palafin	964	Phase1	9	water	NA	1.3	60.2	100	70	72	53	62	100	457	45	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	35.62130178
+965	Varoom	965	Base	9	steel	poison	1	35	45	70	63	30	45	47	300	190	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	35
+965	Revavroom	966	Phase1	9	steel	poison	1.8	120	80	119	90	54	67	90	500	75	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	37.03703704
+967	Cyclizar	967	NotEvolving	9	dragon	normal	1.6	63	70	95	65	85	65	121	501	190	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	Equal	Normal	24.609375
+968	Orthworm	968	NotEvolving	9	steel	NA	2.5	310	70	85	145	60	55	65	480	25	50	50	normal	0	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	49.6
+969	Glimmet	969	Base	9	rock	poison	0.7	8	48	35	42	105	60	60	350	70	50	50	normal	0	Dual	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	16.32653061
+969	Glimmora	970	Phase1	9	rock	poison	1.5	45	83	55	90	130	81	86	525	25	50	50	normal	0	Dual	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	20
+971	Greavard	971	Base	9	ghost	NA	0.6	35	50	61	60	30	55	34	290	120	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	97.22222222
+971	Houndstone	972	Phase1	9	ghost	NA	2	15	72	101	100	50	97	68	488	60	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	3.75
+973	Flamigo	973	NotEvolving	9	flying	fighting	1.6	37	82	115	74	75	64	90	500	100	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	Equal	Normal	14.453125
+974	Cetoddle	974	Base	9	ice	NA	1.2	45	108	68	45	30	40	43	334	150	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	31.25
+974	Cetitan	975	Phase1	9	ice	NA	4.5	700	170	113	65	45	55	73	521	50	50	50	normal	0	Single	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Equal	Normal	34.56790123
+976	Veluza	976	NotEvolving	9	water	psychic	2.5	90	90	102	73	78	65	70	478	100	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Equal	Normal	14.4
+977	Dondozo	977	NotEvolving	9	water	NA	12	220	150	100	115	65	65	35	530	25	50	50	normal	0	Single	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Equal	Normal	1.527777778
+978	Tatsugiri	978	NotEvolving	9	dragon	water	0.3	8	68	50	60	120	95	82	475	100	50	50	normal	0	Dual	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	88.88888889
+56	Annihilape	979	Phase2	9	fighting	ghost	1.2	56	110	115	80	50	90	90	535	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	Equal	Normal	38.88888889
+194	Clodsire	980	Phase1	9	poison	ground	1.8	223	130	75	60	45	100	20	430	90	50	50	normal	0	Dual	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Equal	Normal	68.82716049
+203	Farigiraf	981	Phase1	9	normal	psychic	3.2	160	120	90	70	110	70	60	520	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	Equal	Normal	15.625
+206	Dudunsparce	982	Phase1	9	normal	NA	3.6	39.2	125	100	80	85	75	55	520	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	3.024691358
+624	Kingambit	983	Phase2	9	dark	steel	2	120	100	135	120	60	85	50	550	25	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Equal	Normal	30
+984	Great Tusk	984	NotEvolving	9	ground	fighting	2.2	320	115	131	131	53	53	87	570	30	NA	0	normal	1	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	66.11570248
+985	Scream Tail	985	NotEvolving	9	fairy	psychic	1.2	8	115	65	99	65	115	111	570	50	NA	0	normal	1	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	Genderless	Unhappy	5.555555556
+986	Brute Bonnet	986	NotEvolving	9	grass	dark	1.2	21	111	127	99	79	99	55	570	50	NA	0	normal	1	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	14.58333333
+987	Flutter Mane	987	NotEvolving	9	ghost	fairy	1.4	4	55	55	55	135	135	135	570	30	NA	0	normal	1	Dual	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	Genderless	Unhappy	2.040816327
+988	Slither Wing	988	NotEvolving	9	bug	fighting	3.2	92	85	135	79	85	105	81	570	30	NA	0	normal	1	Dual	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	8.984375
+989	Sandy Shocks	989	NotEvolving	9	electric	ground	2.3	60	85	81	97	121	85	101	570	30	NA	0	normal	1	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	11.34215501
+990	Iron Treads	990	NotEvolving	9	ground	steel	0.9	240	90	112	120	72	70	106	570	30	NA	0	normal	1	Dual	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	296.2962963
+991	Iron Bundle	991	NotEvolving	9	ice	water	0.6	11	56	80	114	124	60	136	570	50	NA	0	normal	1	Dual	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	30.55555556
+992	Iron Hands	992	NotEvolving	9	fighting	electric	1.8	380.7	154	140	108	50	68	50	570	50	NA	0	normal	1	Dual	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	Genderless	Unhappy	117.5
+993	Iron Jugulis	993	NotEvolving	9	dark	flying	1.3	111	94	80	86	122	80	108	570	30	NA	0	normal	1	Dual	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	Genderless	Unhappy	65.68047337
+994	Iron Moth	994	NotEvolving	9	fire	poison	1.2	36	80	70	60	140	110	110	570	30	NA	0	normal	1	Dual	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	Genderless	Unhappy	25
+995	Iron Thorns	995	NotEvolving	9	rock	electric	1.6	303	100	134	110	70	84	72	570	30	NA	0	normal	1	Dual	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	118.359375
+996	Frigibax	996	Base	9	dragon	ice	0.5	17	65	75	45	35	45	55	320	45	50	50	normal	0	Dual	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	Equal	Normal	68
+996	Arctibax	997	Phase1	9	dragon	ice	0.8	30	90	95	66	45	65	62	423	25	50	50	normal	0	Dual	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	Equal	Normal	46.875
+996	Baxcalibur	998	Phase2	9	dragon	ice	2.1	210	115	145	92	75	86	87	600	10	50	50	normal	0	Dual	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	Equal	Normal	47.61904762
+999	Gimmighoul	999	Base	9	ghost	NA	0.3	5	45	30	70	75	70	10	300	45	50	50	normal	0	Single	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Equal	Normal	55.55555556
+999	Gholdengo	1000	Phase1	9	steel	ghost	1.2	30	87	60	95	133	91	84	550	45	NA	0	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Unhappy	20.83333333
+1001	Wo-Chien	1001	NotEvolving	9	dark	grass	1.5	74.2	85	85	100	95	135	70	570	6	NA	0	sub-legendary	1	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	32.97777778
+1002	Chien-Pao	1002	NotEvolving	9	dark	ice	1.9	152.2	80	120	80	90	65	135	570	6	NA	0	sub-legendary	1	Dual	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	42.16066482
+1003	Ting-Lu	1003	NotEvolving	9	dark	ground	2.7	699.7	155	110	125	55	80	45	570	6	NA	0	sub-legendary	1	Dual	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	95.98079561
+1004	Chi-Yu	1004	NotEvolving	9	dark	fire	0.4	4.9	55	80	80	135	120	100	570	6	NA	0	sub-legendary	1	Dual	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	30.625
+1005	Roaring Moon	1005	NotEvolving	9	dragon	dark	2	380	105	139	71	55	101	119	590	10	NA	0	normal	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	95
+1006	Iron Valiant	1006	NotEvolving	9	fairy	fighting	1.4	35	74	130	90	120	60	116	590	10	NA	0	normal	1	Dual	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	Genderless	Unhappy	17.85714286
+1007	Koraidon	1007	NotEvolving	9	fighting	dragon	2.5	303	100	135	115	85	100	135	670	3	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	Genderless	Unhappy	48.48
+1008	Miraidon	1008	NotEvolving	9	electric	dragon	3.5	240	100	85	100	135	115	135	670	3	NA	0	legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	19.59183673
+1009	Walking Wake	1009	NotEvolving	9	water	dragon	3.5	280	99	83	91	125	83	109	590	5	NA	0	normal	1	Dual	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	22.85714286
+1010	Iron Leaves	1010	NotEvolving	9	grass	psychic	1.5	125	90	130	88	70	108	104	590	5	NA	0	normal	1	Dual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	55.55555556
+840	Dipplin	1011	Phase1	9	grass	dragon	0.4	4.4	80	80	110	95	80	40	485	45	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	27.5
+1012	Poltchageist	1012	Base	9	grass	ghost	0.1	1.1	40	45	45	74	54	50	308	120	NA	50	normal	1	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Normal	110
+1012	Sinistcha	1013	Phase1	9	grass	ghost	0.2	2.2	71	60	106	121	80	70	508	60	NA	50	normal	1	Dual	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Normal	55
+1014	Okidogi	1014	NotEvolving	9	poison	fighting	1.8	92.2	88	128	115	58	86	80	555	3	100	0	legendary	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	Mostly males	Unhappy	28.45679012
+1015	Munkidori	1015	NotEvolving	9	poison	psychic	1	12.2	88	75	66	130	90	106	555	3	100	0	legendary	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	Mostly males	Unhappy	12.2
+1016	Fezandipiti	1016	NotEvolving	9	poison	fairy	1.4	30.1	88	91	82	70	125	99	555	3	100	0	legendary	0	Dual	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	Mostly males	Unhappy	15.35714286
+1017	Ogerpon	1017	NotEvolving	9	poison	psychic	1.2	39.8	80	120	84	60	96	110	550	5	0	50	legendary	0	Dual	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	Mostly females	Normal	27.63888889
+884	Archaludon	1018	Phase1	9	steel	dragon	2	60	90	105	130	125	65	85	600	10	50	50	normal	0	Dual	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	15
+840	Hydrapple	1019	Phase2	9	grass	dragon	1.8	93	106	80	110	120	80	44	540	10	50	50	normal	0	Dual	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	Equal	Normal	28.7037037
+1020	Gouging Fire	1020	NotEvolving	9	fire	dragon	3.5	590	105	115	121	65	93	91	590	10	NA	0	normal	1	Dual	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	48.16326531
+1021	Raging Bolt	1021	NotEvolving	9	electric	dragon	5.2	480	125	73	91	137	89	75	590	10	NA	0	normal	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	17.75147929
+1022	Iron Boulder	1022	NotEvolving	9	rock	psychic	1.5	162.5	90	120	80	68	108	124	590	10	NA	0	normal	1	Dual	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	72.22222222
+1023	Iron Crown	1023	NotEvolving	9	steel	psychic	1.6	156	90	72	100	122	108	98	590	10	NA	0	normal	1	Dual	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	60.9375
+1024	Terapagos	1024	NotEvolving	9	normal	NA	0.2	6.5	90	65	85	65	85	60	450	255	50	50	legendary	0	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Equal	Normal	162.5
+1025	Pecharunt	1025	NotEvolving	9	poison	ghost	0.3	0.3	88	88	160	88	88	88	600	3	NA	0	mythical	1	Dual	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	Genderless	Unhappy	3.333333333

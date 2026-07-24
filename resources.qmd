@@ -17,21 +17,21 @@ Grip strength data set from the [SHARE project](https://share-eric.eu)
 
 <https://stratosida.github.io/longitudinal/>
 
-### Teaching a workflow for regression analyses: Pokemon case study
+### Teaching a workflow for regression analyses: Pokémon case study
 
-*1.\ Pokemon data*
+*1.\ Pokémon data*
 
--  [Pokemon data set - curated, format: tsv] (assets/Pokemon_clean.tsv)
+-  Curated [Data tsv](assets/Pokemon_clean.tsv)
 
--  [Pokemon data set - after IDA, format: Rdata] (assets/Pokemon_afterida.Rdata)
+-  Pokémon R data set after IDA [Rdata](assets/Pokemon_afterIDA.Rdata)
 
-- [Pokemon data set - data dictionary, format: xlsx] (assets/Pokemon_datadictionary.xlsx)
+-  Pokémon data dictionary [Dictionary xlsx](assets/Pokemon_datadictionary.xlsx)
 
 *2.\ Statistical analysis plan (SAP)*
 
-- SAP version 1
+- [SAP version 1](assets/SAP_v1_Pokemon.docx)
 
-- SAP version 2 -update after IDA
+- [SAP version 2 - updated after IDA](assets/SAP_v2_Pokemon.docx)
 
 *3.\ Initial data analysis (IDA) report* 
 

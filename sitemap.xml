@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://stratosida.github.io/index.html</loc>
-    <lastmod>2026-07-17T15:30:52.598Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/members.html</loc>
-    <lastmod>2026-07-17T15:30:52.598Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/about.html</loc>
-    <lastmod>2026-07-17T15:30:52.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/activities.html</loc>
-    <lastmod>2026-07-17T15:30:52.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/glossary.html</loc>
-    <lastmod>2026-07-17T15:30:52.598Z</lastmod>
+    <loc>https://stratosida.github.io/assets/sapi.html</loc>
+    <lastmod>2026-07-24T20:27:21.840Z</lastmod>
   </url>
   <url>
     <loc>https://stratosida.github.io/papers.html</loc>
-    <lastmod>2026-07-17T15:30:52.599Z</lastmod>
+    <lastmod>2026-07-24T20:27:21.841Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/activities.html</loc>
+    <lastmod>2026-07-24T20:27:21.831Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/members.html</loc>
+    <lastmod>2026-07-24T20:27:21.841Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/about.html</loc>
+    <lastmod>2026-07-24T20:27:21.831Z</lastmod>
   </url>
   <url>
     <loc>https://stratosida.github.io/sapi.html</loc>
-    <lastmod>2026-07-17T15:30:52.599Z</lastmod>
+    <lastmod>2026-07-24T20:27:21.841Z</lastmod>
   </url>
   <url>
     <loc>https://stratosida.github.io/resources.html</loc>
-    <lastmod>2026-07-17T15:30:52.599Z</lastmod>
+    <lastmod>2026-07-24T20:27:21.841Z</lastmod>
   </url>
   <url>
-    <loc>https://stratosida.github.io/assets/sapi.html</loc>
-    <lastmod>2026-07-17T15:30:52.598Z</lastmod>
+    <loc>https://stratosida.github.io/glossary.html</loc>
+    <lastmod>2026-07-24T20:27:21.841Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/index.html</loc>
+    <lastmod>2026-07-24T20:27:21.841Z</lastmod>
   </url>
 </urlset>

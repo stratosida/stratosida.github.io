@@ -35,7 +35,7 @@ Grip strength data set from the [SHARE project](https://share-eric.eu)
 
 *3.\ Initial data analysis (IDA) report* 
 
-- IDA report - [html](assets/Pokemon_IDA_main.html)
+- IDA report - <https://stratosida.github.io/casestudy_pokemon/>
 
 - IDA report - [R markdown](assets/Pokemon_IDA_main.Rmd)
 

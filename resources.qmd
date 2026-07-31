@@ -35,21 +35,15 @@ Grip strength data set from the [SHARE project](https://share-eric.eu)
 
 *3.\ Initial data analysis (IDA) report* 
 
-- IDA report - html
+- IDA report - [html](assets/Pokemon_IDA_main.html)
 
-- IDA report - quarto
+- IDA report - [R markdown](assets/Pokemon_IDA_main.Rmd)
 
-
--  IDA additional investigations - html
-
-- IDA additional investigations - quarto
 
 *4.\  Regression analysis report -main data analysis (MDA)*
 
 -  MDA report - html
 
--  MDA report - quarto
+-  MDA report - R markdown
 
--  MDA additional investigations - html
 
--  MDA additional investigations - quarto

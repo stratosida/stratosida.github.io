@@ -39,11 +39,19 @@ Grip strength data set from the [SHARE project](https://share-eric.eu)
 
 - [IDA report -- R markdown (download)](https://stratosida.github.io/case_pokemon/Pokemon_IDA_main.Rmd)
 
+- [Additional IDA  -- html](https://stratosida.github.io/case_pokemon/Pokemon_IDA_additional.html)
+
+- [Additional IDA -- R markdown (download)](https://stratosida.github.io/case_pokemon/Pokemon_IDA_additional.Rmd)
+
 
 *4.\  Regression analysis report -main data analysis (MDA)*
 
 - [MDA report -- html](https://stratosida.github.io/case_pokemon/Pokemon_regression_main.html)
 
 - [MDA report -- R markdown (download)](https://stratosida.github.io/case_pokemon/Pokemon_regression_main.Rmd)
+
+- [Additional MDA -- html](https://stratosida.github.io/case_pokemon/Pokemon_regression_additional.html)
+
+- [Additional MDA -- R markdown (download)](https://stratosida.github.io/case_pokemon/Pokemon_regression_additional.Rmd)
 
 

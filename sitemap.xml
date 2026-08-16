@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://stratosida.github.io/assets/sapi.html</loc>
-    <lastmod>2026-08-01T21:04:34.259Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/papers.html</loc>
-    <lastmod>2026-08-01T21:04:34.259Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/activities.html</loc>
-    <lastmod>2026-08-01T21:04:34.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/members.html</loc>
-    <lastmod>2026-08-01T21:04:34.259Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/about.html</loc>
-    <lastmod>2026-08-01T21:04:34.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/sapi.html</loc>
-    <lastmod>2026-08-01T21:04:34.259Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stratosida.github.io/resources.html</loc>
-    <lastmod>2026-08-01T21:04:34.259Z</lastmod>
-  </url>
-  <url>
     <loc>https://stratosida.github.io/glossary.html</loc>
-    <lastmod>2026-08-01T21:04:34.259Z</lastmod>
+    <lastmod>2026-08-16T17:36:24.517Z</lastmod>
   </url>
   <url>
     <loc>https://stratosida.github.io/index.html</loc>
-    <lastmod>2026-08-01T21:04:34.259Z</lastmod>
+    <lastmod>2026-08-16T17:36:24.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/sapi.html</loc>
+    <lastmod>2026-08-16T17:36:24.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/members.html</loc>
+    <lastmod>2026-08-16T17:36:24.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/papers.html</loc>
+    <lastmod>2026-08-16T17:36:24.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/activities.html</loc>
+    <lastmod>2026-08-16T17:36:24.508Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/about.html</loc>
+    <lastmod>2026-08-16T17:36:24.508Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/resources.html</loc>
+    <lastmod>2026-08-16T17:36:24.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stratosida.github.io/assets/sapi.html</loc>
+    <lastmod>2026-08-16T17:36:24.517Z</lastmod>
   </url>
 </urlset>

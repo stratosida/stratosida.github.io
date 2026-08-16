@@ -1,0 +1,32 @@
+---
+title: "SAPI Statement"
+---
+
+### Scope
+
+The Statistical Analysis Plan for observational studies with an Initial data analysis plan (SAPI) statement consists of a 27-item checklist and an expanded checklist that details recommendations for each item.
+
+SAPI guides researchers and analysts in the development of a statistical analysis plan for observational studies that incorporates a systematic process for initial data analysis. It can be used to develop analysis plans for many types of research objectives.
+
+There is a large variation in practices for statistical analysis plans for observational studies. Initial data analysis is often conducted unsystematically and incompletely. A plan to account for these is often not included in a statistical analysis plan and may result in non-transparent, ad hoc decisions about changes in analyses.
+
+SAPI promotes transparency, reproducibility, integrity, and interpretability of analysis results.
+
+
+### SAPI Checklist
+
+SAPI expanded checklist: [Word](assets/SAPI_checklist_final.docx) or [HTML](sapi.qmd)
+
+
+### Examples of statistical analysis plans [Links to be added]
+
+Longitudinal study to estimate grip strength (SHARE):  SAP v1, SAP v2
+
+Cross-sectional study to predtict bacteremia (data): SAP v1, SAP v2
+
+Longitudinal study to estimate learning curves (VQI registry): SAP v1
+
+
+### Translations
+
+-- German in progress--

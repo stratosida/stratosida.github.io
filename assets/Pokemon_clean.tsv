@@ -800,14 +800,14 @@ PokemonID	name	pokedex_number	PokemonPhase_5cat	generation	type1	type2	height_m	
 799	Guzzlord	799	NotEvolving	7	dark	dragon	5.5	888	223	101	53	97	53	43	570	15	NA	0	sub-legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	Genderless	Unhappy	29.3553719
 800	Necrozma	800	NotEvolving	7	psychic	NA	2.4	230	97	107	101	127	89	79	600	3	NA	0	legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Genderless	Unhappy	39.93055556
 801	Magearna	801	NotEvolving	7	steel	fairy	1	80.5	80	95	115	130	115	65	600	3	NA	0	mythical	1	Dual	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	Genderless	Unhappy	80.5
-802	Marshadow	802	NotEvolving	8	fighting	ghost	0.7	22.2	90	125	80	90	90	125	600	3	NA	0	mythical	1	Dual	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	Genderless	Unhappy	45.30612245
-803	Poipole	803	Base	8	poison	NA	0.6	1.8	67	73	67	73	67	73	420	45	NA	0	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Genderless	Unhappy	5
-803	Naganadel	804	Phase1	8	poison	dragon	3.6	150	73	73	73	127	73	121	540	45	NA	0	sub-legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	Genderless	Unhappy	11.57407407
-805	Stakataka	805	NotEvolving	8	rock	steel	5.5	820	61	131	211	53	101	13	570	30	NA	0	sub-legendary	1	Dual	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	27.10743802
-806	Blacephalon	806	NotEvolving	8	fire	ghost	1.8	13	53	127	53	151	79	107	570	30	NA	0	sub-legendary	1	Dual	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Unhappy	4.012345679
-807	Zeraora	807	NotEvolving	8	electric	NA	1.5	44.5	88	112	75	102	80	143	600	3	NA	0	mythical	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	19.77777778
-808	Meltan	808	Base	8	steel	NA	0.2	8	46	65	65	55	35	34	300	3	NA	0	mythical	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	200
-808	Melmetal	809	Phase1	8	steel	NA	2.5	800	135	143	143	80	65	34	600	3	NA	0	mythical	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	128
+802	Marshadow	802	NotEvolving	7	fighting	ghost	0.7	22.2	90	125	80	90	90	125	600	3	NA	0	mythical	1	Dual	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	Genderless	Unhappy	45.30612245
+803	Poipole	803	Base	7	poison	NA	0.6	1.8	67	73	67	73	67	73	420	45	NA	0	sub-legendary	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	Genderless	Unhappy	5
+803	Naganadel	804	Phase1	7	poison	dragon	3.6	150	73	73	73	127	73	121	540	45	NA	0	sub-legendary	1	Dual	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	Genderless	Unhappy	11.57407407
+805	Stakataka	805	NotEvolving	7	rock	steel	5.5	820	61	131	211	53	101	13	570	30	NA	0	sub-legendary	1	Dual	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	27.10743802
+806	Blacephalon	806	NotEvolving	7	fire	ghost	1.8	13	53	127	53	151	79	107	570	30	NA	0	sub-legendary	1	Dual	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	Genderless	Unhappy	4.012345679
+807	Zeraora	807	NotEvolving	7	electric	NA	1.5	44.5	88	112	75	102	80	143	600	3	NA	0	mythical	1	Single	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Genderless	Unhappy	19.77777778
+808	Meltan	808	Base	7	steel	NA	0.2	8	46	65	65	55	35	34	300	3	NA	0	mythical	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	200
+808	Melmetal	809	Phase1	7	steel	NA	2.5	800	135	143	143	80	65	34	600	3	NA	0	mythical	1	Single	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Genderless	Unhappy	128
 810	Grookey	810	Base	8	grass	NA	0.3	5	50	65	50	40	40	65	310	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	55.55555556
 810	Thwackey	811	Phase1	8	grass	NA	0.7	14	70	85	70	55	60	80	420	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	28.57142857
 810	Rillaboom	812	Phase2	8	grass	NA	2.1	90	100	125	90	60	70	85	530	45	87.5	50	normal	0	Single	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Mostly males	Normal	20.40816327

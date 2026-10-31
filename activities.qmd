@@ -24,6 +24,8 @@ Project status: **ACTIVE, Paper submitted**
 
 4.\  [Documentation of Delphi process](https://doi.org/10.17605/OSF.IO/ZFJAH)
 
+5.\  Examples of statistical analysis plans: [Gripstrength SAP v1](assets/gripstrength_SAP_v1.docx), [Gripstrength SAP v2](assets/gripstrength_SAP_v2.docx)
+
 
 
 ## Incorporating IDA in courses on statistics
